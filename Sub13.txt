@@ -3,11 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🏴‍☠️@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=/?BIA_V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc#r♡ya
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:tik7net_vpn - 🇱🇹 ⚡ |
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2RAYROZ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&type=grpc#🏴‍☠️@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=none&encryption=none&type=grpc#VayNora
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
@@ -346,7 +349,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/?ed=2048&se
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@HiByeVPNN👈⚡❤️‍🔥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3,h2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#@HiByeVPNN👈⚡❤️‍🔥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@HiByeVPNN👈⚡❤️‍🔥
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=/&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#🇳🇱@FreakConfig
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&security=tls&sni=D0dTpVg4Z3.sOlEnTrAa.InFo&alpn=h3,h2&fp=chrome&type=ws&host=D0dTpVg4Z3.sOlEnTrAa.InFo&path=/#✅ @vistav2ray  👈👈کانال ما
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&security=tls&sni=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&host=D0dTpVg4Z3.sOlEnTrAa.InFo&path=/#@Daily_Configs
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&path=/#@Daily_Configs
@@ -489,7 +491,6 @@ vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?type=xhtt
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?type=xhttp&mode=stream-one&path=/xhttp&security=none#Telegram@FREE_VPN02  حجم نامحدود زمان نامشخص ✅  خرید سرور اختصاصی
 vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f037595d-0603-4994-c497-b91196e7a329@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-myzc1g2z
-vless://f0497a1b-187e-4ee0-d764-7fa8eec808c7@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-5litub0c
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-au2-cdn.upload-center.org&fp=chrome&type=ws#🇦🇪@AZARBAYJAB1
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-ca2-cdn.upload-center.org&fp=chrome&type=ws#🇨🇦@AZARBAYJAB1
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-fr2-cdn.upload-center.org&fp=chrome&type=ws#🇫🇷@AZARBAYJAB1
@@ -502,4 +503,3 @@ vless://f0e9e15a-73be-4e1a-99cd-01bb501de7c8@de77.NaNvaiIiSaEEdd.iR:1615?securit
 vless://f0fa07bb-fda3-43fc-9930-361444e05a9a@91.98.175.72:42671?type=tcp&encryption=none&security=none#t.me/entryNET/config=1845705585813225
 vless://f13e82ba-618f-4b5e-badf-c87d79217639@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#@awlix_ir
-vless://f161660b-0377-41e7-fde8-80699367b518@www.speedtest.net:2095?path=/TELEGRAM_BYA_CHANEL_v2ray_configs_pools?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=httpupgrade#telegram 🌈 v2ray_configs_pools
