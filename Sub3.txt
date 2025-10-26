@@ -290,7 +290,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#All--@Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#All-@V2rayAlpha--2
@@ -503,3 +502,4 @@ trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:20985?sni=sale.alib
 trojan://740628@136.175.177.136:8000?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=cestbon&sni=sj.cestbon.work#All-@V2rayAlpha--11
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#MCI-@V2rayAlpha--5
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011/?type=tcp&security=tls&sni=wus01.weyaf9sdoh2h.space#تو کانال نتورلد نباشید قطع میشن@networld_vpn
