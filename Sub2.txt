@@ -138,20 +138,24 @@ ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%
 trojan://2274c52572e721086f8bd8f88984643c@58.152.110.9:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@203.198.122.97:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@219.77.239.35:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://50a99183-2543-40bd-98a2-12bbc6ecf882@118.253.166.237:49213?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@oshk02.mynode.me:2000#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
-trojan://BxceQaOe@36.150.215.246:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://2274c52572e721086f8bd8f88984643c@160.16.214.6:4095?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7Ug5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzUuMjkuMjIuMTAxIiwgInBvcnQiOiAyODAxNiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQyNTQwMzI1LTlhZDYtMzNkNy1iZTg2LTI1OWI1YmJhNGVmOCJ9
-trojan://2274c52572e721086f8bd8f88984643c@160.16.106.144:2760?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://2274c52572e721086f8bd8f88984643c@160.16.106.144:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.158:8388#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJvbmVjYXQtanAuMDNlemhnMHFzYS5kb3dubG9hZCIsICJwb3J0IjogMjUwMDcsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2OTc0OTI5OC02ODIxLTMzNTgtYjZkMy0xZDE4ZDg2NDJjYmEifQ==
+trojan://BxceQaOe@36.150.215.246:4011?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7Ug5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMTQuOTguMTgzLjYxIiwgInBvcnQiOiA0NzA4MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImIzZmEwNzBmLTU1MTEtNDhiZS05MzRiLWY2MzJmNmI4YTdjNyJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cg6Z+p5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExNC45OC4xODMuNjEiLCAicG9ydCI6IDQ3MDkzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjNmYTA3MGYtNTUxMS00OGJlLTkzNGItZjYzMmY2YjhhN2M3In0=
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://BxceQaOe@116.49.237.130:2753?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://2274c52572e721086f8bd8f88984643c@160.16.68.250:2890?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.107.37:4211?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://2274c52572e721086f8bd8f88984643c@117.172.176.25:4054?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@36.150.215.243:19220?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://BxceQaOe@116.49.237.130:4094?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.9.17.198:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
-vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzUuMjkuMjIuMTAxIiwgInBvcnQiOiAiMjgwMTYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDI1NDAzMjUtOWFkNi0zM2Q3LWJlODYtMjU5YjViYmE0ZWY4IiwgInNuaSI6ICIifQ==
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@103.149.182.158:8388#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJvbmVjYXQtanAuMDNlemhnMHFzYS5kb3dubG9hZCIsICJwb3J0IjogIjI1MDA3IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjY5NzQ5Mjk4LTY4MjEtMzM1OC1iNmQzLTFkMThkODY0MmNiYSIsICJzbmkiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMTQuOTguMTgzLjYxIiwgInBvcnQiOiAiNDcwODMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjNmYTA3MGYtNTUxMS00OGJlLTkzNGItZjYzMmY2YjhhN2M3IiwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6Z+p5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExNC45OC4xODMuNjEiLCAicG9ydCI6ICI0NzA5MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiM2ZhMDcwZi01NTExLTQ4YmUtOTM0Yi1mNjMyZjZiOGE3YzciLCAic25pIjogIiJ9
 trojan://88701884-7690-4b79-ac5d-36d299e05e83@34.22.190.30:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#BE_speednode_0001
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81#IL_speednode_0008
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@ges.jykvpn.com:443?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IQ_speednode_0010
@@ -164,10 +168,7 @@ trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=
 trojan://edeff73d-065d-4b0a-b848-aad9d3380223@77.221.141.207:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.221.141.207=443#SE_speednode_0020
 vless://bc4ee22b-87f5-4bc0-b0f5-3cd802d716e2@br.pouriau.com:2052?allowInsecure=0&sni=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung2.bonyadedocker.ir.2.xziba.com.&type=ws&host=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung2.bonyadedocker.ir.2.xziba.com.&path=/---ping---www.speedtest.net?ed=2080#US_speednode_0025
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@oshk02.mynode.me:2000?plugin=obfs-local;obfs=http;obfs-host=31832-qOf3ahM8.download.microsoft.com#%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
-#vÌ ¼­ÇÈ`sÃf©cH¶I­Ô4f6öWk¦µîîyµÂ4Ä :uAbþå_¾º¥ÜãÂ²²ëâc«îJÿbZ-óxû
-ïC ëÿªù	­ÅriMÍ¼¾þT<¸Ü²@ÍóÞ¶±|­ß7T;Z¿Þ¦¢õöúÖ}:jq|RíÄ¥Sq`=ºÂÑri2EkÐ±1©´IâÒÒæéâÏñG
-,MÔÐ<,J.kþKÍ4.T\üa³-qÕ@</=Xê2^Á\l%>©¿xO"ç&Þ×^ÜmN<Ñ°«Ü°·7d=y¬ì|oªþ^ C.[R¨W§G»%bévAöFúÓôÌ9Có	Óò¸£Èz² Lª ÚáLHí¹vìÎKÌªyO7µþ6=2Z4Þúw8|SãV{îôFuè·0åæ~<
+vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443/?type=tcp&encryption=none&flow=&security=tls&sni=dmt.app-browser.org&allowInsecure=1#%F0%9F%A7%B834%40oneclickvpnkeys
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHByb3h5X2thZmVl8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJveHlfa2FmZWXwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -308,7 +309,6 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?securi
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@V2rayAlpha--9
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#MCi--@IRAN_V2RAY1
 hysteria2://6202ab997f570a6a180ae980b41f5789@dir.lightnright.com:989?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=jnir-x.pichondan.com#r♡ya
-hysteria2://6202ab997f570a6a180ae980b41f5789@dir.lightnright.com:989?sni=jnir-x.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0#🔷🆔@v2ray_configs_pool🔷
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@V2rayAlpha--7
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@V2rayAlpha--8
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@IRAN_V2RAY1
@@ -347,7 +347,6 @@ hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?security=tls&obfs=salamander&obfs-pa
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?security=tls&obfs=salamander&obfs-password=bluhbluh&insecure=1#@V2rayNG3
 hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@meli_proxyy
 hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
-hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2rayNG3
@@ -357,20 +356,16 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#WiFi-@V2ray_Alpha--1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--@V2rayAlpha--8
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Selinc
-hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--14
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@Hddify
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@Selinc
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#Join Sho : @IRAN_V2RAY1
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#@Daily_Configs
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&obfs=salamander&obfs-password=khameniiko@smad@ret&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=🔒 [By EbraSha]&obfs=salamander&obfs-password=khameniiko@smad@ret&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
@@ -379,7 +374,7 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#MCI-@IRAN_V2RAY1
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
-hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1#🔷🆔@v2ray_configs_pool🔷
+hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=🔒 [By EbraSha]&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#@V2rayNG3
@@ -397,10 +392,10 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=jnir.pic
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All--@V2ray_Alpha-6
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All--@V2ray_Alpha-5
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#MTN--@IRAN_V2RAY1
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#@meli_proxyy
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#🇳🇱@FreakConfig
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
-hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?security=tls&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii&insecure=1&sni=ghasem.kotlet.org#All-@V2rayAlpha--17
 ss://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@Mrconfig_Channel 🩵
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#@HiByeVPNNBot 👈🌿💎
@@ -423,7 +418,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#telegram 🎯 v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#@V2ray_confing33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#All-@V2rayAlpha--4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXJPV3Q5N0xUQXpoZ3VtMGZDTDFw@91.194.160.151:1235#@HiByeVPNNBot✨❤️‍🔥💥
@@ -455,7 +449,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZWMzMTczZC00OWFkLTQ5YzktOTViYS05NjMxZGY4Yzc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3emU1M1NucmxvU0hIaE5TZ0wxQ2Z3@91.107.172.48:1080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzI2OTc4NzQ3VTAzN0NCOU1LRFE=@195.35.113.79:443#🇳🇱@vpnserverrr کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzI2OTc4NzQ3VTAzN0NCOU1LRFE=@195.35.113.79:443?type=tcp#🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NXFKNHdqSGhQYlZOeFdLVDFtSm5F@46.246.98.39:55818#🇸🇪Telegram:@tik7net_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NXFKNHdqSGhQYlZOeFdLVDFtSm5F@46.246.98.39:55818#🏴‍☠️@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjAzOWI3MS1iYTgyLTRjYTgtODM4ZS04NzA4NmFlNjY2ZGU=@107.175.87.207:10011#🇺🇸7@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RGl1Y1Y5Tll6dkdTV0NmTi1lTVJR@46.62.214.228:1080#All---@IRAN_V2RAY1
@@ -487,7 +480,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#All-@V2ray_Alpha--1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#MTN-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#IR-@V2ray_Alpha--1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#IR-@V2ray_Alpha--3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#@V2rayNG3
@@ -496,10 +488,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZWY5akd2QXl6WExMbmpzc1JGcjhN@94.228.169.114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjhqZE9JS2t4UldNVWVPZlhQZW84@109.107.172.30:28190#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#✅ @v2ray_configs_pools (تلگرام)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUdwcW1mbFVVSkh0QlVwcTRpQ1Vm@134.255.210.209:8443#All-@V2rayAlpha--8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@backup.fleetfoxi.link:44884#@HiByeVPNNBot✨❤️‍🔥💥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3p0czZ1Q0hNQWNTeHZPY2xuU1FR@103.35.190.211:55672#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToya0NiemhFMXg5TThtZnF6REVCZXlM@89.185.84.185:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#🇩🇪24@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#All-@V2rayAlpha--3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#https://t.me/Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#All--@V2rayAlpha--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#All-@V2ray_Alpha--40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@Mrconfig_Channel 🩵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@V2rayNG3
