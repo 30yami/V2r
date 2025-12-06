@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&spx=/--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&type=tcp&sni=dl.google.com&sid=0ecc2c1392#https://t.me/v2raynplus |🇦🇱
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@Maznet-46196-2
 vless://7e33497e-c7ea-45b6-aae6-da09234fda95@63.141.128.13:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=/?ed=2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#@V2rayNG3
 vless://7e38ef07-350d-41f3-8314-b21543d4b950@188.227.84.154:8443?security=&type=tcp&path=/&headerType=http&host=zula.ir&encryption=none#https://t.me/v2raynplus |🇳🇱
@@ -503,3 +501,5 @@ vless://94db2d38-38a7-46d6-b004-2717eede1b1b@188.114.98.112:8880?path=/v2ray_con
 vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#✅ @v2ray_configs_pools (تلگرام)
 vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80?path=/vless/&security=none&encryption=none&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80?path=/vless/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://95125edf-cb36-45d1-f6bb-fb49a74cc23c@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-y5a3h3fy
+vless://951df723-eeeb-4b37-9b3f-90edae01a519@istanbul.fonixapp.org:44562?security=reality&encryption=none&pbk=yRloJ0181HiXI70DUAtTlQOtahow4phMkJBL1dfTJBw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#All-@V2rayAlpha--31
