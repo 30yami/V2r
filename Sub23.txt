@@ -5,6 +5,7 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
+
 ✅10 کانفیگ NetMod syna موشک🚀 🔥سرعت به شدت بالا🔥  👇5 تا ایرانسل،مخابرات،آسیاتک،رایتل،سامانتل👇  nm-vmess://57RgjQwXWCIh3GA4jT7ojK6YLcju5f0NisuAL+bJcNymk/uIdLtPr5ja8FsBHX+BhfrEtmmrHHNUSclhpKcRfY6obZzLCiWc4f/+AI3LDcI9cJJKV9S/ANfzWxW4F7yOZfme95jaFgA2Pdhss1fg+/…
 
 
@@ -502,4 +503,3 @@ vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?security=tls&
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=kalam.mrconfigur.site&path=%2F&security=tls&sni=kalam.mrconfigur.site&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://88b7b2a7-2ef6-4570-a8a3-6319a78ecfab@deu378.worldunlocker.org:8443?security=tls&type=ws&path=%2Fws-vless%2F&host=deu378.worldunlocker.org&alpn=h2&sni=deu378.worldunlocker.org&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3ADE
 vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#%3E%3E%40DailyV2RY%3A%3AUS
