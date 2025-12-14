@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
 ✅10 کانفیگ NetMod syna موشک🚀 🔥سرعت به شدت بالا🔥  👇5 تا ایرانسل،مخابرات،آسیاتک،رایتل،سامانتل👇  nm-vmess://57RgjQwXWCIh3GA4jT7ojK6YLcju5f0NisuAL+bJcNymk/uIdLtPr5ja8FsBHX+BhfrEtmmrHHNUSclhpKcRfY6obZzLCiWc4f/+AI3LDcI9cJJKV9S/ANfzWxW4F7yOZfme95jaFgA2Pdhss1fg+/…
 
 
@@ -503,3 +502,4 @@ vless://88b7b2a7-2ef6-4570-a8a3-6319a78ecfab@deu378.worldunlocker.org:8443?secur
 vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#%3E%3E%40DailyV2RY%3A%3AUS
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=vangoghh.info&path=%2Ftixvuws&security=tls&sni=vangoghh.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://9980305e-536a-4db4-92e9-3ec43fb05318@m88a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%3E%3E%40DailyV2RY%3A%3AXX
