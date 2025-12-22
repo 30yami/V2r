@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&insecure=0&allowInsecure=0&type=ws&path=/#@Daily_Configs
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=fast01.0860852.xyz#🇩🇪 | @HajmVPN_Config
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=/Telegram/?ed=2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🔷️14🌐
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
@@ -502,4 +503,3 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.61:443?security=reality&en
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.61:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@MARAMBASHI 🇧🇷
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.61:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#⚡ @Fast78_Channel | Best Free Configs
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#📡5@oneclickvpnkeys
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
