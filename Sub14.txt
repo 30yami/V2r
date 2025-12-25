@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?encryption=none&security=tls&sni=dash.beginnertopro.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=dash.beginnertopro.ir&path=/C7OSXPN9yV234T1Y?ed=2560#@CaV2ray ⚡️
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&path=/&security=reality&encryption=none&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=354b9cbe48#🇩🇪 | @External_Net
 vless://aea2c185-aca0-4259-b6d8-4840f7aff9a3@213.142.156.56:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=7cb7ad2e83f550a0#🇹🇷 | @External_Net
@@ -502,4 +503,3 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=r
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#All--@V2rayAlpha-12
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#[🛸] ➠ @V2ray_official
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🔷️48🌐
-vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#🇷🇺@FreakConfig
