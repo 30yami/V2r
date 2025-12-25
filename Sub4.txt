@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390/?type=tcp&security=tls&sni=m.vk.com#🧑‍🎄83@oneclickvpnkeys
 trojan://ZQriWm1YdUESx8uJhn_yz@144.202.70.252:19986/?type=tcp&security=tls&sni=static.rutube.ru&fp=chrome#🎄74@oneclickvpnkeys
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru#🎄36@oneclickvpnkeys
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=ads.x5.ru#🎄10@oneclickvpnkeys
@@ -503,3 +502,4 @@ vless://0e950b0c-c134-4a92-a150-7745333a7518@dl.darkterror.fonixapp.org:26599?se
 vless://0ea5f0d4-a07d-45de-ce4f-4e85b4d6f74d@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-ff4yyqou
 vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@144.31.14.38:49755?security=reality&encryption=none&pbk=mRAHp8TZKKn1-OieCe3djeBIzuJ-4Pqeu5Kpqmpq6Wg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=20b5588c732e60#@Daily_Configs
 vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@64.188.115.219:443?security=reality&encryption=none&pbk=lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=1c#@Daily_Configs
+vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@64.188.115.219:443?security=reality&encryption=none&pbk=lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=1c#@MARAMBASHI 🩵
