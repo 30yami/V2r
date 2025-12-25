@@ -457,7 +457,6 @@ hy2://7424db1f-ba68-496d-9426-4018b6a3a23c@nl1.xiaoliyu.cyou:443/?mport=22000-27
 hy2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@41f54602-t6ngg0-t7m3jq-1rnrp.us.hyhuawei.com:443/?mport=30000-60000&insecure=1#🎄85@oneclickvpnkeys
 hy2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@974e2823-t6ngg0-t7j1ub-g3b3.us.hyhuawei.com:443/?mport=30000-60000&insecure=1#🎄84@oneclickvpnkeys
 hy2://Telegram-->@Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#⛄49@oneclickvpnkeys
-hy2://Telegram-->@Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#❄️32@oneclickvpnkeys
 hy2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#⛄19@oneclickvpnkeys
 hy2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#⛄44@oneclickvpnkeys
 hy2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#🧊35@oneclickvpnkeys
@@ -503,3 +502,4 @@ hysteria2://TA524PW3Hg@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@IRAN_V2RAY1
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#azadiiivpn
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+hysteria2://UyGa9rn0Hk@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
