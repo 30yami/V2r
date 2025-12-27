@@ -336,6 +336,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bUJmMU1Mb251QUs5NGZGVjJLVXJK@45.95.232.236:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bUJmMU1Mb251QUs5NGZGVjJLVXJK@45.95.232.236:4248#🇨🇭@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bUJmMU1Mb251QUs5NGZGVjJLVXJK@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg==@144.31.84.76:2050#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg==@144.31.84.76:2050#t.me/entryNET/config=1852652098247577
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg==@144.31.84.76:2050#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_1 🧭 4.0MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg==@de1-nv.jugploer.icu:2050?type=tcp#🇩🇪@SiNAVM کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg@144.31.84.76:2050?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg@de1-nv.jugploer.icu:2050#🇩🇪@vpnserverrr کانال تلگرامی
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@167.160.90.178:990#@SkyProVpn_Bot 🤎🥺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@167.160.90.178:990#🇺🇸-@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#@MARAMBASHI 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#@MARAMBASHI 🇳🇱
