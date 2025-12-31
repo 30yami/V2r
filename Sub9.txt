@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:993?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#azadiiivpn ⁶🎀
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.148.233.10:993?security=reality&encryption=none&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#azadiiivpn ⁴🎀
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://407b3941-8bf7-49d5-abc6-1ffd61e57990@81.161.229.122:443?security=reality&encryption=none&pbk=XB_Ylp1U4K2uth4jZI2v7Wru8O1cy7Hw26LwlB9QAkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=6ba85179e30d4fc2#r♡ya
 vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#فیلترشکن رایگان👈Prime_Verse@
 vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -500,6 +503,3 @@ vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f1.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#telegram ⚡️ v2ray_configs_pools
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f1.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#telegram 🌈 v2ray_configs_pools
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f10.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f4.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
