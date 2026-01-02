@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-vmess://eyJhZGQiOiJpZHRlbC5qb2ludjJyYXluZzE0LndlYnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpvaW5iZWRlMS5iZWRlYm9rb25pbXZpcC50ayIsImlkIjoiMDExYTkyYWUtZWRiNi00NjVkLTg4NjUtNTIxZjkzYTM0YThiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiJAdjJyYXluZzE0ICAg8J+RiNqp2KfZhtin2YQg2KrZhNqv2LHYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6ImpvaW5iZWRlZ2ZnZy5iZWRlYm9rb25pbXZpcC50ayIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9Test:irancell&mciفوروارد فراموش نشه📌
-
-
 vless://53adc954-00ce-47d5-8da6-019946211eda@ford.pmpads.com:53433?path=%2F&security=tls&encryption=none&type=ws&sni=ford.pmpads.com#%40v2ray_ar%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 
 
@@ -503,3 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#%3E%3E%40ShadowsocksM%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@desrv.vmagnum.win:57456#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#%3E%3E%40ShadowsocksM%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#%3E%3E%40FreakConfig%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#%3E%3E%40FreakConfig%3A%3AXX
