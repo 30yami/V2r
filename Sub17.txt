@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dd5d8352-b889-476e-85fa-c30b72a7a5cd@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46179-1
-vless://dd62d6f8-596d-4aca-b652-45b26cbc7d18@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#All_11--@V2rayAlpha
 vless://dd75ec90-541f-4150-8784-6095381c9894@141.227.160.163:44606?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ddd02f94-4422-4242-835a-90e71a231704@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@bored_vpn
@@ -503,3 +501,5 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.163:443?path=/hormoz&se
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.167:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#All_36--@V2rayAlpha
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.40:443?path=/hormoz&security=tls&encryption=none&type=ws#@FarazV2ray
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.40:443?path=/hormoz&security=tls&encryption=none&type=ws#All_26--@V2rayAlpha
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.40:443?path=/hormoz&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#برای اتصال دائمی جوین شو⚡️ TelegramID ⌲TEHRANARGO
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.51:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&fp=chrome#🚩51@oneclickvpnkeys
