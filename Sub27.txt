@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-🟢V2ray✅ALL(اکثرنتا)🗺Location: 🇷🇺 Russia 🇷🇺vless://64253262-ca33-4cc3-d80c-6788cd8a35a5@vpncustomize2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ru.verver.cam#Telegram%3A%40Network_442%F0%9F%87%B7%F0%9F%87%BA➖وصل شدید ری اکشن بزنیدموفق و پیروز باشید ❤️📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)@Network_442
-
 
 🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇫🇷 France 🇫🇷vmess://eyJhZGQiOiIxMzYuMjQ0LjExOC40NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiYzYxMGU2OC0zNWYyLTRlNzQtODkwMS05ZjEzNDY2MjlhODEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyOTc2MyIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
@@ -503,3 +501,5 @@ hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@5.83.150.108:54365/?sni=imafake
 
 hysteria2://c50f9480-2e1d-40db-9458-630e79636663@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 
+
+hysteria2://c6e0562f-7ad1-40fb-a255-26194b2de84a@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
