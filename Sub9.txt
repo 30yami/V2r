@@ -6,10 +6,6 @@
 
 
 
-✅ مناسب وب گردیvless://9da7e1ad-9991-427e-909a-0413bdd45c0f@benz.pmpads.com:63028?encryption=none&security=tls&sni=benz.pmpads.com&type=ws&path=%2F#%40RIP_VPN%201vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDIiLA0KICAiYWRkIjogInZ2Lm1vZWRvdmUuY29tIiwNCiAgInBvcnQiOiAiNTM4MTgiLA0KICAiaWQiOiAiZjQ2OGQ5MDAtMjEzMy00OTU5LTliMzctOGY2ZWUwMzMwOGNkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICJtamd2ZyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
-
-
-
 ✅ مناسب وب گردیvless://edddb2ac-f347-41f8-b158-6c263b3058d8@web.biatochannelv271g.shop:2083?encryption=none&security=tls&sni=web.biatochannelv271g.shop&type=grpc&serviceName=A&mode=gun#%40RIP_VPN╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +499,7 @@ vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.164:8880/?type=ws&encry
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.213:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.221:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.22:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.238:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.47:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
