@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://367348e4-8927-4e85-aa7d-d205dfa8e8c8@188.114.98.0:443?mode=auto&path=/php-read-me?type=space&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bzrrphp.esportplusnews.top&fp=chrome&type=xhttp&allowInsecure=0&sni=bzrrphp.esportplusnews.top#@OnNetX جوین شو
-vless://377afc63-f2db-405d-b168-c58d354560db@FaStLy2.TeMas-Bor.iR:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=ir-2.temas-bor.ir&type=xhttp#MCI-@V2rayAlpha--7
-vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv1.tsteamh.top:60001?security=none&type=ws&headerType=&path=&host=#⚡️Telegram =@CUSTOMVPNSERVER
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv2.tsteamh.top:60002?security=none&type=tcp&headerType=http&path=/&host=cafeariel.ir#⚡️Telegram =@CUSTOMVPNSERVER
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv3.tsteamh.top:60003?security=none&type=tcp&headerType=http&path=/&host=zarebin.ir#⚡️Telegram =@CUSTOMVPNSERVER
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv5.tsteamh.top:60005?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#⚡️Telegram = @CUSTOMVPNSERVER
@@ -503,3 +500,6 @@ vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&securit
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️207🌐🆕️
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#⚡Telegram = @SOSkeyNET
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws&note=@freeOnlineVPN#🇫🇮 - FI - @freeOnlineVPN
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&allowInsecure=0&encryption=none&type=ws&host=blog.zanborak-shop.ir&path=/#@lyriffy
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&allowInsecure=0&encryption=none&type=ws&host=blog.zanborak-shop.ir&path=/#@sogoandfuckyourlove
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?type=ws&path=/&host=blog.zanborak-shop.ir&encryption=none#Config 2 - @lebertad
