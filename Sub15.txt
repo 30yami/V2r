@@ -8,6 +8,9 @@
 
 
 
+
+
+
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJpZCI6ImRlZjUzMjQ2LWU3ZDctNGU3Yy04NDI3LTBkYzU2MDJkM2NiYSIsInBzIjoiaWNlc291cmNlIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBvcnQiOjgwLCJhZGQiOiJqb2luLWJlZGUudm1lc3NvcmcuZnVuIiwiaG9zdCI6IiIsInRscyI6IiIsImFpZCI6IjAiLCJwYXRoIjoiXC8ifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -500,6 +503,3 @@ vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?security=tls&sni
 vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
 
 vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
-
-vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
-
