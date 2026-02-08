@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&headerType=none&type=tcp&sni=ozon.ru#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A74
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjMiLCJhZGQiOiIxNzIuNjQuMTQ5LjE4MiIsInBvcnQiOiI4MDgwIiwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJuYXNuZXQtNTcxMjk2NDEwMi5zaGFyZ2hkYWlseS5jbyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIzIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD21
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?sni=frankfurtrm2.686911.xyz#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
@@ -502,4 +503,3 @@ trojan://humanity@104.18.32.47:443/?sni=www.calmlunch.com&allowInsecure=1&type=w
 trojan://humanity@104.18.32.47:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7184
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#☮️44@oneclickvpnkeys
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@V2rayng_Fast
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇩🇪All¹ | @Starlinkvatan

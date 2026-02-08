@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇩🇪All¹ | @Starlinkvatan
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇩🇪All¹ | @meliproxyy
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@ConfigV2RayNG 🖤
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#Telegram • @llFreak | 6
@@ -502,4 +503,3 @@ vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80/?security=none&type
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#تلگرام : V2ynpv @
 vless://1ea626ee-55a1-48da-9bd7-36673ec84a0c@104.17.164.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=em4l7cftot8umbqcw5fd01r7mioa6f4mrx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=em4l7cftot8umbqcw5fd01r7mioa6f4mrx.zjde5.de5.net#telegram : @FergalVpnMod
 vless://1f16665f-bde8-4324-9721-3ff56f481511@178.21.161.94:56189?security=none&encryption=none&headerType=none&type=tcp#‌Telegram-𝗝𝗼𝗶𝗻 ➠ @ConnectBemon | کانکت بمون﻿
-vless://1f240c57-1812-4360-9f2a-e883402cd5e5@91.107.251.197:703?security=reality&encryption=none&pbk=b5wubydI-7hg7pZzvMVIuc4kaghXqK8DXwTtW3PgpCE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=17e1da509bd4#@OnNetX جوین شو

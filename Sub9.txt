@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#@meowvip1 & @ttrendefarsi 2
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#ConfigV2RayNG
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#Telegram:@meowvip1
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#Telegram:@meowvip1 *188*
@@ -502,4 +503,3 @@ vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?encrypti
 vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@vmesskhodam
 vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@ConfigV2RayNG
 vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@ConfigV2RayNG 🖤
-vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@filembad
