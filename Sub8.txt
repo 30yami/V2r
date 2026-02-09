@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b28578a1-c5b2-4594-b259-9a1f06e0fe33@172.67.160.192:2086?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=fAnlanD03.gHafgh.Ir.&type=ws#@Banehfori عضو شو قطع نشی⚡
 vless://b28578a1-c5b2-4594-b259-9a1f06e0fe33@172.67.160.192:2086?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=fAnlanD03.gHafgh.Ir.&type=ws#@meliproxyy
 vless://b28578a1-c5b2-4594-b259-9a1f06e0fe33@172.67.160.192:2086?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=fAnlanD03.gHafgh.Ir.&type=ws#MCI-@V2rayAlpha--8
 vless://b28578a1-c5b2-4594-b259-9a1f06e0fe33@172.67.160.192:2086?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=fAnlanD03.gHafgh.Ir.&type=ws#🇫🇮 • @llFreak •8
@@ -502,4 +503,3 @@ vless://de313e71-9512-4f60-b267-c3c6c1b0ec14@87.107.100.176:37117?security=none&
 vless://de313e71-9512-4f60-b267-c3c6c1b0ec14@87.107.100.176:37117?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz🚀
 vless://de313e71-9512-4f60-b267-c3c6c1b0ec14@87.107.100.176:37117?security=none&encryption=none&headerType=none&type=tcp#چنل عضو شو @ConfigV2RayNG
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2rayNG3
-vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2ray_NG
