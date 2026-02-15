@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=daily.asperwild.com&fp=chrome&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&sid=9a461d450ab387b5&spx=/&type=tcp&headerType=none#Telegram:@config_proxy 🔥
+vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=daily.asperwild.com&fp=chrome&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&sid=9a461d450ab387b5&spx=/&type=tcp&headerType=none#https://t.me/allproconf
 vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=reality&sni=daily.asperwild.com&fp=chrome&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&sid=9a461d450ab387b5&spx=/&flow=xtls-rprx-vision#🇨🇦[Telegram:NetifyVPN]
 vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?security=reality&encryption=none&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=daily.asperwild.com&sid=9a461d450ab387b5#@V2raysCollector 🗝️
 vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?security=reality&encryption=none&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=daily.asperwild.com&sid=9a461d450ab387b5#@filembad
@@ -501,5 +503,3 @@ vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=
 vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=none&encryption=none&type=ws#IR+@V2rayAlpha-24
 vless://b0d1a683-c4df-423a-8428-9493f027e3ef@144.31.7.199:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#Channel : @Mrsoulb 🏴🏳
 vless://b0e415f0-7630-413e-8c7e-2fe9e45851bd@tun1-rasad.rasad-vip-service.ir:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@digi_config عضو کانال تلگرام نباشی سرور قطع میشه
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?path=/IVApi/NL/3&security=none&encryption=none&type=ws#@AccoTUN
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?path=/IVApi/DE/3&security=none&encryption=none&type=ws#@AccoTUN
