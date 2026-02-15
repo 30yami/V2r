@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@FarazV2ray
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@MxV2ray
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@shankamil عضو چنل شید متصل بمونید
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@vpnbaz 🎗
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#https://t.me/VIPV2rayNGNP
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#vmesskhodam
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#⚡Telegram = @SOSkeyNET
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#✅سرورهایبیشتردر:prrofile_purple@✅
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#『♨️ 𝐹𝑟𝑒𝑒𝑊𝑜𝑟𝑙𝑝 ♨️』@Free_World2
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@icv2ray
@@ -503,3 +496,10 @@ vless://b3fa535d-0d99-46bd-a7a4-9acdbd2a98fe@93.185.165.50:55211?flow=xtls-rprx-
 vless://b40567e1-99da-4892-aa29-64008cd107e8@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Telegram : @V2ynpv
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@77.239.125.99:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#@Golestan_VPN - 🦁☀️
 vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?encryption=none&security=tls&sni=xn-ch7.shakhle.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=xn-ch7.shakhle.ir&path=/?ed=2048#hope of freedom - @anotherme_night
+vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=xn-ch7.shakhle.ir&fp=chrome&type=ws&allowInsecure=0&sni=xn-ch7.shakhle.ir#⚡Telegram = @SOSkeyNET
+vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=xn-ch7.shakhle.ir&fp=chrome&type=ws&allowInsecure=0&sni=xn-ch7.shakhle.ir#🔥 Telegram: @wiki_tajrobe
+vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ipv1.shakhle.ir:443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=MediaOP-name.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=MediaOP-name.global.ssl.fastly.net.#ConfigV2RayNG 🇩🇪
+vless://b466f081-4f9d-43fe-9e7d-875cdeddce98@lian-amni-one.sapienza-mahan.ir:443?mode=auto&path=/t.me/Vip_fragment_v2ray&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#@meliproxyy
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#telegram 🌟 dailyv2ry
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#telegram 🚀 dailyv2ry
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayngzendegimamad🕊️

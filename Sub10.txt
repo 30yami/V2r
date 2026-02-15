@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=xn-ch7.shakhle.ir&fp=chrome&type=ws&allowInsecure=0&sni=xn-ch7.shakhle.ir#⚡Telegram = @SOSkeyNET
-vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=xn-ch7.shakhle.ir&fp=chrome&type=ws&allowInsecure=0&sni=xn-ch7.shakhle.ir#🔥 Telegram: @wiki_tajrobe
-vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ipv1.shakhle.ir:443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=MediaOP-name.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=MediaOP-name.global.ssl.fastly.net.#ConfigV2RayNG 🇩🇪
-vless://b466f081-4f9d-43fe-9e7d-875cdeddce98@lian-amni-one.sapienza-mahan.ir:443?mode=auto&path=/t.me/Vip_fragment_v2ray&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#@meliproxyy
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#telegram 🌟 dailyv2ry
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#telegram 🚀 dailyv2ry
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayngzendegimamad🕊️
 vless://b512bde6-dc0d-42ce-aad1-4dd0a9baa99c@89.47.202.154:1717?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#@X_RAY_VPN1 🔥
 vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@188.114.96.6:443?encryption=none&security=tls&sni=fic.ketabv.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=fic.ketabv.ir&path=/s55dLF15ddokB1leJ#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#telegram ⚡️ dailyv2ry
 vless://b540bc90-daef-4392-b1af-d131e572acaf@f1.springpaatogh8.store:2053?encryption=none&type=ws&host=chess.sorza.ir&path=/?ed=2560&security=tls&sni=digikala.sorza.ir#@FRRE_VPN02🧶
@@ -503,3 +496,10 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/asset
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&host=diprox.pages.dev&type=ws&sni=DiprOX.pages.DEV#🇮🇷 IR 30 @Outline_Vpn
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@v2box
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#Telegram:@meowvip1 *207*
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#channel : @freedomofinfor
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#🇺🇲 @Black_Star_Vpn
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#🇺🇲 @FreakConfig
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=1&host=diprox.pages.dev&type=ws&allowInsecure=1&sni=DiprOX.pages.DEV#VayNora
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=1&host=diprox.pages.dev&type=ws&allowInsecure=1&sni=DiprOX.pages.DEV#channel : @freedomofinfor
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=1&host=diprox.pages.dev&type=ws&allowInsecure=1&sni=DiprOX.pages.DEV#🧿 Tel : @ProxyVPN11 ⟵
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#channel : @freedomofinfor
