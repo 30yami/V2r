@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://18161878-c749-40fe-8146-8b061a41bd4f@sourceforge.net:2052?type=ws&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----hameV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g&host=v2cityv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.mobileiraniii.ir&security=none#@alo_v2rayng با کانفیگ رایگان اینستا نرو آی پی ثابت نیس دیسیبل میشه پیجت
 vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?type=tcp&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&sid=8894620bd4b91f71#@Trick_mobil
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
@@ -503,3 +502,4 @@ vless://27df2d51-20ed-4394-8a48-94d48cbaa0e4@194.238.57.193:35995?security=none&
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=/&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#@V2rayNG3
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://29599b33-a748-4e71-b5f4-50a9e5a753e9@home.vip-morteza.xyz:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=cloud.hosted-by.cfd&fp=chrome&type=ws&sni=cloud.hosted-by.cfd#➤ @netshekan99
+vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=gozar1.i2fed.com&fp=chrome&type=ws&allowInsecure=1&sni=gozar1.i2fed.com#@v2rayngzendegimamad🕊️
