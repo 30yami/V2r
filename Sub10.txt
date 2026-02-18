@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7423fc0c-a623-4af2-9453-37639db9c715@vipt1.moshtri.xyz:1608?security=none&encryption=none&host=fast.com,+skyroom.online,+gharar.ir,+igap.net&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://743600c1-b7fe-4d7e-a866-b3272f2a6cc0@cloud.nexun.ir:443?mode=auto&path=/ceoHTTP&security=tls&alpn=h2&encryption=none&extra={"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15","Pragma":"no-cache"}}&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#✅کانفیگهای بیشتردر:prrofile_purple@✅
-vless://743600c1-b7fe-4d7e-a866-b3272f2a6cc0@cloud.nexun.ir:443?mode=auto&path=/ceoHTTP&security=tls&alpn=h2&encryption=none&extra={"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15","Pragma":"no-cache"}}&insecure=0&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#@icv2ray
 vless://743600c1-b7fe-4d7e-a866-b3272f2a6cc0@cloud.nexun.ir:443?mode=auto&path=/ceoHTTP&security=tls&alpn=h2&encryption=none&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#@config_v2rayy
 vless://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&security=none&type=tcp&headerType=none#telegram ⚡️ dailyv2ry
 vless://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&security=none&type=tcp&headerType=none#telegram 🎪 dailyv2ry
@@ -503,3 +500,6 @@ vless://976cd600-97a1-4c9c-b143-c901dbf175e7@198.41.222.114:443?security=tls&enc
 vless://976cd600-97a1-4c9c-b143-c901dbf175e7@8.6.112.0:443?security=tls&encryption=none&host=iTalY.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=iTalY.mAzrAedAraN-DaTeL.iR#@Hddify
 vless://976cd600-97a1-4c9c-b143-c901dbf175e7@chatgpt.com:443?security=tls&encryption=none&host=UkAbaDi.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=UkAbaDi.mAzrAedAraN-DaTeL.iR#@Hddify
 vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#@Hddify
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#Black_Star_Vpn
+vless://97fd9bd6-848f-4759-b200-b25bcca28dfc@F2.HaMrAhCoNf.Ir:8443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hyper-node-balancer-05-core-main.hamrahconfig.ir#✅کانفیگهای بیشتردر:prrofile_purple@✅
+vless://97fd9bd6-848f-4759-b200-b25bcca28dfc@F2.HaMrAhCoNf.Ir:8443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hyper-node-balancer-05-core-main.hamrahconfig.ir#🟢Ṭelegram"@Filtering2020"
