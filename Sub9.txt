@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?security=none&encryption=none&headerType=none&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=&encryption=none&headerType=none&type=tcp#🍌ConfigV2RayNG
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
@@ -503,3 +502,4 @@ vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@www.speedtest.net:443?path=/rN50nmm
 vless://8a6d8bbc-dc5f-4ed6-835f-f45ab3a34f7b@62.133.63.18:29327?security=reality&encryption=none&pbk=hbPAXrGZuxDxygy_GMohS8EfLTZSMtLsMS3WuAT8OEM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=4e426c414b1de074#@meliproxyy
 vless://8a6d8bbc-dc5f-4ed6-835f-f45ab3a34f7b@62.133.63.18:29327?security=reality&encryption=none&pbk=hbPAXrGZuxDxygy_GMohS8EfLTZSMtLsMS3WuAT8OEM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=4e426c414b1de074#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn   چنل تلگرام [🇹🇷]
 vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#16🪝@oneclickvpnkeys
+vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#@Golestan_VPN - IRAN

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#⚡Telegram = @SOSkeyNET
@@ -503,3 +502,4 @@ vless://fa-397456379-1771064637182567@67.159.24.158:8443?security=reality&encryp
 vless://fa-397456379-1771064637182567@78.40.116.73:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d1d42381ba35#🇸🇪 @V2RAY_VMESS_free mtn
 vless://fa-397456379-1771228824034392@185.120.59.245:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=d1d42381ba35#🇫🇷+@V2RAY_VMESS_free
 vless://fa0ebdf7-67fd-4fb5-94d0-678039d7a6c0@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#E0030
+vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=/130.185.164.213=8443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1&fp=chrome#https://t.me/allproconf
