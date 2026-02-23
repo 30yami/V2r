@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[10534]+-+Telegram+:+@configraygan
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayBaaz
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?mode=gun&security=none&encryption=none&type=grpc#⚡ @HajmVPN_Config
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?mode=gun&security=none&encryption=none&type=grpc@freenettir
@@ -503,3 +499,7 @@ vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@147.45.178.107:443?security=reality
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@194.87.216.140:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇳🇱​​ Netherlands (FREE EOFVPN) Vless
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@45.95.233.133:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇫🇷 France (FREE EOFVPN) Vless
 vless://f6436f4b-2bd5-4cd5-a388-2915bce1ecb3@home.asperwild.com:443?security=reality&encryption=none&pbk=9IHMTVOYFag2mm1hQuoL-JtyEnRyaP-XcVsHadXjZFM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=home.asperwild.com&sid=fabfbb5fb852cfd8#@VpnPinks 🎀 عضو باشید قطع نشید
+vless://f64cdd9d-57c3-45b2-e999-c46006719646@161.248.63.15:41579?security=reality&encryption=none&pbk=3W_eKpL975AF7oI-mkgVtf2iK954luxwaT6C41re0RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2efb6c97c1#@free_shekan
+vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.136.103:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L459
+vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.145.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L973
+vless://f6vhgfwgUYXfr0ECgNirxE@62.106.66.102:443?security=none&encryption=none&host=m.vk.ru&headerType=http&type=tcp#@proxy_kafee

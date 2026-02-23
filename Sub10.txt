@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://533ce090-76f8-49bb-bb55-8d516acf5116@jeff.ns.cloudflare.com:443?path=/true&security=tls&encryption=none&insecure=0&host=lhbmp.washington-wall.sbs&fp=chrome&type=ws&allowInsecure=0&sni=lhbmp.washington-wall.sbs#@V2RAYROZ
-vless://53651614-49ef-0c6c-e3bb-cbda09f88488@172.65.152.165:3389/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 10647
-vless://53651614-49ef-0c6c-e3bb-cbda09f88488@172.65.152.165:3389?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none#🇫🇮[Telegram:NetifyVPN]
-vless://53b2c46d-bc0a-4696-9d87-6bfa77a60d1f@109.120.191.46:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687#🪢69@oneclickvpnkeys
 vless://53b2c46d-bc0a-4696-9d87-6bfa77a60d1f@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=3f200574d011010f#[🇷🇺]t.me/Kia_Net
 vless://53b2c46d-bc0a-4696-9d87-6bfa77a60d1f@51.250.4.119:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🪢60@oneclickvpnkeys
 vless://53b2c46d-bc0a-4696-9d87-6bfa77a60d1f@51.250.65.209:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687#🪢79@oneclickvpnkeys
@@ -503,3 +499,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=/?ed&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇺🇸@FreakConfig
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇺🇸@vpnserverrr
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.180.21.2:2053?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#⚡Telegram = @SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.212.92:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.v6.navy#@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.51.14:2053?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@NetZoneNews
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560#https://t.me/allproconf
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#configraygan_86
