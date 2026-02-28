@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@MARAMBASHI 🇩🇪
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@vpnserverrr🇩🇪
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&encryption=none&alpn=http/1.1&host=uk.dlaparat.ir&fp=chrome&allowinsecure=0&type=ws&sni=uk.dlaparat.ir#🇬🇧@meliproxyy
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
@@ -502,4 +503,3 @@ vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?path=/&security
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nobitex.sylu.net&type=ws&allowInsecure=0&sni=nobitex.sylu.net#@v2raybaaz 🎴
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nobitex.sylu.net&type=ws&allowInsecure=0&sni=nobitex.sylu.net#@vpnbaz 🎴
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nobitex.sylu.net&type=ws&allowInsecure=0&sni=nobitex.sylu.net#@MARAMBASHI 🇧🇷
-vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=/&security=tls&alpn=http/1.1&encryption=none&host=nobitex.sylu.net&fp=chrome&type=ws&sni=nobitex.sylu.net#🇩🇪All² | @BigSmoke_Config

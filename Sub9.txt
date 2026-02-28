@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&spx=/T.me/ProxyVPN11+&type=tcp&headerType=none#https://t.me/allproconf
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.83.255:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&spx=/T.me/ProxyVPN11 &type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=048fe5c8be4bb687#🔆 Tel : @ProxyVPN11 ⟵
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=/&type=tcp&headerType=none#https://t.me/allproconf
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#https://t.me/allproconf
@@ -502,4 +503,3 @@ vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localho
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@V2RAYROZ
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#🇬🇧@FreakConfig
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir/?BIA_TELEGRAM@AKBARCONFIG_AKBARCONFIG_AKBARCONFIG_AKBARCONFIG_AKBARCONFIG&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@AkbarConfig👈کانفیگ روزانه در
-vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@MARAMBASHI 🇩🇪
