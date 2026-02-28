@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 |⚡@EuServer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@AzadioNet  سچ کن
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@nekopingbot_110
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@v2rayland02🌐
@@ -501,5 +503,3 @@ vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryp
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
-vless://000f318f-d045-4262-af1d-383c43443e8a@dll3maghz3.chooktashakorabi.com:41019?security=none&encryption=none&headerType=none&type=tcp#Telegram @Ettehad_vpn

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN#کانال تلگرام : Free_VPN_CH@
+vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN&security=tls&encryption=none&host=takken.sorza.ir&type=ws&sni=digikala.sorza.ir#https://t.me/V2ry_Proxy
 vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#⚡Telegram = @prrofile_purple
 vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?path=/?ed=2560 Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@icv2ray
 vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?security=tls&encryption=none&insecure=0&headerType=none&type=kcp&allowInsecure=0&sni=digikala.sorza.ir#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️350🌐🆕️
@@ -501,5 +503,3 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?allowInsecure=1&
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#🛡 V 39 @Outline_Vpn
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#🛡 V 105 @Outline_Vpn
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&type=ws#@AkbarConfig👈کانفیگ روزانه در
