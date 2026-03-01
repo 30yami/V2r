@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@37.139.33.15:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#https://t.me/allproconf
 ss://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@37.139.33.15:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#https://t.me/allproconf
 ss://2d47e6df-962d-4527-b089-30e4ff82e3d7@denl1314.atlasg.ir:1314?security=none&encryption=none&host=/?BIA_TELEGRAM@AKBARCONFIG_AKBARCONFIG_AKBARCONFIG_AKBARCONFIG_AKBARCONFIG&headerType=none&type=@configv2net#@AkbarConfig👈کانفیگ روزانه در
 ss://2d47e6df-962d-4527-b089-30e4ff82e3d7@denl1314.atlasg.ir:1314?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=@configv2net
@@ -503,3 +502,4 @@ trojan://8595b855-e4c4-40cd-834d-d34bb65ec928@green2.cdntencentmusic.com:35501?t
 trojan://8595b855-e4c4-40cd-834d-d34bb65ec928@green2.cdntencentmusic.com:35501?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#✅@AR14N24b
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443/?type=tcp&security=tls#🇸🇬#ShineNET VPN (28)
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@V2rayNG3
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#@V2rayNG3

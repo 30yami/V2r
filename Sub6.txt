@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&fp=chrome#🌐 WS-TLS 📁 @v2raba
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#کانفیگ رایگان = t.me/arisping
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#⚡Telegram = @SOSkeyNET
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -503,3 +502,4 @@ vless://5bc873b0-848c-4192-993d-68263ee61002@185.228.59.110:7077?security=none&t
 vless://5bc873b0-848c-4192-993d-68263ee61002@185.228.59.110:7077?security=none&type=tcp&headerType=http&path=/myket-star-bazar-724&host=myket.ir#✅@AR14N24b
 vless://5c262675-6eee-435a-9dbb-c36be5b09985@94.183.150.123:17077?encryption=none&security=none&type=tcp&headerType=http&host=filmnet.ir#کانفیگ رایگان = t.me/arisping
 vless://5ca6e49d-d15e-400e-9e9e-4fddcc4d8e41@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&host=nurenburges.appleseraj.ir&fp=chrome&type=ws&sni=nurenburges.appleseraj.ir#@v2rayland02🌐
+vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.66.235.233:15200?security=none&encryption=none&headerType=none&type=tcp#موقت

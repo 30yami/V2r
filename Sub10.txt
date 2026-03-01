@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d0c36ebf-a083-44a9-acc4-271658236986@KRT.starz-net.com:2089?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://d0c36ebf-a083-44a9-acc4-271658236986@KRT.starz-net.com:2089?security=none&encryption=none&headerType=none&type=tcp#vpnsal
 vless://d0c36ebf-a083-44a9-acc4-271658236986@KRT.starz-net.com:2089?security=none&encryption=none&host=AKBARCONFIG.net&headerType=none&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 |⚡@EuServer
@@ -503,3 +502,4 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=n
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=p1.thisiswe.uno&fp=chrome&type=ws&host=p1.thisiswe.uno&path=/#کانال تلگرام : Free_VPN_CH@
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#azadiiivpn 🎀
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇫🇮 |⚡@EuServer
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#@bored_vpn
