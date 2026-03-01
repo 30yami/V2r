@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/47.130.35.116&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@V2RAYROZ | 🐥
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/47.130.35.116&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇫🇷@FreakConfig
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/47.130.35.116=8888&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@V2RAYROZ | 🐥
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/47.130.35.116=8888&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇫🇷@FreakConfig
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY/47.130.35.116&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@AzadioNet ایرانسل رایتل
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY/47.130.35.116&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@V2RAYROZ | 🐥
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY/47.130.35.116&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇫🇷@FreakConfig
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@udemy.com:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=/47.250.132.147=443&security=tls&sni=afrcloud22.mmv.kr#🇸🇬 WS-TLS 📁 @configraygan
@@ -498,8 +503,3 @@ vless://d2715e46-c315-4613-8c99-a32566d12926@3.71.15.84:30707?security=none&encr
 vless://d2715e46-c315-4613-8c99-a32566d12926@3.71.15.84:30707?type=tcp&encryption=none&security=none#@freenettir
 vless://d2715e46-c315-4613-8c99-a32566d12926@3.71.15.84:30707?type=tcp&encryption=none&security=none#@meliproxyy
 vless://d2715e46-c315-4613-8c99-a32566d12926@3.71.15.84:30707?type=tcp&encryption=none&security=none#@vpnsal
-vless://d2d1129c-3465-463c-98f1-8e524904e968@webb.gdsrguydsrghj.ir:3000?security=&encryption=none&headerType=http&type=tcp#@chillguy_vpn
-vless://d2d1129c-3465-463c-98f1-8e524904e968@webb.gdsrguydsrghj.ir:3000?security=&encryption=none&headerType=http&type=tcp#@filembad
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@singapore.com:2083?encryption=none&security=tls&sni=index.0x15.workers.DEV&alpn=http/1.1&type=ws&host=index.0x15.workers.dev&path=/9quSDGMroCZkFeWzTk#کانال تلگرام : Free_VPN_CH@
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@51.38.64.226:2345/?type=tcp&encryption=none#🇬🇧@FREE2CONFIG
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345/?type=tcp&encryption=none#👔1@oneclickvpnkeys

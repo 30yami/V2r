@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#V2rayNg_madam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#🛡 V 46 @Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🌏41@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🛡 V 84 @Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#کانال تلگرام : Free_VPN_CH@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.164.192.16:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Berlin🅿️ping:40.03ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.jpmj.dev&type=ws#@AkbarConfig👈کانفیگ روزانه در
@@ -498,8 +503,3 @@ vless://8b70357d-b654-4a29-85de-e5fef1afefbd@tr.connectv.net:443/?type=tcp&encry
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@tr.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr.connectv.net#🇹🇷 azadiiivpn
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@uk.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uk.connectv.net#azadiiivpn 🎀
 vless://8b80c5d9-24c7-47bc-fca7-7fe80efc93ab@3.70.248.224:57160?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://8b9f63bd-0a73-4ef5-dee0-3d114c4edc0c@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
-vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://8bbaf2bd-6c06-4827-965d-e28d993a2652@www.speedtest.net:2053?path=/eyJqdW5rIjoiaUpscnVYa0Q1ZE5Cb0xOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=tiny-sun-e47a.galajih191.workers.dev&fp=chrome&type=ws&sni=TINy-SUN-e47A.galajih191.wOrKERS.dEV#2️⃣ All Operators @MaSTeRSeRVeR1
-vless://8be1f2ce-ac71-49cc-b08a-b396b6053b00@dns5.golden-ping.ir:16662?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#@Spartan_YT
-vless://8be1f2ce-ac71-49cc-b08a-b396b6053b00@dns5.golden-ping.ir:16662?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#@VPNFARDAD
