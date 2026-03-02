@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052/?type=ws&encryption=none&flow=&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658@63.251.122.139:443/?type=ws&encryption=none&flow=&host=es2.vpnbyvinarsky.ru&path=%2Fchat&security=tls&sni=es2.vpnbyvinarsky.ru&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AES
 vless://fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658@es2.vpnbyvinarsky.ru:443/?type=ws&encryption=none&flow=&host=es2.vpnbyvinarsky.ru&path=%2Fchat&security=tls&sni=es2.vpnbyvinarsky.ru&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AES
 vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ALV
 vmess://eyJ2IjoiMiIsInBzIjoiPj5ARGFpbHlWMlJZOjpHQjo6R0I6OlhYOjpHQjo6R0I6OlhYOjpHQjo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFgiLCJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsInBvcnQiOiI4MCIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
@@ -503,3 +495,11 @@ vless://003ef206-46b6-3701-ab77-b03debe7511f@104.21.224.5:443?path=/db1024143bf1
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@chatgpt.com:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#🔵@chillguy_vpn
 vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.18.34.21:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br#@chillguy_vpn
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?encryption=none&security=none&type=ws&host=shaggy-agreementspufz4utdi.sportland.company.&path=/?ed#@chillguy_vpn
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.171:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
+vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-t1.wiki-mobile-one.com:5443?security=reality&encryption=none&pbk=keHhPKz4xvYjdDqWvhqDUduBtjer2G8fPKdd07bOtXQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=681a5030d68c9ac2#@chillguy_vpn
+vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-t1.wiki-mobile-one.com:7443?security=reality&encryption=none&pbk=fmF0aFfyNYEkoHNnbEwnLbdGqHGaeWRNHaVThCX-KjA&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=41affb633beb186c#@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?security=tls&type=ws&path=%2F%3Fed&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#@chillguy_vpn
