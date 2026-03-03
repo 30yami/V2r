@@ -5,6 +5,9 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
+✅ مناسب وب گردیvless://9da7e1ad-9991-427e-909a-0413bdd45c0f@benz.pmpads.com:63028?encryption=none&security=tls&sni=benz.pmpads.com&type=ws&path=%2F#%40RIP_VPN%201vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDIiLA0KICAiYWRkIjogInZ2Lm1vZWRvdmUuY29tIiwNCiAgInBvcnQiOiAiNTM4MTgiLA0KICAiaWQiOiAiZjQ2OGQ5MDAtMjEzMy00OTU5LTliMzctOGY2ZWUwMzMwOGNkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICJtamd2ZyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
+
 
 ✅ مناسب وب گردیvless://edddb2ac-f347-41f8-b158-6c263b3058d8@web.biatochannelv271g.shop:2083?encryption=none&security=tls&sni=web.biatochannelv271g.shop&type=grpc&serviceName=A&mode=gun#%40RIP_VPN╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
@@ -500,6 +503,3 @@ vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?encryption=non
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3AXX
 vless://82e457f4-43ff-4f83-9345-407da3da57f4@209.17.118.131:12639/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://9523a24b-f6bf-339e-9950-32829162ffc2@vip2.kaixincloud.top:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://873a8e21-5fed-36a7-b251-734ebc97381c@s1.db-link.in:443?encryption=none&security=tls&sni=s6.oboob.cn&alpn=h3%2Ch2&fp=chrome&insecure=1&type=ws&host=s6.oboob.cn&path=%2Fdb1024c59ce5eab9#%3E%3E%40v2ray_configs_pool%3A%3AHK
-vless://90b9fe99-5bd4-4fa8-a290-4987833adb22@chatgpt.com:443?path=%2FeyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&encryption=none&host=tck-cmhdwom6nlm1k50eelcbh6kum4ob.s90786383.workers.dev&fp=chrome&type=ws&sni=TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV#%3E%3E%40v2rayng_fast%3A%3AUS
-vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@46.235.186.203:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&allowInsecure=0&sni=lk-cdn.deploy-assure.ru#%3E%3E%40v2rayng_fast%3A%3ARU
