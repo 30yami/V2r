@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#[19178] - Telegram : @V2All
 vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#برای اتصال دائمی جوین شو🚏 @V2rayng_Fast
 vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#🐦‍🔥-@SPEEDS_VPN
 vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#برای+اتصال+دائمی+جوین+شو🚏+@ri3_ch
@@ -503,3 +502,4 @@ vless://eca9ff44-edfa-4071-cadb-6c4b51e776fc@mtnx.ircf.space:8443?mode=gun&secur
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://ece350a5-35d4-47fa-a5d7-9dd60409634a@94.183.241.82:1000?encryption=none&security=none&type=tcp&headerType=none#@filembad
+vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=_RCN3b8MUJE61ES111k45TLrvB_nUi1pywAO5sc0OF0&sid=cb8ba29900e2f68b&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
