@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=trexplus.org&headerType=http&type=tcp#@GozargahAzad|🇮🇷
-vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?encryption=none&type=tcp&headerType=http&host=trexplus.org&security=none#@FREE_VPN02
 vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=none&encryption=none&host=trexplus.org&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=none&encryption=none&host=trexplus.org&headerType=http&type=tcp#@Proxyiranip
 vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=none&encryption=none&host=trexplus.org&headerType=http&type=tcp#@bemolake
@@ -503,3 +501,5 @@ vless://cd160419-29f6-45c0-8fd1-8ad01cd33e90@all1.money-cloud.ru:3010?encryption
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#@V2rayNG3
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=🔒&security=none&type=ws#📡3@oneclickvpnkeys
 vless://ce07004d-90c5-43bd-a38e-c514a7f94ead@94.183.241.159:777?security=none&encryption=none&headerType=none&type=tcp#کانال تنهانت: AI_DUET@
+vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
+vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?security=none&encryption=none&headerType=none&type=tcp#💎@ConfigV2RayNG
