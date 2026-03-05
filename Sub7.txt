@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.42.88.244:443/?type=ws&encryption=none&flow=&host=vtolink.ayatollahnajafi.cf&path=/?ed=2048?@vtolink&security=tls&sni=AYATOLLAHNAJAFI.CF#🇩🇪 HamrahAval @vtolink
+vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🔘 T.me/V2HUBIR | Join Now ✅️  ⭕️ میگن وصله این ای پی ولی باز تست کنید
 vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2rayAlpha-11
 vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@vmesskhodam-@vmesskhodam
 vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔰 @ConfigV2RayNG (تلگرام)
@@ -501,5 +503,3 @@ vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.244:443?encryption=none&se
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@V2RAYROZ
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#🇬🇧@FreakConfig
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
-vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@V2ynpv : تلگرام
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=/?ed=2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#@torang_vpn
