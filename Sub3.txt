@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://8569f948-b87f-4201-9f4a-165834269e60@37.139.33.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#https://t.me/allproconf
 ss://8569f948-b87f-4201-9f4a-165834269e60@37.139.33.15:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#https://t.me/allproconf
 ss://89c8f8a0-a98c-4091-b91b-f57d228afd29@51.250.64.246:444?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ&sid=eeaaae5d951ddea3&type=grpc&authority=&serviceName=grpc&mode=gun#https://t.me/allproconf
 ss://8e0d168b-f984-0bb8-865f-88b9a46fb48f@109.120.188.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#https://t.me/allproconf
@@ -503,3 +502,4 @@ vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&enc
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#سرور های پرسرعت بیشتر در چنل🌋@vmesc
 vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#🩵+@Azarakhsh_Proxy+🩷
+vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@193.233.231.221:443/?type=grpc&encryption=none&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇷🇺 GRPC-Reality | @v2ray_configs_pool (2)
