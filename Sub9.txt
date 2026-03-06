@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:8443?security=reality&encryption=none&pbk=O0oplKJbcs9bjogO_OIrHYHjuNWhf0Kt5hGRNbYHZic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=abcd1234#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#@V2rayng_Saz | VIP 🌟
 vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083/?type=ws&encryption=none&host=native.loveplus.de5.net&path=/ehueueuejs&security=tls&sni=native.loveplus.de5.net&alpn=http/1.1&fp=chrome#hamedvpns-114-🇳🇱
 vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083?path=/ehueueuejs&security=tls&alpn=http/1.1&encryption=none&host=native.loveplus.de5.net&fp=chrome&type=ws&sni=native.loveplus.de5.net#فیلترشکن رایگان👈vpnowl@
@@ -501,5 +503,3 @@ vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.
 vless://d9af63f1-8521-4639-942f-6d66afb01142@emergency2.layer-ziro.ir:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://d9bddbc8-7d3a-498c-92b5-f19e61d9cc71@151.101.129.194:80?mode=auto&path=/TignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@torang_vpn
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/telegram-proxy_mtm?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=chrome&type=ws&sni=mmdv2.pages.dev#@torang_vpn
