@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=/&security=none&encryption=none&type=ws#@V2rayAlpha-5
-vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=/&security=none&encryption=none&type=ws#[19923] - Telegram : @V2All
-vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=/&security=none&encryption=none&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=/&security=none&encryption=none&type=ws#🔘 T.me/V2HUBIR | Join Now ✅️
 vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
 vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
@@ -503,3 +500,6 @@ vless://b31fa821-b818-4eb2-9242-241b930152b2@81.12.33.166:1001?encryption=none&s
 vless://b367148f-b0d1-466f-bad2-ac99fe557b85@92.114.24.9:56609?security=none&encryption=none&headerType=none&type=tcp#EmKavpn
 vless://b40567e1-99da-4892-aa29-64008cd107e8@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Telegram : @V2ynpv
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@77.239.125.99:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#@Golestan_VPN - 🦁☀️
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayngzendegimamad🕊️
+vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:8443?security=reality&encryption=none&pbk=O0oplKJbcs9bjogO_OIrHYHjuNWhf0Kt5hGRNbYHZic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=abcd1234#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#@V2rayng_Saz | VIP 🌟

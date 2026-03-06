@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#@FreeVlessVpnبیااینجا
-vless://2fb9335d-6a89-4eed-8246-0d5076fd556e@vip-meli2.nightgemshop.com:443?encryption=none&security=none&type=tcp&headerType=http&host=alef.ir#hope of freedom - @anotherme_night
-vless://2fb9335d-6a89-4eed-8246-0d5076fd556e@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#vpnsal
 vless://30254c31-8e12-4943-b6cb-0ca037ef6f47@www.speedtest.net:2087?path=/random&security=tls&encryption=none&host=peacefulpigs.adaspoloandco.com&fp=chrome&type=ws&sni=peacefulpigs.adaspoloandco.com#فیلترشکن رایگان👈vpnowl@
 vless://30689d42-d2f2-4495-a49b-dd0fdba10fb8@liad.maf-tahas.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh2.sdcards1.ir#Telegram : @V2ynpv
 vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.222:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@V2rayNG3
@@ -503,3 +500,6 @@ vless://51bf7d08-afa4-4385-864a-6a05d40ed148@ir186.nastaro.de:6004?type=tcp&encr
 vless://51bf7d08-afa4-4385-864a-6a05d40ed148@ir212.nastaro.de:6000?type=tcp&encryption=none&host=cafeariel.ir&path=/&headerType=http&quicSecurity=none&serviceName=&security=&fp=chrome#Config 5 - @lebertad
 vless://51bf7d08-afa4-4385-864a-6a05d40ed148@ir67.nastaro.de:6001?type=tcp&encryption=none&host=cafeariel.ir&path=/&headerType=http&quicSecurity=none&serviceName=&security=&fp=chrome#Config 1 - @lebertad
 vless://51bf7d08-afa4-4385-864a-6a05d40ed148@ir67.nastaro.de:6001?type=tcp&encryption=none&host=cafeariel.ir&path=/&headerType=http&quicSecurity=none&serviceName=&security=&fp=chrome#Telegram:@config_proxy 🔥
+vless://51bf7d08-afa4-4385-864a-6a05d40ed148@sr4.cloud-files-uploader.com:80?type=ws&encryption=none&host=sr4.cloud-files-uploader.com&path=/&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#Config 4 - @lebertad
+vless://51f09ae9-e537-4205-aa6f-e539c4b2d413@51.250.69.188:8449?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=/&type=tcp&headerType=none#https://t.me/allproconf
+vless://52319f82-9c55-4287-965f-f0c5616f1ff6@gemini.vhuma.com:65?security=none&allowInsecure=0&encryption=none&type=tcp&host=bama.ir&path=/&headerType=http#@chillguy_vpn
