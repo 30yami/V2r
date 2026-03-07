@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&security=none&type=tcp&headerType=http&host=Myket.ir#@digiv2ray-50GB
 vless://abe735cf-8e79-4716-bfa5-0aff72215799@91.107.240.224:443?security=&encryption=none&headerType=http&type=tcp#🇩🇪All⁵ | @BigSmoke_Config
 vless://abfb8ddb-7c35-4c7b-a40d-817d813481ef@viptun.persianv2.ir:2096?security=none&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
 vless://abfb8ddb-7c35-4c7b-a40d-817d813481ef@viptun.persianv2.ir:2096?security=none&encryption=none&headerType=none&type=tcp#Config 4 - @lebertad
@@ -503,3 +502,4 @@ vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=d
 vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
 vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?security=none&encryption=none&host=/JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN&headerType=none&type=tcp#سرور های پرسرعت بیشتر در چنل🌋@vmesc
 vless://d5d52c15-f963-42b8-971b-613fc9c5e7e3@109.172.55.220:58198?encryption=none&fp=chrome&pbk=zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE&security=reality&sid=2c8a6793b9de7014&sni=yandex.ru&type=tcp#@AkbarConfig👈کانفیگ روزانه در
+vless://d5d52c15-f963-42b8-971b-613fc9c5e7e3@109.172.55.220:58198?encryption=none&fp=chrome&pbk=zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE&security=reality&sid=2c8a6793b9de7014&sni=yandex.ru&type=tcp#@VPN_PASARGAD
