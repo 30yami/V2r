@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.192.210.130:44708?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
+vless://4be2c924-09e9-4d0c-8aa1-fad9704fed5e@83.166.233.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M&sid=348fac7c65368555&type=tcp&headerType=none#https://t.me/allproconf
 vless://4be2c924-09e9-4d0c-8aa1-fad9704fed5e@83.166.233.81:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M&sid=348fac7c65368555&type=tcp&headerType=none#https://t.me/allproconf
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.206.124.158:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#@vpnsal
 vless://4c2a61d3-2b8d-e0a1-5195-53ac103c5396@porttt1.webchipro2.ir:4030?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
@@ -501,5 +503,3 @@ vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@147.45.41.37:8443?encryption=none&f
 vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@147.45.41.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5Se3xR2eisrwhgrA-D4dNdDLLlTGC9OLewvxfdb_lBg&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🌷83@oneclickvpnkeys
 vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@svad1comp.uiapp.shop:12443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=upHGbqKDoZIUernwqBYsr4T3jCDcW82Z0eAz07deQhU&security=reality&sid=6ba85179e30d4fc2&sni=sun9-38.userapi.com&type=tcp#[20566] - Telegram : @V2All
 vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@svad1comp.uiapp.shop:12443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=upHGbqKDoZIUernwqBYsr4T3jCDcW82Z0eAz07deQhU&security=reality&sid=6ba85179e30d4fc2&sni=sun9-38.userapi.com&type=tcp#🌷02@oneclickvpnkeys
-vless://6ceadcb3-81b5-4a0d-a99e-3cb24238952c@chatgpt.com:8443?path=/eyJqdW5rIjoiM01rd2Uxb21BemtUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.ndulimbh.workers.dev&fp=chrome&type=ws&sni=V2nGfaST-V2NGfaST-V2NgfaST-V2NgFaST-V2NgfasT.nDulIMBH.WorkERS.dev#1 🔥 @V2ngFast
-vless://6d39596c-b569-4a61-86c3-28cfb83a4c95@212.111.84.187:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#IR-@V2rayAlpha-17
