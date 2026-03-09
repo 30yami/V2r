@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇩🇪 @FreakConfig
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🛡 V 119 @Outline_Vpn
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🛡 V 31 @Outline_Vpn
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🛡 V 40 @Outline_Vpn
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@AkbarConfig👈کانفیگ روزانه در
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇩🇪 TCP-Reality | @v2ray_configs_pool (10)
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@ConfigV2RayNG
@@ -499,7 +503,3 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:8443?path=/45.76.183.2
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=/45.76.183.217=49292&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.92ms
 vless://6a6f8ec9-f485-491e-ba65-7e8c0a2f8608@VIP2.xQFire.iR:812?encryption=none&type=tcp&headerType=http&host=telewebion.com#@FREE_VPN02
 vless://6abc75eb-b58b-4e28-af59-20f41bdf7a2a@104.18.32.47:443?path=/restart&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=last.ownlink.pro&fp=chrome&type=ws&allowInsecure=0&sni=last.ownlink.pro#@V2rayNG3
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@173.255.192.9:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L258
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@173.255.197.10:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L414
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@69.164.205.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L982
-vless://6b852256-0f83-470a-bead-6bb2fe7befa9@195.46.39.40:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#@V2HUBIR
