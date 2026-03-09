@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-
 ✅ مناسب وب گردیvless://7f8034e2-f649-4b49-8617-44358839677a@hm2legenderyservers.ddns.net:8443?encryption=none&security=tls&sni=jw.mrphh.me&type=grpc&serviceName=%40LegenderY_Servers&mode=gun#%40RIP_VPN%20%20%20%20%20MCI%20💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +501,5 @@ vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?encryption=none&f
 vless://77777777-6663-4ef2-b26b-ed2d70642678@104.18.42.163:2087?allowInsecure=1&encryption=none&host=8fbxjhscv17.fx02.ccwu.cc&path=%2F&security=tls&sni=8fbxjhscv17.fx02.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?allowInsecure=1&encryption=none&host=afxmsv51.fx02.ccwu.cc&path=%2F&security=tls&sni=afxmsv51.fx02.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.93:2087?allowInsecure=1&encryption=none&host=8fbxjhscv17.fx02.ccwu.cc&path=%2F&security=tls&sni=8fbxjhscv17.fx02.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://77777777-6663-4ef2-b26b-ed2d70642678@www.shopify.com:2087?allowInsecure=1&encryption=none&host=8fbxjhscv17.fx02.ccwu.cc&path=%2F&security=tls&sni=8fbxjhscv17.fx02.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
