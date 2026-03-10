@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#V2rayng_Fast
+vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#برای اتصال دائمی جوین شو🗾 @
+vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#⚡Telegram = @SOSkeyNET
 vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#✅@AR14N24b
 vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#𓆩⚡𓆪 @𝗧𝗘𝗫𝗧𝗖𝗨𝗣𝗜𝗗𝗢 𓆩⚡𓆪
 vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=/8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=chrome&type=xhttp&sni=gharar.ir&sid=9defe6#🧢-turbov2box
@@ -499,7 +503,3 @@ vless://dba4e8ac-2d04-4691-aaad-16619269ecf9@94.101.180.186:3000?type=tcp&securi
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@nl.kv.prod.n7.homes:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[21010] - Telegram : @V2All
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@nl.kv.prod.n7.homes:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#🚂03@oneclickvpnkeys
 vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@fi2.persianhostnet.ir:5122?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
-vless://dc511961-f6f9-4c40-d6ea-e8a85ab74f77@farzandeiran.iransalar.top:45179?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@free_vpn02
-vless://dc511961-f6f9-4c40-d6ea-e8a85ab74f77@farzandeiran.iransalar.top:45179?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@harfbzaniiim
-vless://dc511961-f6f9-4c40-d6ea-e8a85ab74f77@farzandeiran.iransalar.top:45179?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@icv2ray
-vless://dc511961-f6f9-4c40-d6ea-e8a85ab74f77@farzandeiran.iransalar.top:45179?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Config 3 - @lebertad

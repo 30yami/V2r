@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ch-1.hotvpn.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂24@oneclickvpnkeys
+vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ch-1.hotvpn.cc:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&sni=google.com#Telegram:@config_proxy 🔥
+vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-1.hotvpn.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂83@oneclickvpnkeys
+vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-3.hotvpn.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂25@oneclickvpnkeys
 vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-6.hothapp.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂31@oneclickvpnkeys
 vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@uk-1.hotvpn.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂8@oneclickvpnkeys
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇨🇳TW
@@ -499,7 +503,3 @@ vless://26524cce-d514-4014-a426-365fb266a14d@v1.dabache.top:443?type=ws&encrypti
 vless://2689959a-5f96-49a5-92fb-ea5daa427e85@speed.mobilekamali.com:41000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@harfbzaniiim
 vless://2689959a-5f96-49a5-92fb-ea5daa427e85@speed.mobilekamali.com:41000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🧢-turbov2box
 vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@[2001:bc8:32d7:302::13]:34324?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M&security=reality&sni=dash.cloudflare.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#2 🇩🇪 @av2ngFast
-vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none#🇨🇦 TCP-None 📁 @FreakConfig
-vless://27c3b76d-1050-4e9b-9995-9cc354095864@emg4.saipasamandemg4.sbs:2004?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://27c3b76d-1050-4e9b-9995-9cc354095864@emg4.saipasamandemg4.sbs:2004?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#✅@AR14N24b
