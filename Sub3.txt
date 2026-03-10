@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#🇰🇿 - KZ - @FreeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#@torang_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#@AkbarConfig👈کانفیگ روزانه در
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#@confignetmeliina
@@ -503,3 +501,5 @@ vless://04ad3627-3493-436b-936f-c41734258159@b1.msjia8844.site:2020?security=non
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://0509acee-63e3-4364-95cc-21c601f059be@185.254.99.241:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sni=booking.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#Config 1 | کانفیگ رایگان @hacknashid
+vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#Config 2 - @lebertad
+vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#⚡Telegram = @SOSkeyNET

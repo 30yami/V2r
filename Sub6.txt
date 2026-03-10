@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4c2a61d3-2b8d-e0a1-5195-53ac103c5396@porttt1.webchipro2.ir:4030?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
-vless://4c2a61d3-2b8d-e0a1-5195-53ac103c5396@porttt4.webchipro2.ir:3040?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#hope of freedom - @anotherme_night
 vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇫🇷@FreakConfig
 vless://4c585027-6ef2-42ff-899b-06a97b1ee7bb@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
 vless://4c585027-6ef2-42ff-899b-06a97b1ee7bc@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
@@ -503,3 +501,5 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&en
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@bored_vpn
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@v2rayland02🌐
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram:+@Red2Ray+🚀+Number+24
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇩🇪 |⚡@EuServer
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
