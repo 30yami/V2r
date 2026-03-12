@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529/?type=tcp&encryption=none&sni=yandex.ru&fp=chrome&security=reality&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&sid=b77a294515ecc200#🇩🇪 TCP-Reality 📁 @v2nodes (1)
 vless://ad39e228-35a9-4629-a16a-d66a97654225@150.241.230.85:52554?security=reality&encryption=none&pbk=DCnaVqwxfGF3d7LDHqFKYtlyGw2l6LsbxPvphK776Gc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6b4bdb32#@v2rayngzendegimamad🕊️
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.124.4.215:59599?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://ad6e47ed-11b2-455e-8763-4e492a8b3d16@v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev#4  🇩🇪 @av2ngFast
@@ -503,3 +502,4 @@ vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?type=tcp&security
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=/?ed=2560#😇Tel: @pPal03😇
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.24.219.162:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=/?ed=2560#😇Tel: @pPal03😇
 vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=dl?ed=2560&security=none&encryption=none&extra={"downloadSettings":{"address":"188.244.122.136","port":443,"network":"xhttp","security":"tls","tlsSettings":{"serverName":"s1.utuvpn.org","fingerprint":"chrome"},"xhttpSettings":{"path":"/dl?ed=2560","host":"s1.utuvpn.org","mode":"auto"}}}&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#v2rayNplus 11
+vless://d5b0939d-e79b-4595-b4fc-abecdcb214d9@102.37.142.9:8080?security=none&encryption=none&host=102.37.142.9&headerType=http&type=tcp#@confignetmeliina

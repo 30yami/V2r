@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 |⚡@EuServer
 vless://699fca60-533f-4436-38db-7881c2150fe2@107.174.198.228:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&sni=53e5ab44.lfree.cn.mt&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=53e5ab44.lfree.cn.mt&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719#🇺🇸[Telegram:NetifyVPN]
 vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@104.207.151.11:8443?path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433&security=tls&alpn=h3&encryption=none&insecure=0&host=6745d1ce.cloudorg.ccwu.cc&type=ws&allowInsecure=0&sni=6745d1ce.cloudorg.ccwu.cc#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@107.172.87.154:4433?allowInsecure=1&alpn=h3&encryption=none&host=6745d1ce.cloudorg.ccwu.cc&path=/techbod?ed=2560&security=tls&sni=6745d1ce.cloudorg.ccwu.cc&type=ws#🇺🇸 United States 🍓 @techbod
@@ -503,3 +502,4 @@ vless://8e0d168b-f984-0bb8-865f-88b9a46fb48f@5.188.141.131:443?encryption=none&f
 vless://8e3bf431-98ad-413b-b34f-cf5ee154a4ba@5.182.36.90:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@3.79.114.176:443/?type=tcp&encryption=none#🌐 TCP-None 📁 @Free_World2 (22)
 vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=arz.radargame.site#[21334] - Telegram : @techbod
+vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=arz.radargame.site&path=/?ed=2560#🇮🇷 Iran 🍓 @techbod
