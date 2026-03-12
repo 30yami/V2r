@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?security=reality&encryption=none&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=28bf#🇺🇸@FreakConfig
 vless://909065ef-60c5-4e26-9907-c3912c5f98aa@chatgpt.com:443?path=/eyJqdW5rIjoibGRGQTU2YmhVRWFOZVgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=masterserver1-masterserver1-masterserver1-masterserver1.pycpdoub.workers.dev&fp=chrome&type=ws&sni=MaSTErServer1-MaSTERsERVer1-mASTERserveR1-maSteRsERVeR1.PYCpdOUB.wORkerS.dEv#1️⃣ All Operators @MaSTeRSeRVeR1
 vless://910e3778-bbee-492b-a1e5-5f9c1cfe4194@85.133.250.87:41679?encryption=none&security=none&type=tcp&headerType=http&host=78.157.49.67#hope of freedom - @anotherme_night
 vless://910e3778-bbee-492b-a1e5-5f9c1cfe4194@85.133.250.87:41679?security=&encryption=none&host=78.157.49.67&headerType=http&type=tcp#1-a7r23858
@@ -503,3 +502,4 @@ vless://adad2034-0510-4a4e-8759-77a8244e521a@95-mega.harknmav.fun:443?encryption
 vless://adad2034-0510-4a4e-8759-77a8244e521a@all109.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Us7U978Q2jZwoEFoPxkv-fR1A4N0ehZVX_T9KwzXH3s&security=reality&sid=f69d7af6d5fc3e0c&sni=max.ru&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://adad2034-0510-4a4e-8759-77a8244e521a@cy.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Q3LeFdt8Tl-yS9xTD9Q4GONrA9yqXYxbHsrCU2-BvQQ&security=reality&sid=6e752a0d4d15e0f9&sni=ads.x5.ru&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://ae1c381b-3e66-42bf-a1d0-d2df816ad522@real.overdoes.site:43445?type=tcp&security=reality&fp=chrome&pbk=adeDTnUssyQ8VrL1MS5iOdPzTXEwk8XlBnPGPG_5DTk&sni=www.speedtest.net&sid=204cb7fc&spx=/#OverdoseVPN🇩🇪Reality4️⃣-fiuxoye4 ❌
+vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai,web.splus.ir,igap.net&headerType=http&type=tcp#@NETMelliAnti
