@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@azdeltaghalam7🦄
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@azdeltaghalam7🫆
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@v2ray_configs_pools 🎖
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@azdeltaghalam7🌵
@@ -503,3 +502,4 @@ vless://8f2f9ad3-df75-464e-c542-cd80d61b57c4@usaa.fastlynew.hosting-ip.com:80?pa
 vless://8f2f9ad3-df75-464e-c542-cd80d61b57c4@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=civan.global.ssl.fastly.net&type=ws#@city_v2rayng مناسب نت ملی بیاا تو چنل جدید بردار
 vless://8f31ac58-b70f-4c56-8b24-93b56ee5df2d@gb1.vnet500.xyz:32044?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://8feb77b2-c855-4aeb-8378-f93cf1985b9b@www.internetwebhub.blog:8880?encryption=none&host=mail.networkstreaming.fUN.&mode=auto&path=/Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers,Tel:@Ahmedhamoomi_Servers&security=none&type=xhttp#🇩🇪 Frankfurt : @Ahmedhamoomi_Servers
+vless://9014966e-9548-45c6-b4ab-b68370dbf3d5@emg1.saipasamandemg1.sbs:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#عضوباش V2rayNG_SPDNet

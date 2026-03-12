@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ae1c381b-3e66-42bf-a1d0-d2df816ad522@real.overdoes.site:43445?type=tcp&security=reality&fp=chrome&pbk=adeDTnUssyQ8VrL1MS5iOdPzTXEwk8XlBnPGPG_5DTk&sni=www.speedtest.net&sid=204cb7fc&spx=/#OverdoseVPN🇩🇪Reality4️⃣-fiuxoye4 ❌
 vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai,web.splus.ir,igap.net&headerType=http&type=tcp#@NETMelliAnti
 vless://ae2fd199-17f6-45b8-b80a-293d53de7c38@185.126.203.167:31345?security=none&encryption=none&headerType=none&type=tcp&path=/techbod?ed=2560#🇮🇷 Iran 🍓 @techbod
 vless://ae72f958-c1f6-4fc2-a310-1f007af3d11f@104.21.65.159:80?encryption=none&host=2wsde.12i.ccwu.cc&path=/C6VXG81UQc4XWS6Csfk0uFDF&security=none&type=ws#🚂05@oneclickvpnkeys
@@ -503,3 +502,4 @@ vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/?ed=2048&s
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/Telegram-@proxy_mtm/?ed=2560&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=chrome&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@torang_vpn
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=TELEGRAM-PROXY_MTM/?ed=2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@torang_vpn
 vless://d7bd8e1a-8e57-46a8-c1f9-2c6751de3afc@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
+vless://d84c0e47-7575-44cb-bc05-b55de8b51ca0@188.114.98.0:2053?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hz.badomzamini.uk#@V2ynpv : تلگرام
