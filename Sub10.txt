@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@144.31.237.48:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@185.170.154.71:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@51.250.75.255:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=eh.vk.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@64.188.64.63:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=www.vk.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
@@ -502,4 +503,3 @@ vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?mode=auto&
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@chatgpt.com:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=blouck-de.gozarcloud.ir#🚀 Telegram = @v2ray_configs_pools
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#@V2RAYROZ 🐥🌷
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-nl.gozarcloud.ir#✨ @v2ray_configs_pools | 🚀 | 🇺🇸
