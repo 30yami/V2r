@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Golestan_VPN - 🕊️
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.37.10:993?security=reality&encryption=none&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Golestan_VPN - 🕊️
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#@Golestan_VPN - 🕊️
 vless://c11dc97a-b0a0-4389-821d-01617b17df20@157.180.94.33:8443?type=xhttp&path=/@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala&host=tgju.org&mode=auto&security=reality&pbk=6evIKHcL0ZpiQwQcmajz1PlIaS1DdLKFn-mEQGBbFU8&fp=chrome&sni=stackoverflow.com&sid=5586&spx=/#🚸 Cephalon_ala-[21]
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#@torang_vpn
 vless://c19dc95b-efe0-4699-b643-7a1903143957@subscription.lormarb.ir:53762?path=/&security=none&encryption=none&type=ws#@free_shekan
@@ -503,3 +500,6 @@ vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:2053?mode=auto&securit
 vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=/ed=2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#@freenettir
 vless://e451551c-5a1a-4cfe-a4b0-a8988973ad2b@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://e451551c-5a1a-4cfe-a4b0-a8988973ad2b@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b
+vless://e4555088-f2a9-4bdf-c0e5-69aa47c8d7d6@151.243.3.59:15187?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@GozargahAzad|🇳🇱
+vless://e4555088-f2a9-4bdf-c0e5-69aa47c8d7d6@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
+vless://e4555088-f2a9-4bdf-c0e5-69aa47c8d7d6@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b
