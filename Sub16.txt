@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2aXBfdnBuXzIwMjIiLAogICJhZGQiOiAiYXdlLTY0LmYtc3ViLnh5eiIsCiAgInBvcnQiOiAxNzc1OCwKICAiaWQiOiAiYTkwMWQ1MWMtNWE3Yy00ZmExLWM0NGMtMDA5NWVhMjdhZjJjIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ==#v2rayng 🤍🆘#اپراتور_های_قابل_اتصال⏳#ایرانسل✅برای لینک اختصاصی خودت سرعت بالا به ایدی زیر پیام بده👇✔️ @owner_servic__________________________________❣️مارو به دوستاتون معرفی کنید 👑🌐 @vip_vpn_2022---------------------------------------------------
+
+
 ✨🇻​🇵​🇳​✨🇻​🇮​🇵​✨ pinned «📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰  vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2aXBfdnBuXzIwMjIiLAogICJhZGQiOiAiYXdlLTY0LmYtc3ViLnh5eiIsCiAgInBvcnQiOiAxNzc1OCwKICAiaWQiOiAiYTkwMWQ1MWMtNWE3Yy00ZmExLWM0NGMtMDA5NWVhMjdhZjJjIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsC…»
 
 
@@ -500,6 +503,3 @@ vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=no
 vless://41598599-741f-460f-9f46-a34796d92fba@185.112.59.134:8446?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0&security=reality&sni=max.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://41d99003-2c98-488f-b9d9-5c95cffaa571@51.250.72.141:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#%3E%3E%40configshub2%3A%3ANL
 vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%3E%3E%40configshub2%3A%3AUS
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://48ddd7e3-5d31-46ab-9153-16c0e4d92adc@139.59.3.70:24725/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34&sid=#%3E%3E%40oneclickvpnkeys%3A%3AIN
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS

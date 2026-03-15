@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--4
+vless://a0d9fda7-3694-4c6f-8486-b06f292b06a2@cf1.redforever.top:2087?allowInsecure=1&encryption=none&host=cdn.harchihast.com&path=//ws&security=tls&sni=cdn.harchihast.com&type=ws#🧿81@oneclickvpnkeys
+vless://a0e2bbf8-fa37-4f41-b6e2-26a855a71fa8@104.18.32.47:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=1&host=ws.logiclama.com&fp=chrome&type=xhttp&allowInsecure=1&sni=ws.logiclama.com#SEG1
 vless://a0e2bbf8-fa37-4f41-b6e2-26a855a71fa8@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=1&host=ws.logiclama.com&fp=chrome&type=xhttp&allowInsecure=1&sni=ws.logiclama.com#SEG2
 vless://a10791c1-4710-4ac7-901e-143eabe632e4@144.31.116.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=TnfSCSoPjSQZ2GNtR15iEnTtF6AMroEBGNBhxAnitWY&sid=4c2404fc&spx=/#⚡Telegram = @SOSkeyNET
 vless://a10791c1-4710-4ac7-901e-143eabe632e4@144.31.116.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=TnfSCSoPjSQZ2GNtR15iEnTtF6AMroEBGNBhxAnitWY&sid=4c2404fc&spx=/#✅@AR14N24b
@@ -500,6 +503,3 @@ vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:2053?path=/
 vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN#کانال تلگرام : Free_VPN_CH@
 vless://c858a27e-e271-41b6-98d3-a1a55d851e99@bovpn-est.odbo.tech:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=kEa6jlXPBrk-7NQGGR-mN6An1eXHEwSd2DMMNhtLQEU&sid=0922ca730299d13f&sni=bovpn-est.odbo.tech&echfq=none&allowinsecure=0#Config 3 - @lebertad
 vless://c8812004-f201-4c73-8f98-8b75f3f3ddb6@194.61.3.100:17799?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#@v2rayland02🌐
-vless://c8c598e3-4811-4d63-82e0-f1b2fda2b900@1sofewhite.legendperm.ir:1312?security=none&encryption=none&headerType=http&type=tcp#@@lldalall
-vless://c8c598e3-4811-4d63-82e0-f1b2fda2b900@1sofewhite.legendperm.ir:1312?security=none&encryption=none&headerType=http&type=tcp#@Bluefilter_org
-vless://c8c598e3-4811-4d63-82e0-f1b2fda2b900@1sofewhite.legendperm.ir:1312?security=none&encryption=none&headerType=http&type=tcp#@V2HUBIR
