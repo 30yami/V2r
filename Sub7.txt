@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5635fd67-8c75-de5d-38db-7d55648bd9ba@94.184.5.43:58173?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
-vless://563709ea-3663-4f86-b413-5299897659a5@sourceforge.net:2053?type=ws&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&host=laj.iranianmobail.ir&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=laj.iranianmobail.ir#@alo_v2rayng با کانفیگ رایگان اینستا نرو آی پی ثابت نیس دیسیبل میشه پیجت
-vless://56a210bb-8c6b-4148-80bc-2fec5099cb98@c27.prodnsspeed10.ir:2083?encryption=none&security=tls&sni=so.sodogodping.ir&fp=chrome&type=grpc&authority=&serviceName=Love&mode=multi#کانال تلگرام : Free_VPN_CH@
 vless://56c4ac8f-dd18-4f65-ac63-160111d9b9e9@blueberrynework.blueberrynetwork.xyz:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
 vless://56d46499-c05d-4f8b-b073-63cbcd95d293@77.42.67.4:47141?encryption=none&fp=chrome&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&security=reality&sid=f4fa9f410d7134ea&sni=www.cloudflare.com&type=tcp#🧿52@oneclickvpnkeys
 vless://572d98cb-5bc8-40c5-af0b-450a1cc9395d@94.183.149.205:8882?type=ws&path=/&host=&security=none#@chillguy_vpn
@@ -503,3 +500,6 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&en
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram:+@Red2Ray+🚀+Number+24
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇩🇪 |⚡@EuServer
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?encryption=none&security=none&type=tcp&headerType=http&host=/---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig#کانال تلگرام : Free_VPN_CH@
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---&headerType=http&type=tcp#اتصال دائمی با سرور های چنل🍦@Outline_ir
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---V2RRVIP&headerType=http&type=tcp#اتصال دائمی با سرور های چنل🍦@Outline_ir
