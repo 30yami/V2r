@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--15
 vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--16
 vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&security=none&type=tcp&headerType=http&host=google.com#[🇮🇷]t.me/ConfigsHub
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?path=/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#@V2rayAlpha--2
@@ -503,3 +502,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUiLCJhZGQiOiJmcmMudGVhbXYuaXIi
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA0NjE2IiwiYWRkIjoiMTAzLjIyNC44MC43IiwicG9ydCI6IjIwODciLCJ0eXBlIjoibm9uZSIsImlkIjoiNDYyZDk2OTQtNjJiNS00NzgxLWEyODctNjFhNDIyYjkyMGU4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92dmlwIiwiaG9zdCI6Im1uMXJheS5qYWdvYW52aXAueHl6IiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA1MjgwIiwiYWRkIjoibjE3NTM1OTg0NTIud3BnMjcueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI0ZjIzZWI3Yy1lZjJmLTQzYjAtOTBkZC1mMmI4YTc1OTU0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA1NjQ3IiwiYWRkIjoiMTg1LjE3NC4xMzguMzQiLCJwb3J0IjoyMDgyLCJpZCI6IjYwNjZhYmYxLWNkYjEtNDgxOC1kMzVhLTdjOGUwZWU5MDMyMCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlZS52MmpleS5mdW4iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2MDQwIiwiYWRkIjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsInBvcnQiOjQ0MywiaWQiOiIxZWZmYWM0YS1jZGI4LTQ3MTctYTEwYy1kYTk3MjYzYzgwMmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==

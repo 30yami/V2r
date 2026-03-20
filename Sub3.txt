@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://telegram-id-privatevpns@15.236.44.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.89.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -503,3 +502,4 @@ vless://65ff743c-6b09-403e-91ad-dd6024ea7d02@188.137.183.72:24631?security=none&
 vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://67074599-2f4d-4c47-997f-de85bb2e531b@ip2-cloud.tyryqyserver.ir:8080?mode=auto&path=/&security=none&encryption=none&host=tamam-cloud-de.ocean-pro.top&type=xhttp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://67b6d63d-3385-fc48-ac88-ebaf67f28f97@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#IR+@V2rayAlpha-25
+vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--15
