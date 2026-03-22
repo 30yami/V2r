@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://1111@108.162.198.151:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#10 🇩🇪 @V2ngFast
+trojan://1111@108.162.198.164:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev#6 🇩🇪 @V2ngFast
+trojan://1111@108.162.198.164:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+trojan://1111@162.159.36.5:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev#2 🇩🇪 @V2ngFast
+trojan://1111@162.159.36.5:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+trojan://1111@162.159.38.20:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev#9 🇩🇪 @V2ngFast
+trojan://1111@162.159.38.20:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+trojan://1111@172.64.144.86:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev#3 🇩🇪 @V2ngFast
+trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev#8 🇩🇪 @V2ngFast
+trojan://1111@173.245.59.64:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev#7 🇩🇪 @V2ngFast
+trojan://1111@173.245.59.64:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+trojan://1111@8.35.211.134:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev#4 🇩🇪 @V2ngFast
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev#6 🇩🇪 @V2ngFast
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev#8 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev#1 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=/?ed&security=tls&insecure=0&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#⚡Telegram = @v2ray_freex
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#3 🇩🇪 @V2ngFast
@@ -489,17 +503,3 @@ vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=20
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=/esoznjws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab15&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=m.vk.com#🇬🇧TM (@AZARBAYJAB1)
 vless://038a42d5-05b0-4d12-af99-37643ac347a1@betty.ns.cloudflare.com:443?path=/fhujaiws&security=tls&encryption=none&host=638991995737742135.swift-amsib.info&type=ws&sni=638991995737742135.swift-amsib.info#@v2rayngzendegimamad🕊️
 vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?security=none&encryption=none&headerType=none&type=tcp#کانال تلگرام : Free_VPN_CH@
-vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@ConfigV2RayNG
-vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#عضوباش : V2rayNG_SPDNet
-vless://042bcb1f-23dd-4ae9-9dc0-e301f89a5359@193.151.143.138:201?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz⛄️
-vless://0464408a-3db1-4685-92ee-d938d2b58e97@104.16.1.106:2082?encryption=none&type=ws&host=DEADSEECtelegram.khasispc.ir&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 | @EVAY_VPN
-vless://047d94e3-f07b-4754-918e-88b8faeafcd0@custom2.rezaedvr.shop:43433?security=&encryption=none&headerType=http&type=tcp#وصل شدی بیا کانالمون@ConfigV2RayNG
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🎠60@oneclickvpnkeys
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak1.vpsino.com:20493?security=none&type=tcp&headerType=none&path=/#https://
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak1.vpsino.com:20493?security=none&type=tcp&headerType=none&path=/#https://t.me/ConfigX2ray
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak2.vpsino.com:20920?security=none&type=tcp&headerType=none&path=/#https://
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak2.vpsino.com:20920?security=none&type=tcp&headerType=none&path=/#https://t.me/ConfigX2ray
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?encryption=none&type=tcp&headerType=none&host=nobitex.ir&path=/&security=none#@icv2ray
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?encryption=none&type=tcp&headerType=none&host=nobitex.ir&path=/&security=none#https://
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?encryption=none&type=tcp&headerType=none&host=nobitex.ir&path=/&security=none#https://t.me/ConfigX2ray
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?encryption=none&type=tcp&headerType=none&host=nobitex.ir&path=/&security=none#https://t.me/falcunargo
