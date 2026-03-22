@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://06c7a413-6c2d-e356-d0df-d4ac594a24f1@meli2.ertebatgoostar.ir:2087?security=&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=54.38.242.158#ConfigV2RayNG
 vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.227.13:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#💎@ConfigV2RayNG
 vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.227.68:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#@ConfigV2RayNG
 vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.240.82:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#@ConfigV2RayNG | تلگراممون جوین باشید
@@ -503,3 +502,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.153.191:2096/?type=ws&encryption=none&flow=&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&allowInsecure=1#👁️‍🗨️33@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#t.me/v2Line | Free | 3443 | Slovenia
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.202:2053?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@v2rayconfigamir 6637
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.39:2053?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳@WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#@v2rayconfigamir 5490

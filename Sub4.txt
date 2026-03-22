@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.39:2053?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳@WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#@v2rayconfigamir 5490
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.252.21.36:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#@v2rayconfigamir 6364
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.119.195:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#@v2rayconfigamir 8779
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.60:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#😈82@oneclickvpnkeys
@@ -503,3 +502,4 @@ vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip2-fast.tyryqyserver.ir:80?path=/V
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@V2ynpv : تلگرام
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#😈60@oneclickvpnkeys
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#😈71@oneclickvpnkeys
+vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#@V2rayAlpha--9
