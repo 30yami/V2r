@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰vless://ea4fb2fa-8e16-43fd-c5d4-048e4b9fd338@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS#v2rayng 🤍🆘#اپراتور_های_قابل_اتصال⏳#همراه_اول😀برای لینک اختصاصی خودت سرعت بالا به ایدی زیر پیام بده👇✔️ @owner_servic😶@vip_vpn_2022_bot❣️مارو به دوستاتون معرفی کنید 👑🌐 @vip_vpn_2022---------------------------------------------------
 
 
 ✨🇻​🇵​🇳​✨🇻​🇮​🇵​✨ pinned «📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰  vless://ea4fb2fa-8e16-43fd-c5d4-048e4b9fd338@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS  #v2rayng 🤍   🆘#اپراتور_های_قابل_اتصال⏳  #همراه_اول😀  برای لینک اختصاصی خودت سرعت بالا به ایدی زیر پیام بده👇…»
@@ -502,4 +503,3 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.99:2096?path=%2F45.76.18
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%3E%3E%40outline_vpn%3A%3AXX
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%3E%3E%40outline_vpn%3A%3AXX
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%3E%3E%40vmess_vless_v2rayng%3A%3AXX
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%3E%3E%40outline_vpn%3A%3AXX
