@@ -5,7 +5,6 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
-
 ✅10 کانفیگ NetMod syna موشک🚀 🔥سرعت به شدت بالا🔥  👇5 تا ایرانسل،مخابرات،آسیاتک،رایتل،سامانتل👇  nm-vmess://57RgjQwXWCIh3GA4jT7ojK6YLcju5f0NisuAL+bJcNymk/uIdLtPr5ja8FsBHX+BhfrEtmmrHHNUSclhpKcRfY6obZzLCiWc4f/+AI3LDcI9cJJKV9S/ANfzWxW4F7yOZfme95jaFgA2Pdhss1fg+/…
 
 
@@ -503,3 +502,4 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?encryption=none&ho
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.154.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.210:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
