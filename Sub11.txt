@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.126:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2053/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.13.31:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sany.tara132.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sany.tara132.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.146.37:2052?encryption=none&type=ws&security=none&path=%2F&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK#%3E%3E%40configshub2%3A%3AXX
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@v3.dabache.top:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#%3E%3E%40configV2rayNG%3A%3AXX
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6053689d-39d6-4005-b1bd-c0dce854f429@de-fast.chunkyvpn.shop:443?allowInsecure=1&alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-fast.chunkyvpn.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sant.atira-40.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.220.210:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.100:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -503,3 +489,17 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.22:989#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-0315
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0288
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0306
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0283
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.37-0287
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.206-0276
+vmess://ewogICAgImFkZCI6ICJjNy42MjA3MjAueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYzcuNjIwNzIwLnh5eiIsCiAgICAiaWQiOiAiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xOTcuNDctMDI4OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImM3LjYyMDcyMC54eXoiCn0=
+vmess://ewogICAgImFkZCI6ICJjeHNmdm4udWhvbWRleC5zaG9wIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY3hzZnZuLnVob21kZXguc2hvcCIsCiAgICAiaWQiOiAiYmI2ZTI2MGUtYjgwZC00MzY1LWIyNTItOWZiZTQ2NmYxZjM0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjEzNC4yMDgtMDI5MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImN4c2Z2bi51aG9tZGV4LnNob3AiCn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0280
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#%F0%9F%87%A7%F0%9F%87%B4BO-185.93.173.60-0310
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#%F0%9F%87%A7%F0%9F%87%ACBG-38.60.247.151-0299
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0192
+vmess://ewogICAgImFkZCI6ICJ0MS42MjA3MjAueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidDEuNjIwNzIwLnh5eiIsCiAgICAiaWQiOiAiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xOTcuNDctMDc4MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKT1o1TWIzbkpDbW1vS2hkOENjOWFD@5.181.2.76:36608#%F0%9F%87%AD%F0%9F%87%B7HR-5.181.2.76-0290
+vmess://ewogICAgImFkZCI6ICJzeTQuNjIwNzIwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN5NC42MjA3MjAueHl6IiwKICAgICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNzYuMTU4LTA4MDAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-0292
