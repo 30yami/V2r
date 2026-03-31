@@ -396,7 +396,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk@185.5.38.111:55988#@v2rayconfigamir 7905
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk@185.5.38.111:55988?#@v2rayconfigamir 5648
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:811#@V2rayAlpha--1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMM2txd3ZGRTFBeEtyajNSam5VeFh3@marz.vpsino.com:5570#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZam9LS3NHZ0kzSDBXdHQyY1VRRU5Od3d0RFJ2d2ZmQQ==@vip.tekcloud.site:20900#@cllubvpn لطفا برای حمایت جوین شید
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZam9LS3NHZ0kzSDBXdHQyY1VRRU5Od3d0RFJ2d2ZmQQ==@vip.tekcloud.site:20900#Telegram:  @Zero_Tunnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZam9LS3NHZ0kzSDBXdHQyY1VRRU5Od3d0RFJ2d2ZmQQ==@vip.tekcloud.site:20900#Telegram:  @Zero_Tunnel @Zero_Tunnel
@@ -451,7 +450,6 @@ trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=/
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2rayAlpha--3
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#@V2rayAlpha--7
-trojan://telegram-id-directvpn@15.224.22.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.242.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -459,7 +457,6 @@ trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.132.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.22.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.224.22.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.184.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.83.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -482,24 +479,27 @@ vless://04720471-3bf2-4440-8556-5971339d8a21@v2plus01693_4.temp.veraspeed.ir:80?
 vless://04720471-3bf2-4440-8556-5971339d8a21@v2plus01693_4.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@cllubvpn لطفا برای حمایت جوین شید
 vless://04720471-3bf2-4440-8556-5971339d8a21@v2plus01693_4.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#Telegram:  @Zero_Tunnel
 vless://04720471-3bf2-4440-8556-5971339d8a21@v2plus01693_4.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#Telegram:  @Zero_Tunnel @Zero_Tunnel
-vless://04720471-3bf2-4440-8556-5971339d8a21@v2plus01693_4.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.40.43:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.102.198:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://0667652a-1b48-4eb5-99c4-47fb53f3229f@www.speedtest.net:443?path=/eyJqdW5rIjoiaEEzMlVhMzg5ZloyREMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.wrdzl.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-V2NgfAST-V2NgfaST-V2nGfASt-V2NGfasT-v2NGFasT.WRDzL.wOrkeRs.DeV#3 🇩🇪 @V2ngFast
 vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
 vless://09e485e1-241c-4d17-82b2-0dff1be3f61e@kvm.iranhosting.mom:55003?path=/&security=none&encryption=none&host=rubika.ir&type=ws#⚡Telegram = @prrofile_purple
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&headerType=none&type=tcp#@YamYamProxy
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#@Hddify+|+ترکیب+1
 vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev#3 🇩🇪 @V2ngFast
-vless://0e185d94-6477-4f47-a402-acc59aa4bab1@alinka.satarv.ir:80?path=/&security=none&encryption=none&type=ws#@V2rayTun0
-vless://0e185d94-6477-4f47-a402-acc59aa4bab1@alinka.satarv.ir:80?path=/&security=none&encryption=none&type=ws#@v2raytun0
 vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@vi-38322.webnama.com.tr:1535?type=tcp&headerType=none&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#@v2rayconfigamir 4914
 vless://0f0f568e-de71-4e08-acdd-0865b6cb116c@ww.sansorchi.net:443?sni=5s51da56a8a9.sansorchi.beauty&host=5s51da56a8a9.sansorchi.beauty&type=ws&security=tls&path=/tel/sansorchi_bezan_gheychi_bot&encryption=none#@v2rayconfigamir 1660
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@104.26.6.0:2095?security=none&type=httpupgrade&headerType=&path=/&host=gb.carefreemob2.com.#[🇨🇦]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@156.243.83.0:2095?security=none&type=httpupgrade&headerType=&path=/&host=sw.carefreemob2.com.#[🇵🇹]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@162.159.253.96:2095?security=none&type=httpupgrade&headerType=&path=/&host=us.pascalplus.com.#[🏁]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@167.82.70.14:443?security=tls&type=ws&headerType=&path=/&host=Amiiiiiiir0097.global.ssl.fastly.net&sni=default.ssl.fastly.net&fp=chrome&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@185.143.234.122:80?security=none&type=ws&headerType=&path=/?ed=2048&host=cd.varyonet.ir#[🇮🇷]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@185.235.197.184:6090?security=none&type=tcp&headerType=none&path=&host=#[🇮🇷]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@188.114.96.0:2095?security=none&type=httpupgrade&headerType=&path=/&host=it.carefreemob2.com.#[🇨🇦]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@192.71.82.0:2095?security=none&type=httpupgrade&headerType=&path=/&host=fast.carefreemob2.com.#[🇸🇪]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@2sudo.winapp3.ir:2095?security=none&type=httpupgrade&headerType=&path=/&host=de.carefreemob2.com.#[🇸🇨]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@45.146.201.0:2095?security=none&type=httpupgrade&headerType=&path=/&host=fr.pascalplus.com.#[🇨🇼]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@94.184.13.118:6072?security=none&type=tcp&headerType=none&path=&host=#[🇮🇷]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@cdh.pascalplus.com:3661?security=none&type=tcp&headerType=http&path=/&host=ponisha.ir#[🇳🇱]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@de.pascalplus.com:6055?security=none&type=tcp&headerType=http&path=/&host=soft98.ir#[🇮🇷]t.me/ConfigsHub
+vless://1044f7a1-e3fd-4d3f-b54a-496071544ce7@fast.carefreemob2.com:36611?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&sid=67a1a8bb9ff0ed21#[🇵🇱]t.me/ConfigsHub
 vless://12652aba-cb8a-4b26-9bb7-748605b3ee57@shop.webchipro2.ir:7777?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=/&security=none&type=ws#🦔18@oneclickvpnkeys
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.32.47:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&security=none&type=ws#🦔6@oneclickvpnkeys
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@172.64.155.209:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&security=none&type=ws#🦔14@oneclickvpnkeys
-vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@206.189.249.182:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&security=reality&sni=www.speedtest.net&type=tcp#🦔4@oneclickvpnkeys
-vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid&packetEncoding=xudp#@v2rayconfigamir 4204
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=/?ed=2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@v2rayconfigamir 7395
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@v2rayconfigamir 3587
-vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#⚡Telegram = @prrofile_purple
