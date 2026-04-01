@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+✅ فروش سرور اختصاصی (VPN) برای دور زدن نت ملی ✅🌐  در تمام طول روز وصل بدون قطعی  24    ساعته حتا در مواقع نت ملی و قطعی ⬇️ مناست گیم 🖲️ ترید 🔥 وب گردی و.. ⭐🖥 برای ios و اندروید و ویندوزسازگار با همه اپراتور ها 👍😂😍😎کانفینگ ها به صورت🌐Http custom🌐V2rayNG🌐NapsternetV 🌐E-V2rayموجود هست ❤️تمامی سرور ها کانفینگ های (vmess-vless)میخورند به انتخاب شما هست✅ با مناسب ترین قیمت و بهترین کیفیت🏃‍♂️حجم به انتخاب خودتون هست ولی زیر ۲۰ گیگ هم موجود نیست🔔با این vpn دیگه نگران اینترنت نیسی چون همیشه با سرعت بالا وصلی 📢پشتیبانی 24 ساعته ✅از الان میتونید  یه سرویس بگیرید که نت ملی اذیت نشید ☑️جهت خرید به آیدی زیر پیام دهید 🌹Pv: @imSirTe3la ✅channel: @Ytte3la ✔️
+
 
 
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJhZGQiOiIxNDIuMTMyLjE2My4yMDAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiN2Y5NjVlM2UtYjAzZi00NTVlLWE5NmUtMDFiNjFmNzI1MzdhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRmMTAgSU5ULXZtZXNzLU1pcnJvclByb3h5Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
@@ -501,5 +503,3 @@ vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.44.235:443?allowInsecure=1&
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.52.178:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.173:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=%2F%3Fed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.115:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
