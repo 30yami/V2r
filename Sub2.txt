@@ -453,8 +453,10 @@ trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=/
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2rayAlpha--3
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#@V2rayAlpha--7
+trojan://telegram-id-directvpn@13.39.95.237:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@cllubvpn لطفا برای حمایت جوین شید
 trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.95.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.95.237:22222?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@cllubvpn لطفا برای حمایت جوین شید
 trojan://telegram-id-privatevpns@15.188.132.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.22.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -483,6 +485,7 @@ vless://00b66c41-747e-4f74-adb7-c33f6b0a70ec@pl.onetserv.lol:443?encryption=none
 vless://0377df23-a1d4-4b3f-ae84-0b4f3d3d71dd@pic1.myket.mom:37001?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=c385#⚡Telegram = @prrofile_purple
 vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@172.67.216.218:443?allowInsecure=1&encryption=none&host=stipulations.gelatin.workers.dev&path=/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=stipulations.gelatin.workers.dev&type=ws#🧢16@oneclickvpnkeys
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&path=/&security=none&type=ws#🧢3@oneclickvpnkeys
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.95.237:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#@cllubvpn لطفا برای حمایت جوین شید
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.155.24:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#@cllubvpn لطفا برای حمایت جوین شید
 vless://0667652a-1b48-4eb5-99c4-47fb53f3229f@www.speedtest.net:443?path=/eyJqdW5rIjoiaEEzMlVhMzg5ZloyREMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.wrdzl.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-V2NgfAST-V2NgfaST-V2nGfASt-V2NGfasT-v2NGFasT.WRDzL.wOrkeRs.DeV#3 🇩🇪 @V2ngFast
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.16:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.16:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🧢49@oneclickvpnkeys
@@ -490,6 +493,7 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.6:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🧢50@oneclickvpnkeys
 vless://0763477d-7e67-49f1-a855-cdff82b59e43@s10.x2fast.top:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s10.x2fast.top&fp=chrome&type=ws&allowInsecure=0&sni=s10.x2fast.top#@V2rayTun0
 vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#@cllubvpn لطفا برای حمایت جوین شید
 vless://09e485e1-241c-4d17-82b2-0dff1be3f61e@kvm.iranhosting.mom:55003?path=/&security=none&encryption=none&host=rubika.ir&type=ws#⚡Telegram = @prrofile_purple
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?encryption=none&security=none&type=tcp&headerType=none#@TeleProxyTele
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&headerType=none&type=tcp#@YamYamProxy
@@ -499,7 +503,3 @@ vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&enc
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#Join us : @TeleProxyTele
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev#3 🇩🇪 @V2ngFast
-vless://0e185d94-6477-4f47-a402-acc59aa4bab1@alinka.satarv.ir:80?path=/&security=none&encryption=none&type=ws#@v2raytun0
-vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@nnet.online:80?encryption=none&host=nnet.online&path=/vless-ntls&security=none&type=ws#🧢28@oneclickvpnkeys
-vless://1034a55b-ea7e-4a96-a7fa-d7cae5ab5523@95.163.152.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ExkbbVbDnjp9RRcjSVbUzrkKnq78gL5KPOIJFAwXdXY&security=reality&sid=977198bfb51105&sni=autotuojat.fi&type=tcp#🧢59@oneclickvpnkeys
