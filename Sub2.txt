@@ -390,6 +390,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAzNy4xNDMuMTMwLjIwMzo5OTA=#@v2rayconfigamir 2121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:811#@V2rayAlpha--1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHSnRKS1lsQUF1dmE@178.162.164.142:31558#@v2rayconfigamir 8274
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYU1VWFlrTG1iTmpBNWZqSFJJSlo0S2h6cXBxbmg5bQ@vip.tekcloud.site:20900#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#☮️3@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#☮️8@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.49.193.125:443#☮️5@oneclickvpnkeys
@@ -502,4 +503,3 @@ trojan://telegram-id-privatevpns@63.183.56.27:22222?security=tls&alpn=http/1.1&h
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#@v2rayconfigamir 1559
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&security=tls&sni=www.semanticstaplegun.click#@v2rayconfigamir 9359
 vless://00000000-0000-4000-8000-000000000000@147.45.68.252:8082?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws&allowInsecure=1&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#@V2rayAlpha--14
-vless://00000000-0000-4000-8000-000000000000@176.124.203.183:8082?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws&allowInsecure=1&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#@V2rayAlpha--13
