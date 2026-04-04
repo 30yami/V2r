@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-✅ مناسب وب گردیvless://344ad1bf-0e81-4a9a-843f-accec016684d@104.16.209.12:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=elasticsearch&sni=rglxytcb.mahsa.uno#%E2%9C%85+%40VorTexIRN💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
-
-
 ✅ مناسب وب گردیvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDEiLA0KICAiYWRkIjogIjExNi4yMDIuMTAyLjIzNCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDIiLA0KICAiYWRkIjogIjE3Mi42Ny4xODQuMTg0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjdmZjMxZWI5LWNjYTQtNDQxMC1kMzc5LTJkNzhiZWQxNGYxNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmVzdDEud2Fud3VzaGVuZy50ayIsDQogICJwYXRoIjogIi8xMjMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYmVzdDEud2Fud3VzaGVuZy50ayIsDQogICJhbHBuIjogIiINCn0=vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDMiLA0KICAiYWRkIjogIjEzLjQyLjE0My4yMDAiLA0KICAicG9ydCI6ICIxMTExMSIsDQogICJpZCI6ICI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +500,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encrypt
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&host=c.iamdt.dpdns.org&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryption=none&flow=&host=long-forest-ac72.salari1382m.workers.dev&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
