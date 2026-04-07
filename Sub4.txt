@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.18.241.114:2095?path=/l25hqs0onbig&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#@v2rayconfigamir 5098
-vless://f01e193a-6c00-4a38-9cc5-cafed5a1f927@s1.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
-vless://f039ec6d-2fa3-11f1-9fc2-960003f27045@final.digitalldns.com:8443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://f08fd73b-6ec6-4bc5-80ec-34d3fa6cc6d5@1.9.reflecion.shop:35116?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://f0bf5f3a-ecc8-4c57-b565-32fab595e4dd@vortex.mytopmedia.pro:100?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&sni=www.felafel.org#@v2rayconfigamir 2767
-vless://f2032be3-a30f-4ba0-9f18-7abc10f4a25e@www.p4free.site:28254?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://f2169fd1-8862-4cfb-b2bd-d87bdd42c37d@185.143.233.200:80?path=/&security=none&encryption=none&host=asd.arnewluncher.ir&type=ws#⚡Telegram = @prrofile_purple
-vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?encryption=none&security=none&type=ws&path=@BlueberryNetWork#@BlueberryNetWork
-vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=&encryption=none&type=ws#🔵@chillguy_vpn
-vless://f3a1017d-1ebf-11f1-8cae-c3845d39d2de@81.19.141.91:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#💎2@oneclickvpnkeys
 vless://f6858973-ceb0-4387-9252-ed1061fee5cf@188.213.197.228:34002?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#All-@V2rayAlpha--3
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#All-@V2rayAlpha--7
@@ -24,7 +13,6 @@ vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&f
 vless://fae38aae-0342-4752-834d-@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#⚡Telegram = @prrofile_purple
 vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?security=none&encryption=none&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
 vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?security=none&encryption=none&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#17🧸@oneclickvpnkeys
 vless://fe02fc5f-8e85-4df9-a0c2-1313bc33227d@hv343var.novinpardazanpayam.net:32849?security=none&encryption=none&host=www.uptvs.com&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#🔵@chillguy_vpn
 vless://fe202867-69b8-4f91-9112-3cdfd4915b89@chatgpt.com:443?path=/eyJqdW5rIjoiSWFuNkZJZGIxM2ZlTFA3SiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.diweme4468.workers.dev&fp=chrome&type=ws&sni=v2nGfaSt-v2NgFAsT-v2NgfAst-V2NgFAst.DIwemE4468.WORkErS.DEV#1 🇩🇪 @av2ngFast
@@ -501,5 +489,17 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 استرالیاvmess://eyJhZGQiOiIyMTcuMTM4LjIwNS4xODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJoay5zd2lmdGZhbGNvbi5hcHAiLCJpZCI6ImI1OThjZmNlLTE0NTMtNGEwYS1mNTRiLWI3ODQ3MzBmMWE0OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE2MTUzIiwicHMiOiLYp9iz2KrYsdin2YTbjNinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==سنگاپورvmess://eyJhZGQiOiIxMy4yMTMuNDUuMTcyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI5NWFiMGFlOC02M2E0LTRmMTctY2Q2MC1mZDE3ZDU3OTQ4OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3JheSIsInBvcnQiOiIyNjcwNCIsInBzIjoi2LPZhtqv2KfZvtmI2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9آلمانvmess://eyJhZGQiOiJkZS12LnNzaG1heC54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJkZS12LnNzaG1heC54eXoiLCJpZCI6IjU2NjhmZjk3LTYzMWYtNDYwMi1hMTNmLWI1NjU1MmM2N2FiZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi2KLZhNmF2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+ژاپن (همراه اول)vmess://eyJhZGQiOiJtaW5nMi5raXdpcmVpY2guY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoibWluZzIua2l3aXJlaWNoLmNvbSIsImlkIjoiMThlNWY0MGYtYmRhNi00YzE1LTkzMzQtZTg3Y2RhNjA0N2FmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ItqY2KfZvtmGIiwic2N5IjoiYXV0byIsInNuaSI6Im1pbmcyLmtpd2lyZWljaC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiIxNzIuNjcuMjA0LjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiY2NwcC45MXBhbi5vbmUiLCJpZCI6IjczNWZmNDMwLTlkMWEtNGY1Ny1mYjY2LWU0M2EyNmE3NmY3MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3BwIiwicG9ydCI6IjgwIiwicHMiOiLYotmF2LHbjNqp2KciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+آمریکاهمراه اولvmess://eyJhZGQiOiJldTEuaGF4Lnl1amkyMDIyLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvOGtIOHFuZXBqa3ByYnNpZExyTGttWCIsInBvcnQiOiI4MCIsInBzIjoi2KLZhdix24zaqdinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+هلندvmess://eyJhZGQiOiIxMDQuMjQ4LjgwLjM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJiN2QzZjRjNy03ZjZkLTQyMzgtODc2MC01OGMzZGZhZDUzZTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGV2IiwicG9ydCI6IjMzMDA4IiwicHMiOiLZh9mE2YbYryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==فرانسه vmess://eyJhZGQiOiI1MS43Ny4yMTUuNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJibWkuaXIgVC5tZS9zMDAxM19PZmZpY2lhbCIsImlkIjoiNTA3ZTk4YWUtNzkyMi00NzU2LWM5NTMtMzRlNWM1NzNkZGE0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDA4NDYiLCJwcyI6ItmB2LHYp9mG2LPZhyAgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==@v2rayNG_VPN
 
 
