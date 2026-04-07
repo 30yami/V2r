@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e3caf84e-4697-40a8-800c-cc948998cc8e@swagmeli.swagmeli.site:7?path=/&security=none&encryption=none&host=myket.ir&type=ws#⚡Telegram = @prrofile_purple
-vless://e4c9557e-0435-4669-8192-dda40aa188ee@v2ir03186.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@V2rayTun0
-vless://e4e3cf77-6545-57ce-7d7d-31128c5c2b4b@tunn.vpsino.com:2087?security=none&type=tcp&headerType=none&path=/#🔵@chillguy_vpn
-vless://e5933eb3-2aa8-4f20-b622-92677bf618f8@snapp.ir:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.siilaam.online&fp=chrome&type=ws&allowInsecure=0&sni=info.siilaam.online#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://e6be088f-767b-5704-4a9a-5e9830b8118c@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://e70780b2-7ccc-4add-8ab2-7b7df57a74a7@null.bache-molavi.sbs:51456?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://e70d6fe1-6f19-4953-8f46-cc0c491f44fb@blog3.gelatocabana.ir:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://e856328e-ba3d-4640-99da-46520655ba81@freak.gexar.top:30107?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
@@ -56,7 +51,6 @@ vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=non
 vless://fe202867-69b8-4f91-9112-3cdfd4915b89@chatgpt.com:443?path=/eyJqdW5rIjoiSWFuNkZJZGIxM2ZlTFA3SiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.diweme4468.workers.dev&fp=chrome&type=ws&sni=v2nGfaSt-v2NgFAsT-v2NgfAst-V2NgFAst.DIwemE4468.WORkErS.DEV#1 🇩🇪 @av2ngFast
 vless://fe982c2e-0be2-4f83-9262-dbcc742e6388@212.80.24.111:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
 vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#⚡Telegram = @prrofile_purple
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#🧸7@oneclickvpnkeys
 vmess://52768552-c2b2-4460-89f1-e740cc145b99@158.101.229.162:15227/?type=ws&encryption=auto&path=/ws-path#hichkas 🇺🇸سرور#@v2rayconfigamir 4290
 vmess://8e34e170-13ae-4892-9d20-05962acc9f84@[2001:bc8:32d7:302::10]:44579?encryption=auto&security=none&type=ws#💎21@oneclickvpnkeys
 vmess://a25881f3-967f-3265-bc7f-9e66857b016b@51.81.202.62:80/?type=ws&encryption=auto&host=51.81.202.62&path=/v47-2023unlimitndxd#hichkasنت#@v2rayconfigamir 1177
@@ -501,5 +495,11 @@ vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33276?type=grp
 
 
 vmess://eyJhZGQiOiI5NS4yMTEuNTguNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3NTZjN2QwLTRhODYtNDIxMC1mYWQxLTEzZDVjYmQ4NmIwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nZGdIRzU1dGh0IiwicG9ydCI6IjE2NDE4IiwicHMiOiLwn4ez8J+HsSBAdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiIxNjEuMTI5LjM0LjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZWM3MzY0ODItMTczZS0zZWZmLTkxMTQtYjQ5ZGY4MDU2ZTdkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiJuZXdzLm1pY3Jvc29mdC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJsZzEwLmNmY2RuMS54eXoiLCJpZCI6IjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BMkRKT1BGVCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6ImxnMTAuY2ZjZG4xLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
 
 
