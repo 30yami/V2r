@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption=none&headerType=none&type=tcp#Join us : @FreeConffning
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&host=britain.xydcqd.workers.dev&security=none&type=ws#🧬12@oneclickvpnkeys
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&host=germany.xydcqd.workers.dev&security=none&type=ws#🧬23@oneclickvpnkeys
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.18.189.112:80?encryption=none&host=us.xydcqd.workers.dev&security=none&type=ws#🧬5@oneclickvpnkeys
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=max.ru&type=tcp#🧬97@oneclickvpnkeys
+vless://fae38aae-0342-4752-834d-@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#⚡Telegram = @prrofile_purple
+vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?security=none&encryption=none&headerType=http&type=tcp#🔵@chillguy_vpn
+vless://fd1702e6-5b63-446e-8eb3-6bc56c8ffa4d@V.kharej.cxtserver.ir:546?security=none&encryption=none&headerType=none&type=tcp#@FreeConffning
+vless://fe02fc5f-8e85-4df9-a0c2-1313bc33227d@hv343var.novinpardazanpayam.net:32849?security=none&encryption=none&host=www.uptvs.com&headerType=http&type=tcp#🔵@chillguy_vpn
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#🔵@chillguy_vpn
+vless://fe202867-69b8-4f91-9112-3cdfd4915b89@chatgpt.com:443?path=/eyJqdW5rIjoiSWFuNkZJZGIxM2ZlTFA3SiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.diweme4468.workers.dev&fp=chrome&type=ws&sni=v2nGfaSt-v2NgFAsT-v2NgfAst-V2NgFAst.DIwemE4468.WORkErS.DEV#1 🇩🇪 @av2ngFast
+vless://fe982c2e-0be2-4f83-9262-dbcc742e6388@212.80.24.111:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
+vless://ff6cb8ef-eed6-0032-9331-cd21ec42a05f@free-de.la-la-land.top:753?encryption=none&fp=chrome&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&security=reality&sni=www.amd.com&type=tcp#🧬3@oneclickvpnkeys
+vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#⚡Telegram = @prrofile_purple
+vmess://ewogICAgImFkZCI6ICIxMDQuMjYuMTQuMTM3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLAogICAgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi4xNC4xMzctMDgyMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiMjE3LjIxOC41Mi4xIiwgInBvcnQiOiAiMTA0MTAiLCAiaWQiOiAiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiMzcuMjAyLjIyOC4yMyIsICJwb3J0IjogIjQyMzc2IiwgImlkIjogIjBiMWMwYmRjLWQ5ODctNDk4YS1hZDU0LTY4ODI1OTU1MTBjZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvVjJSYXl5Tkd2cG4vdC5tZS9WMlJheXlOR3ZwbiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAieDIubWVocmFkc2VydmljZS5jb20iLCAicG9ydCI6ICI0NDUyIiwgImlkIjogIjM4OTYyNWM3LWM4OTEtNGY2MS05Zjk4LTQ3ODA1ODc0NGFkYSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2NzQwIiwiYWRkIjoic3RyZWFtLmF6YWRyYWgyMi5jb20iLCJwb3J0IjoiODAiLCJpZCI6Ijc2ZTE1MWE3LTk5ODAtNDA3Ny1iZDUyLTA3ZWY0ZTljYjQ5NiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii91c2VyIiwidGxzIjoiIiwic25pIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA4NjQ0IiwiYWRkIjoiYXJ2YW5jbG91ZC5jb20iLCJwb3J0IjoiODAiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoia29vY2hlaHBhcy5jb20iLCJwYXRoIjoiL2dyYXBocWwiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
@@ -485,21 +502,4 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 همراه اولvmess://eyJhZGQiOiJ1cy0xLmZyZWUueXVqaTIwMjIuZ3EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsIm5ldCI6IndzIiwicGF0aCI6Ii92QWFtYmo0RGdYcnM1c2ZDRnB0TWsiLCJwb3J0IjoiODg4MCIsInBzIjoi2KLZhdix24zaqdinIEB2MnJheU5HX1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
-
-
-همراه اولvmess://eyJhZGQiOiJoYWxlc2hvYmViYXIuZHJlYW15ZGF5c2FyZWNvbWluZy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjY5MmVmM2RlLTY1Y2MtNDMxZC1mZGIzLTg0ZGI0ZmI0NDdjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIxNTIyIiwicHMiOiJjb21lYmFja1hW8J+RkVJheWVnYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9@v2rayNG_VPN
-
-
-اینم افزونه Xray Plugin مخصوص همین برنامه ماتسوری هست که اینم حتمن باید نصب کنید تا سرورهای خاصی مثه vless براتون کار کنه@v2rayNG_VPN
-
-
-همراه اول/سرورvlessافزونه Xray حتمن باید نصب و توی برنامه ماتسوری فعالش کرده باشید،وگرنه کار نمیکنهسرعت دانلود وآپلودی خیلی خوبی دارهvless://30fa6fab-661a-490c-bbc5-06e2f3a9826e@www.speedtest.net:443/?encryption=none&type=ws&host=free.kiava.workers.dev&path=%2Fadws&security=tls&sni=free.kiava.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%0A%40v2rayNG_VPN@v2rayNG_VPN
-
-
-اگه این نسخه از افزونه براتون نصب نشد،احتمالا با معماری گوشیتون متفاوته؛به سایت و گیت هاب خود ماتسوری به نشانی:https://github.com/MatsuriDayo/plugins/releases?q=xray میرید واز بخش Assets یا همون منابع برنامه،اونو دانلود میکنید.@v2rayNG_VPN
-
-سرورvmess/پاریسدانلود و آپلود عالیمخصوص همراه اولاندروید بزنامه ماتسوری،ویندوز برنامه نکورِی متصل بشیدvmess://eyJhZGQiOiJ3d3cuY29kZXBlbi5pbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImZyLXYuc3NobWF4Lnh5eiIsImlkIjoiNmUwNTM4ZGYtMTg1ZS00MDY3LWI2MmEtMzhlMTJlY2I5MzYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi2b7Yp9ix24zYs1xuQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6ImZyLXYuc3NobWF4Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
-
-
-سرورvmess/فرانسهبجز همراه اولvmess://eyJhZGQiOiI1MS43Ny4yMTUuNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJibWkuaXIgVC5tZS9zMDAxM19PZmZpY2lhbCIsImlkIjoiNTA3ZTk4YWUtNzkyMi00NzU2LWM5NTMtMzRlNWM1NzNkZGE0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDA4NDYiLCJwcyI6ItmB2LHYp9mG2LPZhyAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9@v2rayNG_VPN
 
