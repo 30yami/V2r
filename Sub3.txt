@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://12652aba-cb8a-4b26-9bb7-748605b3ee57@shop.webchipro2.ir:7777?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://12f57c59-b8dc-4c9d-b27f-ddef563ab680@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#@cllubvpn لطفا برای حمایت جوین شید
 vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.141.220:80/?type=ws&encryption=none&host=ghju.apocalypse.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://14426333-11de-4573-8783-6b4cc43f537a@cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#🔵@chillguy_vpn
 vless://16a5322b-0db6-45b7-9506-5aec747d999d@85.133.221.61:543?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
@@ -503,3 +501,5 @@ vless://f79250a7-13ab-4f1f-cbb5-4f45949a94f8@www.speedtest.net:8080?path=/@LOCKE
 vless://f79250a7-13ab-4f1f-cbb5-4f45949a94f8@www.speedtest.net:8080?path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-3.ir&type=httpupgrade#@LOCKEY_VPN
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#All-@V2rayAlpha--7
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--8
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--9
+vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?encryption=none&type=tcp&headerType=none&security=none#@cllubvpn لطفا برای حمایت جوین شید
