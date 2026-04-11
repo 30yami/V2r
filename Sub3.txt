@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://17740a24-5c75-4914-b7a0-97e9abe4aafa@37.32.42.90:48794?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#⚡Telegram = @prrofile_purple
 vless://19542a29-e734-41c9-b372-b30286a61048@entekhabat.iran.asiatech.numtwo.iranvatanam.com:440?security=none&encryption=none&host=rubika.ir,igap.net,splus.ir,skyroom.online&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://19f3a750-e0a7-4210-ad3e-694892266e44@vip.securnetwork.lol:8443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
 vless://1a239b2c-a103-4645-9ef8-8ceb23e5f061@po.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
@@ -503,3 +501,5 @@ vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=non
 vless://ecaf9d28-0013-43bd-92c4-cf7135f215dc@94.101.178.133:80?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?allowInsecure=1&encryption=none&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&type=ws#🐵91@oneclickvpnkeys
 vless://ed8dd9f5-5024-43eb-a918-dba16fdcc203@vip.coindrift.online:43850?type=tcp&encryption=none&security=none#[🇮🇷]t.me/ConfigsHub
+vless://edc596df-cd23-4c9b-8c96-f25954aa904d@94.101.187.242:999?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
+vless://eded72f2-b4f8-4271-830c-f67b1673e1ed@snapp.ir:80?type=ws&encryption=none&path=/&host=gm.borna-otbas.ir&security=none#@YamYamProxy
