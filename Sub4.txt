@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f81156d3-658d-4c0a-95b1-5b7733fe5dc0@se.ayhan.mom:13137?path=/&security=&encryption=none&host=telewebion.ir&type=ws#https://t.me/ConfigX2ray
 vless://f81156d3-658d-4c0a-95b1-5b7733fe5dc0@se.ayhan.mom:13137?path=/&security=none&encryption=none&host=telewebion.ir&type=ws#@FreeConffning
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--8
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--9
@@ -502,4 +501,5 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 آمریکاهمراه اولvmess://eyJhZGQiOiJldTEuaGF4Lnl1amkyMDIyLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvOGtIOHFuZXBqa3ByYnNpZExyTGttWCIsInBvcnQiOiI4MCIsInBzIjoi2KLZhdix24zaqdinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
+
 
