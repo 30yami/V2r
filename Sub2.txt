@@ -474,7 +474,7 @@ vless://00c5261b-1ec2-4cac-b795-7324facd4dd2@run2.whoshere.site:443?alpn=http/1.
 vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=&encryption=none&type=ws#🔵@chillguy_vpn
 vless://02e59f34-2912-42a7-acb3-fe657e25d2a1@newsrv.isfahangaming.com:8080?path=/orders/all&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
-vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#@Gangstersdonotcry
+vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#[🇮🇷]t.me/ConfigsHub
 vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002?path=/&security=none&encryption=none&host=igap.net&type=ws#@v2rayconfigamir 6838
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🪺19@oneclickvpnkeys
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -489,12 +489,12 @@ vless://05a17ccb-a231-4e8c-af1a-810691c27d88@VIP2.xQFire.iR:811?security=none&en
 vless://05ca02d5-4542-4b3e-b3f8-129c7422fdf4@v.pvnetwork.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@InfoTech_VK
 vless://0667652a-1b48-4eb5-99c4-47fb53f3229f@www.speedtest.net:443?path=/eyJqdW5rIjoiaEEzMlVhMzg5ZloyREMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.wrdzl.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-V2NgfAST-V2NgfaST-V2nGfASt-V2NGfasT-v2NGFasT.WRDzL.wOrkeRs.DeV#3 🇩🇪 @V2ngFast
 vless://06e27e58-997a-499e-9a19-71d4980aaabf@snapp.ir:8080?path=/&security=none&encryption=none&host=download2erfan.sudoserver.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://080c3754-5cde-4320-ba78-8b86c804c0b4@snapp.ir:8080?path=/&security=none&encryption=none&host=str9.xfastvip.ir&type=ws#@cllubvpn لطفا برای حمایت جوین شید
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:1992?security=&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://0945f741-d2cd-4e37-e235-021558deb307@farzandeiran.iransalar.top:41316?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🔵@chillguy_vpn
 vless://09d12e6b-c25b-4c78-bc5d-99941c52177e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#⚡Telegram = @prrofile_purple
 vless://0b277abf-e0d6-44d8-85c6-f6c7afc0aec5@176.97.73.155:443?encryption=none&security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none#
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://0b5df3ea-c7d6-49e3-a2f9-9e550d11cc8a@snapp.ir:2052?encryption=none&type=ws&host=arvv.teamlifez.ir&path=/?ed=2560#@TeleProxyTele
 vless://0b5df3ea-c7d6-49e3-a2f9-9e550d11cc8a@snapp.ir:2052?path=/?ed=2560&security=none&encryption=none&host=arvv.teamlifez.ir&type=ws#@FreeConffning
 vless://0b5df3ea-c7d6-49e3-a2f9-9e550d11cc8a@snapp.ir:2052?path=/?ed=2560&security=none&encryption=none&host=arvv.teamlifez.ir&type=ws#@Spartan_YT
 vless://0b5df3ea-c7d6-49e3-a2f9-9e550d11cc8a@snapp.ir:2052?path=/?ed=2560&security=none&encryption=none&host=arvv.teamlifez.ir&type=ws#@WibeOfMe
