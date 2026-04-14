@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
 📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰vless://8ca78528-0272-5517-a802-f6c28d2a38ee@city.mohammadkurd.ga:556?type=ws&security=tls&path=/trojan-panel-websocket-path#Vip_vpn_2022#v2rayng 🤍🆘#اپراتور_های_قابل_اتصال⏳#ایرانسل ✅#wifi ✅برای لینک اختصاصی خودت سرعت بالا به ایدی زیر پیام بده👇✔️ @owner_servic__❣️مارو به دوستاتون معرفی کنید 👑🌐 @vip_vpn_2022---------------------------------------------------
 
 
@@ -502,4 +503,3 @@ vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@www.visa.com.sg:2052?encryption=non
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@v1.dabache.top:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
