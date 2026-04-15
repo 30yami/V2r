@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.18.16.56:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#Telegram%3A++%40Zero_Tunnel+7
+vless://716fdeaf-f256-4101-a329-fbfd60ed11ad@104.18.16.56:8443?path=%2FeyJqdW5rIjoidmt6M1NUYVkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&encryption=none&alpn=http/1.1&host=b721hjg7h3m87ddmr6xo5ok3w8w2trbf.l67671355.workers.dev&type=ws&sni=b721HJg7h3m87ddmr6xo5OK3W8W2tRbf.L67671355.WOrKERS.dEv#Telegram%3A++%40Zero_Tunnel+6
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.3:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
