@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rayngzendegimamad🕊️
+trojan://humanity@188.114.96.3:443?alpn=h2,http/1.1&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org&type=ws#@v2rayconfigamir 2683
+trojan://humanity@188.114.98.0:443?alpn=h2,http/1.1&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org&type=ws#@v2rayconfigamir 7814
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🦉@FreeConfigForYou
+trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#Telegram: @vpnbaz
+trojan://humanity@clud.soonteam.top:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#SoonTeam
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@neet_done👈ایرانسل وصل شین
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?allowInsecure=1&sni=fra5.chasem2026sud.com#🌿32@oneclickvpnkeys
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#@v2rayconfigamir 4540
 trojan://telegram-id-privatevpns@13.36.75.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.187.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -495,11 +503,3 @@ vless://733a9a09-ba93-4e73-b1f3-ae0bcbd88310@clud.soonteam.top:443?security=tls&
 vless://733a9a09-ba93-4e73-b1f3-ae0bcbd88310@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=noisy-paper.workers.dev&type=ws&allowInsecure=0&sni=noisy-paper.workers.dev#SoonTeam
 vless://73bb561e-97b7-494e-bf37-2342017a1cf7@channel2.vpnprosec.shop:2053?type=grpc&serviceName=&security=reality&pbk=Rm5hcNp_wfhX8Vha2ZdcDd_m3go_Q872vGo70YjVTyE&fp=chrome&sni=telewebion.com&sid=&spx=/#@v2rayconfigamir 4738
 vless://751e3acc-2110-465e-be90-16a5ed0f9635@snapp.ir:80?path=/deltashop&security=&encryption=none&host=u1.deltamarket3.ir&type=ws#@ZEOS_VPN | تستی
-vless://751e3acc-2110-465e-be90-16a5ed0f9635@snapp.ir:80?path=/deltashop&security=&encryption=none&host=u1.deltamarket3.ir&type=ws#@ZEOS_VPN | تستی  اینم یکی دیگه  ری اکشن هم یادتون نره ❤️‍🔥   @ZEOS_VPN
-vless://755aeb6b-0b24-48c4-940e-e92d37b32275@94.101.178.70:773?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG_Cafe
-vless://7706b8ef-6510-4aa6-810f-2caba36c9b81@cdn2.whitepol4.ir:2095?encryption=none&security=none&type=ws&path=/#@KHATE_Sabzir | خــط ســبز
-vless://7706b8ef-6510-4aa6-810f-2caba36c9b81@cdn2.whitepol4.ir:2095?path=/&security=none&encryption=none&type=ws#@TROWER_NEWS
-vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=/&security=tls&encryption=none&host=my.vulmart.ir&type=ws&sni=my.vulmart.ir#@icv2ray
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@V2rayAlpha--2
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=/vpnjantit&security=&encryption=none&type=ws#@V2rayAlpha--3
-vless://787cf1a1-f3ac-4cac-89cd-8b4ed3d267ca@185.143.233.235:80?path=/back&security=none&encryption=none&host=s101.tireks.site&type=httpupgrade#@icv2ray
