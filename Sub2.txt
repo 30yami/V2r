@@ -393,12 +393,8 @@ trojan://1774240c00db2b77d5a99f6540c47b69@3.112.12.32:9201?sni=www.nintendogames
 trojan://1774240c00db2b77d5a99f6540c47b69@18.183.89.184:9201?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B04%20590.2KB%2Fs
-#e¶NÍ­³ÿ;à( º7(¢Ð1 to{±Hê.mØ$|ßBT½
-#U¹êÛx3w[í¶¯ØìsÊ¼¥}F,G¨¢Íèêo:ÿ¹GRt|¤|TmÌ7ÐäÀ\Ë=ðLCRQÐøUô1þcÌ6Ð¼Ã=Zsä@ñºÖÈN>'i"ÜðùÚùþ(ZM4ííå0Gåâ_ û{ÿ[«ì
-ç-qý§uóö8
-vless://7f6a8bf3-e8fc-473e-8acb-acee6321ec40@8.6.112.6:443?encryption=none&type=ws&security=tls&path=%2Ftest&host=tbp.zuhn.ir&sni=tbp.zuhn.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1@BestProxyTel1#v2ray_dalghak
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.ignitelimit.com&fp=chrome&allowinsecure=1&type=ws&sni=www.ignitelimit.com#v2ray_dalghak
-trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%F0%9F%9A%B994@oneclickvpnkeys
+b$ÓÝÁ¡ÿäÒý9\øRnd\,å®¸9Öö0|êíu@ü:lÄ4+KÄÕssï#4Á®þc§£^p{Ä 4ùÆ't (;§eáÐ)ªOp´Êo¨$xIv+óU§éou°çïï·#êÌA@Û/ÂÂLç¹Ý0Auæ-püÆnÎÍ#ãû%TÊÃhF¹Û*þóõÝT%l´«¶éJ'÷¸=66Ù®vj@ù?:½7×Çíg3¢Çi1öhãØíHÔ-Ì×À«ýN¶­¬	Á¡ï+b®ÐÊÊQß¸oì&6`íï#é¹G³¼âý¸èI²WC%$ãØ/~ë´"k÷ó¢ðíÓr=L»ùnn#AñÏÊáÍÁ=89¯4ÇªMÏsûJ¼îÈ;2¾}Qt(OÄ"QQtUÍ}TØJØ«HpB\Ò|
+{jîîï¦cÕøîº=`Ö,M]¨\¢ÁGKVà¾©)`ööZ\£IÙ?ó7>²ÆgðV¬1.ön£OT W÷|ZuI¥åE]|]FÐ·zÖ­«êÓ¬ÔOÈ¹ÿÖn#VoË±Jê®)I-	^&¦¾¦ÌãZÖFzßðE»õµjÜ±I§@AãØQÁVÕ÷®YÙ}lÇ8~y1óðÁ¾f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#v2ray_dalghak
 vless://913c6074-a747-492b-a7e9-5abfcad6369d@171.22.181.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=uk.milas.click&type=tcp#%F0%9F%9A%B95@oneclickvpnkeys
 vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlfZGFsZ2hhayIsICJhZGQiOiAiODIuMTk4LjI0Ni40NiIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
@@ -406,13 +402,17 @@ vless://8c4604ef-749c-4b56-adf1-7da405002a21@192.200.160.253:443?allowInsecure=1
 vless://b738db04-c73c-4551-b6f2-9041e93914d4@18.130.13.55:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%F0%9F%A6%942@oneclickvpnkeys
 vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?type=tcp&security=reality&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=faa900664bad#v2raygulf
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#v2ray_dalghak
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#%40v2FreeHub-98
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939?note=--Telegram--@Argo_VPN1--#%40V2raysCollector%20%F0%9F%AB%B8%F0%9F%AB%B7
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c&type=tcp&path=%2f#v2ray_dalghak
-ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag==@149.102.132.184:443#%40V2raysCollector%20%F0%9F%8F%88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.227:8080#v2ray_dalghak
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.255.22:990#%40V2raysCollector%20%F0%9F%AA%BB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@134.255.210.49:990#%40V2raysCollector%20%F0%9F%A9%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%40V2raysCollector%20%F0%9F%97%BF
 vmess://eyJhZGQiOiIxNTkuMjIzLjEzLjEwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMzQiLCJwcyI6Ilvwn4ez8J+HsV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6InN1cGVydnBuLnN1cGVyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990?note=--Telegram--@V2ray_official--#[
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#%F0%9F%8E%8477%40oneclickvpnkeys
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=raw&headertype=none#[
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%F0%9F%92%A76%40oneclickvpnkeys
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4emQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
