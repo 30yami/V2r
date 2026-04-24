@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&encryption=none&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d020b2&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
-vless://206d462c-2da2-47e2-b4ab-7b307aff30e8@81.12.54.14:8080?security=none&encryption=none&headerType=none&type=tcp#@V2rayN
-vless://21a5ab3c-5299-4f69-97e2-0f592a2421d6@185.143.235.200:80?type=ws&encryption=none&path=/&host=wiki.mastervps.ir&security
 vless://21a5ab3c-5299-4f69-97e2-0f592a2421d6@185.143.235.200:80?type=ws&encryption=none&path=/&host=wiki.mastervps.ir&security =none#@electvpn0
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&headerType=&type=tcp#@Gangstersdonotcry
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&headerType=&type=tcp#@UnNurmal
@@ -503,3 +500,6 @@ vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=t
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
 vless://8438c347-e432-443f-beab-9ae1e6d84704@th.gostargate.top:49961?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#@Neet_done👈چنلمون
+vless://84695bb3-58a4-4af6-b964-82d2c56fa23f@ips.cf.mobileemdad.top:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&insecure=0&host=dl.mobileemdad.top&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.mobileemdad.top#Telegram: @vpnbaz
+vless://8593ec0f-b801-4037-a9c2-01f412517ee6@iran.arascosmetics.ir:80?encryption=none&type=ws&host=iran.arascosmetics.ir#@YamYamProxy
+vless://8696f65c-792f-4b6f-9b90-4d8f227779c5@snapp.ir:8080?type=ws&encryption=none&path=/&host=dldisk.nr2coren.ir&security=none#byiroh⚡ArDark🚀-rmg27x90
