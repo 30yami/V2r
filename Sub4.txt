@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐲41@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🐲72@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🐲50@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🐲81@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.151.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🐲85@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.191:2096?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🐞40@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐲42@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.136.162:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🐲45@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.201.34:2087?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🐲56@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.244.43:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.cc.cd&type=ws#[34830] - Telegram : @V2All
@@ -496,10 +503,3 @@ vless://fed07182-fa9e-490b-ac15-2f64e1ee21ab@anten.ir:80?encryption=none&flow=no
 vless://fed07182-fa9e-490b-ac15-2f64e1ee21ab@anten.ir:80?path=/&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#Psiphon-@V2rayAlpha--14
 vless://fed07182-fa9e-490b-ac15-2f64e1ee21ab@anten.ir:80?path=/&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#Psiphon-@V2rayAlpha--17
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@V2ynpv : تلگرام
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
-vless://ff0f362a-f37d-48e5-876a-ff19b5891e86@cdn.mizbanertebatfarda.ir:2052?path=/&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#@mobo_game_land 🇩🇪
-vless://ff0f362a-f37d-48e5-876a-ff19b5891e86@gr1.mizbanertebatfarda.ir:8080?path=/&security=none&encryption=none&host=gr1.mizbanertebatfarda.ir&type=ws#@mobo_game_land 2🇩🇪
-vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
-vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️
