@@ -405,7 +405,7 @@ trojan://1234567890@94.125.101.103:443?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%
 trojan://1234567890@77.110.116.7:443?sni=kfm-bn0.pages.dev#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
 trojan://1234567890@138.124.32.120:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD65
 trojan://1234567890@178.17.48.78:443?sni=kfm-bn0.pages.dev#%F0%9F%87%AE%F0%9F%87%B6IQ%E4%BC%8A%E6%8B%89%E5%85%8B
-trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&allowInsecure=1#%F0%9F%94%9164%40oneclickvpnkeys
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1 🇩🇪 @V2ngFast
 trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#5 🇩🇪 @V2ngFast
