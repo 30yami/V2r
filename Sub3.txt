@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://11a6d832-cac8-4ce4-a2f9-f0e87c4b6e35@shopcenter.lumavision.ir:8080?path=/graphql?ed=8080&security=none&encryption=none&host=shopcenter.lumavision.ir&type=ws#[38138] - Telegram : @V2All
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
+vless://11c29b21-f6c1-4152-adcd-4cf929bc35fa@147.45.217.49:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#@v2rayconfigamir 9548
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#@v2rayngzendegimamad🕊️
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#@v2rayngzendegimamad🕊️
 vless://1253dba2-aa6b-4b50-becd-acb0c69c7ca6@78.157.51.163:8080?path=/&security=none&encryption=none&type=ws#@KurdConfing تلگرام
 vless://1253dba2-aa6b-4b50-becd-acb0c69c7ca6@78.157.51.163:8080?path=/&security=none&encryption=none&type=ws#@icv2ray
 vless://1253dba2-aa6b-4b50-becd-acb0c69c7ca6@78.157.51.163:8080?path=/&security=none&encryption=none&type=ws#Psiphon--@V2rayAlpha-27
@@ -497,9 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳#@v2rayconfigamir 1422
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.149.12.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🌺42@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺13@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.150.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🌺45@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.150.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺23@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.152.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#☘️82@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.139:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🌺75@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#☘️94@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺16@oneclickvpnkeys
