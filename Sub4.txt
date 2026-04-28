@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://168a3be7-9401-e72e-7762-f25ed8dc652a@meli3.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.200#@vpnbaz | ترکیبی
-vless://16ee3d3a-9fc7-41e1-b456-406a796aabfe@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#Psiphon--@V2rayAlpha-12
 vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?encryption=none&type=ws&path=/۶&host=my.zivorae.ir#اختصاصی @irmeliy
 vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=/&security=none&encryption=none&host=my.zivorae.ir&type=ws#TEL;Father_vpn
 vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=/۶&security=none&encryption=none&host=my.zivorae.ir&type=ws#@filtershekan_channel
@@ -503,3 +501,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.184:443?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.184:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#🦜58@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.227:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#🌺80@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.206.71.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺33@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.206.71.253:8880?path=/Free-VPN-CF-Geo-Project/HK&security=none&encryption=none&host=joss.jak.biz.id&type=ws#Psiphon--@V2rayAlpha--2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.75.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺43@oneclickvpnkeys
