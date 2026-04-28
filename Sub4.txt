@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://18d78dc1-f971-42e2-9c0a-843fb4f2c18c@Tapsi.ir:80?path=/cdn&security=none&encryption=none&host=vp.movizdl.ir&type=ws#@TROWER_NEWS
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?encryption=none&type=ws&path=/&host=my.zivorae.ir#NormanV2ray-39
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?encryption=none&type=ws&path=/۶&host=my.zivorae.ir#اختصاصی @irmeliy
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=/&security=none&encryption=none&host=my.zivorae.ir&type=ws#TEL;Father_vpn
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=/&security=none&encryption=none&host=my.zivorae.ir&type=ws#telegram: @hupivpn
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=/۶&security=none&encryption=none&host=my.zivorae.ir&type=ws#@filtershekan_channel
-vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://1a6cfab1-eb0a-4d66-8714-1151e28bec1e@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#@Trade_Nobody-test-954-100mb
 vless://1ada8c15-10cc-4ad1-ba95-7846bc971167@snapp.ir:80?path=/&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#@mobo_game_land 🎟️
@@ -503,3 +496,10 @@ vless://6324d103-f5a4-4e27-a1f2-4fe9cb0ab5bf@belnn.appleseraj.ir:2053?path=/?ed=
 vless://6336b2a6-16a9-4109-b094-630512f71267@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#@nvp_Hours
 vless://6340ba94-f7cc-4b94-9a57-e6d9a2b769df@snapp.ir:80?path=/hunnter&security=none&encryption=none&host=gol.golhayeghorbat.ir&type=ws#Psiphon--@V2rayAlpha-21
 vless://63609897-9518-41b5-8ca1-8adf080548fc@snapp.ir:80?path=/FIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#@V2rayNG_Cafe
+vless://63609897-9518-41b5-8ca1-8adf080548fc@snapp.ir:80?path=/FIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#Psiphon--@V2rayAlpha-11
+vless://636dac2e-9a58-49a6-84f5-313a03761131@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=48fccabc158a4c22#@v2rayngzendegimamad🕊️
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&mode=gun#
+vless://6443cb21-5705-443a-ad4b-a04d66edc791@64.188.67.222:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7-Jm57ecz0CLHigw6miMzEGJjqubw9Iirgn5sLD0gTE&security=reality&sid=9f2c6b1d&sni=google.com&type=tcp#🌺15@oneclickvpnkeys
+vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?security=reality&encryption=none&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge.it-programer.ir&sid=7ca84973be0c0315#Telegram : @V2ynpv
+vless://6492fd55-4ab8-4da5-bed4-83e5c3f5b178@www.goldenshopify.ir:2031?encryption=none&security=none&type=tcp&headerType=none#@Raiv2mmr
+vless://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?path=/ed=2048&security=none&encryption=none&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir&type=ws#Psiphon--@V2rayAlpha-7
