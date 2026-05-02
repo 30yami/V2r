@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#🎈43@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.215.38:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#t.me/ConfigFori  -  Config 23465
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@@FreeConffning_VIP
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#[42601] - Telegram : @V2All
@@ -503,3 +502,4 @@ vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=no
 vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#[✅️ترکیبی سه | Shomarrreh@]
 vless://c69cc697-7587-4e9a-a066-b21ba3766d0d@185.143.233.235:2052?path=/&security=none&encryption=none&host=dev.artarona.ir&type=ws#Psiphon--@V2rayAlpha-9
 vless://c6a36680-536b-4578-9bad-3b6ad0329a95@snapp.ir:80?path=/&security=none&encryption=none&host=sd.dl7movis.ir&type=httpupgrade#🔵 @Bluefilter_org | تلگراممون 🔵
+vless://c6a36680-536b-4578-9bad-3b6ad0329a95@snapp.ir:80?type=httpupgrade&encryption=none&path=/&host=sd.dl7movis.ir&security=none#@Hddify
