@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.201:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#@icv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.152.227:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#[42445] - Telegram : @V2All
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@v2rayngzendegimamad🕊️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram : @V2ynpv
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#🎈43@oneclickvpnkeys
@@ -500,6 +503,3 @@ vless://c62b5011-c0c8-4fd9-bd59-9a275469da7c@185.143.233.5:443?path=/chat?ed=128
 vless://c62b5011-c0c8-4fd9-bd59-9a275469da7c@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=in.8lack.ir#@byiroh
 vless://c62b5011-c0c8-4fd9-bd59-9a275469da7c@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=in.8lack.ir#@vasilllm_1
 vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=&encryption=none&headerType=none&type=tcp#@vasl_bashim
-vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#@TROWER_NEWS
-vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
-vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#@vasl_bashim
