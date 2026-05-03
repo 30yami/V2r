@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st-2.globalcache.onnstreaming.ru&fp=chrome&pbk=NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ&sid=aa69f619e4414362&type=tcp&headerType=none#
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@193.23.200.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl2-gws4.onnstreaming.ru&fp=chrome&pbk=fN3l3mYSDO44IWNPHWOQo2JMUw2isUGoOqrS6hCFfBQ&sid=d1f93724859d75ac&type=tcp&headerType=none#
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@pl2-gws4.onnstreaming.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl2-gws4.onnstreaming.ru&fp=chrome&pbk=fN3l3mYSDO44IWNPHWOQo2JMUw2isUGoOqrS6hCFfBQ&sid=d1f93724859d75ac&type=tcp&headerType=none#
 vless://1c002135-d978-45ed-a5d2-c8ae0811f467@payment.abas-taraghe.space:443?path=/2038&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=s1.c1.sabzi.lol.snapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=payment.behtarinoo.com#بیا روبیکا وصل شو @Vizardxray
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🇭🇺 Join+Telegram:@Farah_VPN 🇭🇺
@@ -503,3 +501,5 @@ vless://7c6e5643-03f4-3f2f-dc43-1b78624d4b86@me3.katalogini.ir:2082?path=/&secur
 vless://7c6e5643-03f4-3f2f-dc43-1b78624d4b86@me3.katalogini.ir:2082?path=/&security=none&encryption=none&type=ws#🌻Psiphon-@V2rayAlpha-14
 vless://7e5f537a-d195-4365-980d-aeab2be259e9@185.143.233.43:2052?encryption=none&type=ws&path=/&host=motabarim2.service-panelbaz.ir#@YamYamProxy
 vless://7eaed3f8-6326-469c-9868-f37e438514ea@snapp.ir:80?security=none&encryption=none&host=firelink.arian-go-internet.ir&headerType=none&type=tcp#@Proxy_Vpney v+p (1)
+vless://7f71f411-0c76-42a7-86ad-5e1e6098520f@snapp.ir:2082?path=/&security=none&encryption=none&host=mail.zivotra.ir&type=ws#@@FreeConffning
+vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&encryption=none&headerType=http&type=tcp#@NETMelliAnti
