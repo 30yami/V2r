@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#⏳@Proxy_Vpney (8)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#[46811] - Telegram : @V2All
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🥏7@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#@GozargahAzad|🇸🇨
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#@v2rayconfigamir 8906
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#t.me/ConfigFori  -  Config 59852
@@ -500,6 +503,3 @@ vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/V
 vless://c30fc05c-6c86-4af7-b616-25e9093cb394@snapp.ir:80/?type=ws&encryption=none&path=/&host=gm.borna-otbas.ir&security=none#pl-Ts
 vless://c3124c8c-c60b-4290-b045-cb6f9e68686a@anten.ir:2086?encryption=none&security=none&type=ws&host=hap.kalaleh24.ir&path=/#@B_VPN_free
 vless://c42a39d3-e7a1-4b87-a7f3-be7e3704c996@45.15.129.17:443?encryption=none&fp=&pbk=kGW3p-dzpbVQnV8IM5T63UqRYu2MvI9Yl5K1GLJxWkY&security=reality&sid=77&sni=www.oracle.com&type=tcp#🐝2@oneclickvpnkeys
-vless://c45dc88d-13b6-40b6-9044-1ab406cc1662@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#@vaslshiiimm
-vless://c463f0ed-2941-4b15-933b-e66ba7838ae7@varzesh3.com:8080?path=/&security=none&encryption=none&host=Op2.nexoratechcenter.ir&type=ws#@Spartan_YT
-vless://c51f6eac-bacb-4438-a3af-2ad46a648712@45.206.0.72:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=37772edff71b4167&sni=rbc.ru&type=tcp#🫟20@oneclickvpnkeys
