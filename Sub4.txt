@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@138.124.32.76:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#🍑48@oneclickvpnkeys
+vless://4b581293-af3a-4658-b9b2-06949626bf86@104.16.80.73:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
+vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
+vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@172.64.149.54:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.0:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
@@ -499,7 +503,3 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIj
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@V2ynpv : تلگرام
 vless://98e85ab7-5ed2-c5a5-f734-226074d50aa3@sdl.ciliko.ir:80?path=/&security=none&encryption=none&type=ws#@Proxy_Vpney v+p (2)
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#IR-@V2rayAlpha-16
-vless://9983b901-28a8-4dcf-a8b9-8304bc6dc804@85.133.161.168:2086?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=anten.ir&type=ws#Telegram : @V2ynpv
-vless://9abd3240-0dd5-47de-a2be-7a8d4f22a283@snapp.ir:80?path=/&security=none&encryption=none&host=nig.vxhosting.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://9af950c3-5e16-4b9c-92a0-476f5e1c7cef@185.143.233.5:8880?encryption=none&type=ws&path=/&host=cd2.sesrsa.com#@vaslbemonim7
-vless://9af950c3-5e16-4b9c-92a0-476f5e1c7cef@185.143.233.5:8880?encryption=none&type=ws&path=/&host=cd2.sesrsa.com#@vaslbemonim7  @vaslbemonim7

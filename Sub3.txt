@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev#8 🇩🇪 @V2ngFast
+trojan://1111@173.245.59.64:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev#7 🇩🇪 @V2ngFast
+trojan://1111@8.35.211.134:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev#4 🇩🇪 @V2ngFast
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev#6 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev#8 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev#1 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#3 🇩🇪 @V2ngFast
@@ -499,7 +503,3 @@ vless://49aabf68-e986-4722-8fd1-1702ce996bb6@109.172.101.234:443?security=realit
 vless://49d30971-8db7-43d4-ba60-118a5b6ecd3f@185.143.233.5:2082?path=/&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#اختصاصی @OneTakm تلگرام❤️‍🔥💎
 vless://4a00b4a3-32cb-4df8-82f1-4b1dbaf2f478@ger1bot-ws.headerip.com:80?encryption=none&type=ws&path=/&host=ger1.mv5.ir#B_VPN_free
 vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#Telegram : @V2ynpv
-vless://4b481152-ba7f-4445-8cc0-d33d58546e23@138.124.32.76:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#🍑48@oneclickvpnkeys
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.16.80.73:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
