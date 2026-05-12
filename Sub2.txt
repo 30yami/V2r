@@ -484,22 +484,22 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@91.239.23.10:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%
 trojan://8r%3C%5B9%27l6hAO%238ZQi@66.42.61.215:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A16
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.121.125:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B89
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.91.134.91:2053?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A597
-#üc0ÖbÃø¸Fjbáé	u@GÆ9ÂÇoM6i7d®Ñ´\ð¹bTz
-ß|EU¿*E$iÏßþSÙp\µ´Sè4Âä¯½GUC lZ3 ÊPÈóÍÛYÁQLÔÿÕRÖÅÀn
-#°d¨V ²Zt°áIS)ÓõË4,ÅÞÉ)¼ä?$+³í;pï"'T=ÖCqCú­kVÏ*]Úîâñr\5EïÙS
+
+#=âþ§ê¿GîÚ'¾tévüÉÌZªeÌ0Éc¯{úQâÚA¢ e5¡êg-ßÒÊÐþ÷¼HV.Û}ÀÃÑNA«9ÇºÕ1îëPù½ú&ÝS
+RGòßk¯-k¨eÔÅ«æ´äñ$$Ë='ÛÃL1: MZ4Øí&à çËì¼ðàqh{Såà÷#
+{'M5`+uO»ÔOgaü½>olj£´¹AÓã		l}^Î_¨LQñ(sµ-×=ekè6+ðÄ©üA¿÷ÖÝ:wR5aEÓ$é?ÀSV/
+Tü
+â¿Ñìþ¹py¸í6ãì¢ò)(êä|90Z¥'<vYÎ¿:°«ÏFD÷ìûdã«h¹hÐl%a«ÌmUè4Ãþ¸à¸8¼$¥0m1·¢#²¥õÇ§ÿÄWÛÍ×"Òû÷á,zcQêÍ44dâMû1}sÁHÞEB ¨D#$ñQ³Ûð|ïn)än$ÊúÝÚjÀÁ¬ÿ;Ý]QA²Ëþ[OüVL¬R¬%u2Q¾ýAþ4|éø \Ò^õ§UZ'í«°üý	ôòÜà×Ç£%ßé&-ºë$Ùÿïc9¢Õ¾¾¯é(f0¨Û~qÿÍEÆöó
+zÊàªh7»?É^1!Êï$;òs H§-Ü¦#?¾_xÅûè}²MÔÑyÝØ< `â{îH&êÅÓÉSÀ­|àf°´qèôîs¡)Æeôh¡²cËß8s×gèõN,%.d¦´Ú¼åôËmHgêéMá ±TÂ¶Ø*J©g¾ïY3!rS¸ÌKu:!\ty+Ýlæ·¯Ðî~¾r·ëÙ67Iª
+ª¯nVAòåUE*è53ö¤.­«ûy¥9©2Uù1ï&¨«|Aè²È&ÌÿòOÛBW"÷A5z\Ät©ÔÏÛHsylÏ_yw]¨#,~û­ÐðaÊì§\»KÊKcnwÊ&µi¶k}!]àYÆõï¸³D
+~4h²÷uà¸ßPM<z²D¾Ó¼Û$»ÿöuÚn+ªì±ØßÖÅkÅ_·äC =wÃå`!æG<Û2Ç	Ýssg$cÀð³`KÈJ8T¢¥J6½ÔÇâ0&]Q1ÀþeÄRêKç¸Î¬Î° |(ÀWóÅt¸´ 7Wú9DKÄÓ'Åj\74¢rSVÑ«#	\sÁ]Ôý"Eai½l5©õA£²SÁ¡áÍeàHBìÛÈv°ÅJÍÒtØs8rYcÈÄ<B¥Í·+ÏCóoí.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.247.186.199:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%9B%B282@oneclickvpnkeys
 vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.235.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sni=www.deepl.com&type=tcp#%F0%9F%8D%AC59@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.138:2096?encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%90%B962@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram+%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8D%9185@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram+%40wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8D%9182@oneclickvpnkeys
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.203:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%90%9D32@oneclickvpnkeys
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.45:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%8D%9110@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.247:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%A5%8F91@oneclickvpnkeys
-vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gpuopen.com&fp=chrome&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1&type=tcp&headerType=none#%20
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%A5%8F62@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%A7%BF15@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.208.139.108:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%B342@oneclickvpnkeys
-vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4dd1&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224#v2ray_dalghak
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.5.134:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#v2ray_dalghak
-vless://8365b16d-cc7f-4d78-ada5-2b09de6e066a@104.20.6.134:443?path=%2FeyJqdW5rIjoibWhqYUhLYUV0eFBkVDkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDQuMjQ4LjE3LjEwMSJdfQ%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=namizan.pages.dev&type=ws&allowInsecure=0&sni=NaMiZAN.pagEs.dev#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.238:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%E2%98%98%EF%B8%8F70@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTWVKaGlhOUhoQ3cxaEdjeGVWRlFm@195.93.253.245:49137/?outline=1#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%A6%8423@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%90%BE92@oneclickvpnkeys
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%90%BE52@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%9E86@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad0hEYUI1OWV2VVB0cHdmWlQyRkE1@195.93.253.245:49137/?outline=1#v2ray_dalghak
