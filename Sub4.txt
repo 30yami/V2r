@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🏴‍☠️ @FreakConfig
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇩🇪 @FreakConfig
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇫🇷@FreakConfig
-vless://49a41d23-a0b4-4208-b910-df298f2c2158@anten.ir:80?path=@TunizoNET&security=none&encryption=none&host=TU.amirenzohost.ir&type=ws#@appsooner کانال تلگرام 🕊️
 vless://49aabf68-e986-4722-8fd1-1702ce996bb6@109.172.101.234:443?security=reality&encryption=none&pbk=5JkeRhrvxxdW7Y-jJNnvMUZ6W37yWegXl4-Ea-zl9BU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=89bee0f1e450d3cf#@v2rayngzendegimamad🕊️
 vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#Telegram : @V2ynpv
 vless://4b506123-3d41-4d5b-b5ae-00debe145d68@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#Mi6vpn
@@ -503,3 +499,7 @@ vless://94987766-73d1-4b2e-96f6-599e7131eec4@snapp.ir:80?path=/&security=none&en
 vless://94987766-73d1-4b2e-96f6-599e7131eec4@snapp.ir:80?path=/&security=none&encryption=none&host=dy.borna-otbas.ir&type=ws#@vaslshiiimm
 vless://94dc5204-c5a9-4856-9fd6-67264ba499c1@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=/red/&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#@electvpn0
 vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://958fe733-7b00-4825-bfa0-ca7ef3d122a0@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#
+vless://95b9321e-1eff-4cb5-a74e-856a70724683@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#🇧🇬Bulgaria, Sofia | 🌐 IP: 216.147.121.120 | ⏳ping:7726.87ms | 📢 @NamazVPN
+vless://95ff3f55-24b2-4daa-8e08-28ee495518a7@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#@filembad
