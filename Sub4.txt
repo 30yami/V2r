@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3b71be10-6c10-45e9-95e6-e469f7a0ae63@aparatrat1.info:2083?encryption=none&type=tcp#@vaslbemonim7
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.64.155.209:443?allowInsecure=1&encryption=none&fp=chrome&host=harmony-501.pages.dev&path=/socks5://128.140.46.169:13482&security=tls&sni=harmony-501.pages.dev&type=ws#🧔‍♂️39@oneclickvpnkeys
-vless://3c385c04-8558-4ec5-9d06-cff725e44a3b@185.143.233.5:2087?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#بیا روبیکا وصل شو @wizardxray
-vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?security=none&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#@BOMB_SERVER 🖤🇵🇹جوین بده
-vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@104.194.159.207:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XFv4Qy1Pfx_Wj_oLqIqfVpBiykT2zr35X0mwEOME2Wg&security=reality&sni=www.kleinanzeigen.de&type=tcp#🐸19@oneclickvpnkeys
-vless://3c9059c2-ccf9-4dba-b99f-f2a9eb8f6810@de.gxnetshop.ir:80?encryption=none&type=ws&path=/&host=vip.tickneloghy.ir#@canfigiop
-vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@icv2ray
 vless://3cd763c4-4825-401f-b133-fa5cc7fa6e1e@snapp.ir:80?encryption=none&host=iranfuture.musicritmic.ir&path=/&security=none&type=ws#@NOiSEtdm
 vless://3cebf594-1084-45b8-91fe-15ab4f525841@185.143.233.233:443?path=/voip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#چنل عضو شو @v2ra_config
 vless://3d0e06ce-de86-4bcd-87ab-99b5b4e47ffe@snapp.ir:80?type=ws&encryption=none&path=/&host=gm.borna-otbas.ir&security=none#pl-T
@@ -503,3 +496,10 @@ vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=/&security=none&
 vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=/&security=none&encryption=none&host=M2.snllshop.ir&type=ws#@vpnbaz | ترکیبی
 vless://93105735-e7b4-420a-95b5-763a92a0875f@vip2.syncbridge.site:44117?type=tcp&encryption=none&security=none#@Vpn_jet7
 vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
+vless://937dde02-4ce6-4f0d-a3be-27aef7d3ef46@s4.tehranionliine.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#@lldalall
+vless://93ea5e7b-9427-416a-b2c6-f650d0c23193@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#@GozargahAzad|🇮🇷
+vless://93ea5e7b-9427-416a-b2c6-f650d0c23193@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#@vpnbaz | ترکیبی
+vless://94662882-e8f9-4b1e-ae03-2851865a074f@Tapsi.ir:80?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#@subioir
+vless://9545884d-ffe3-4926-a134-4201c6232a3c@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss5.limitless-cloud.ir#@GOLD_VPN_IR
+vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
