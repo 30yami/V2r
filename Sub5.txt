@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai,web.splus.ir,igap.net&headerType=http&type=tcp#@NETMelliAnti
-vless://ae36571f-f66d-4f0a-b92e-eaeb6e94ae5c@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#t.me/ConfigFori  -  Config 73743
-vless://ae4cf7dd-a5ee-4e9c-b49b-ff67ceda8830@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=static.cdn.asset.aparat.com&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=static.cdn.asset.aparat.com&fp=chrome&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&allowInsecure=1#@icv2ray
 vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@2.26.3.148:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=67ccfc02&sni=www.deepl.com&type=tcp#🧔‍♂️88@oneclickvpnkeys
 vless://aea069aa-9a7b-497c-aff6-b33dca6be80d@185.143.234.235:2086?path=/&security=none&encryption=none&host=sync.arasbaran-co.ir&type=ws#چنلمون : @Nikotniha📊
 vless://aeb90139-16eb-40e5-bfc2-78b3c12e3cb4@185.143.235.200:80?path=/arvancloud.ir&security=none&encryption=none&host=cofingtaraneh.pointspeed.ir&type=ws#@appsooner کانال تلگرام 🕊️
@@ -503,3 +500,6 @@ vmess://eyJhZGQiOiIxNzIuNjYuMjEzLjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://fd2c95b1-f48e-4d44-9b53-f5560f2eaae4@16.170.148.222:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=CzY9QJ1b2czWQHd5LwmghJhn_A-_fozAc2geAM7zk28&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.speedtest.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40proxyfn%20%231
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bpbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&amp%3Bfp=chrome&amp%3Bspx=/storage&amp%3Btype=grpc&amp%3Bsni=mega.io&amp%3Bsid=07a9a22b#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20%40proxyfn%20%231
 vless://d3db44da-fbd2-4592-bc01-fa7995ee0434@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=bl.varyonet.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=p1.razstar.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%232
+vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&amp%3Bsecurity=reality&amp%3Bpbk=ipM5-HQ6sNBZhPGNLNpq8voqMvgxBeL9LDZY4sQ5Yyk&amp%3Bfp=chrome&amp%3Bsni=zula.ir&amp%3Bsid=d2bab77a&amp%3Bspx=/#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231
+vless://qeshmserver@151.101.3.8:80?type=xhttp&amp%3Bmode=auto&amp%3Bhost=qeshmserverfree.global.ssl.fastly.net&amp%3Bsecurity=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231
