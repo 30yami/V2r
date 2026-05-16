@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.215.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime02.workers.dev#@v2rayconfigamir 1353
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.244.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.cc.cd&type=ws#🐸89@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🧔‍♂️9@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?encryption=none&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🐸53@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://c8f23497-b1b5-4e7d-9a2f-93376e460639@snapp.ir:80?encryption=none&host=ir
 vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?encryption=none&security=none&type=ws&path=/#@Va3lSho
 vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?path=/&security=none&encryption=none&type=ws#@TechNowAi 🟢 (5)
 vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?path=/&security=none&encryption=none&type=ws#@icv2ray
-vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?path=/&security=none&encryption=none&type=ws#SryLove
