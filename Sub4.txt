@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.113:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#🥊69@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.25.189:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/youtube@ZYFXS🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#🛖50@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🥊19@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🛖34@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🛖15@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.178.172.225:2053?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.178.172.225:2053?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.41ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🛖14@oneclickvpnkeys
@@ -498,8 +503,3 @@ vless://b19f805e-7c05-40e3-9156-2a282214ec2e@v2ngfast-v2ngfast-v2ngfast-v2ngfast
 vless://b21f0f4c-fd59-4342-a1eb-c7bf487642ed@yakhbandan.info:6402?path=/conn.php&security=none&encryption=none&host=varzesh3.com&type=ws#🇮🇷25639 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b244af94-9431-4c33-99de-87b986421fd0@snappfood.ir:8080?path=/&security=none&encryption=none&host=saji.starvip.sbs&type=ws#@BliitzUp
 vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
-vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#🔵@chillguy_vpn
-vless://b296d621-d830-4bee-8433-bd940e89a25a@chatgpt.com:8443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.mincroft.top&path=/&security=tls&sni=dl.mincroft.top&type=ws#@electvpn0
-vless://b296d621-d830-4bee-8433-bd940e89a25a@chatgpt.com:8443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.mincroft.top&path=/&security=tls&sni=dl.mincroft.top&type=ws#@electvpn0   10 گیگ اختصاصی کانال @electvpn0 ری اکشن و فوروارد یادتون نره👉
-vless://b2fafaca-99da-406f-96da-5480613a7fda@snapp.ir:80?type=ws&path=/&host=simorgh.garfar.ir&security=none#@GOLD_VPN_IR
-vless://b3176435-46c0-4fb6-bb03-e4a8f9f1c645@185.143.233.43:80?encryption=none&host=Yaghi1.panelbaz.com&path=/&security=none&type=ws#🇮🇷25576 | ⚡️Telegram = t.me/SOSkeyNET
