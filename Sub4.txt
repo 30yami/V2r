@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🛖34@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🛖15@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.109.69.78:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#[58416] - Telegram : @V2All
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🛖14@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#[58399] - Telegram : @V2All
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🫖26@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🥊33@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=/&security=tls&sni=sni.my111000.tech&type=ws#🥊2@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🫖27@oneclickvpnkeys
@@ -497,9 +503,3 @@ vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=/&se
 vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?type=ws&path=/&security=none#ترکیبیConfixio@
 vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
 vless://bc2facdf-bbc4-42ba-aaad-e9e8bd7868fa@Gabnj.tony-ry.com:9717?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=/&security=none&encryption=none&host=snappp.khanumjan.ir&type=ws#⏳@Proxy_Vpney (2)
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bd23835c-d49b-49ca-88d7-b2e3edc49819@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss6.limitless-cloud.ir#🇮🇷25868 | ⚡️Telegram = t.me/SOSkeyNET
-vless://bd51a3d6-328c-49d5-9270-6b7c6051d98f@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
-vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#@GOLD_VPN_IR

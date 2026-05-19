@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://0833b0a9-1a48-4265-bbfd-39133f1c8a87@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=cn.8lack.ir#🌐 tel : @v2ray_unit
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#@icv2ray
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#NormanV2ray-27
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#https://t.me/Pirimod
@@ -497,9 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.248.138:2096?allowInsecure=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.25.189:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/youtube@ZYFXS🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#🛖50@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🥊19@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#[58432] - Telegram : @V2All
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🛖34@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🛖15@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.109.69.78:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#[58416] - Telegram : @V2All
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🛖14@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#[58399] - Telegram : @V2All
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🫖26@oneclickvpnkeys
