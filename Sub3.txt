@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@95.38.164.142:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26454 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@95.38.164.148:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26449 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@95.38.164.155:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26455 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@95.38.165.189:40443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🧃@4oneclickvpnkeys
-trojan://humanity@95.38.165.189:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@V2rayNG_Cafe
-trojan://humanity@95.38.165.9:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26456 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@95.38.181.129:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26511 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@95.38.181.205:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26457 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@95.38.181.32:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26513 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@95.38.188.255:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26459 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@95.38.188.92:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26451 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@95.38.189.151:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26465 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +494,12 @@ vless://5f93d479-eacc-4004-b23f-3701aa8dee8a@pov.iran-mehrbu.ir:443?alpn=h2,http
 vless://5f93d479-eacc-4004-b23f-3701aa8dee8a@pov.iran-mehrbu.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dog.kazem-moviez.ir&path=/webpanel?ed=2560&security=tls&sni=dog.kazem-moviez.ir&type=ws#🇮🇷26427 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5f93d479-eacc-4004-b23f-3701aa8dee8a@pov.iran-mehrbu.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dog.kazem-moviez.ir&path=/webpanel?ed=2560&security=tls&sni=dog.kazem-moviez.ir&type=ws#🇮🇷26428 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6000a015-015c-4b92-9903-72cdeaaa33b3@milli.gold:80?type=ws&security=none&path=/&host=pan110e.redordead.ir#🇮🇷26488 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6035140c-8d79-486c-9afa-5177a6dfac69@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@config_free2
+vless://612fa38e-dbf2-491c-9417-a4187c25bda2@ip4-fas.tyryqyserver.ir:80?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@V2ynpv : تلگرام
+vless://616db6a6-24b8-4d1f-8234-72bfb44fac80@94.101.179.129:27216?security=none&encryption=none&headerType=none&type=tcp#🌐 tel : @v2ray_unit
+vless://61f2955f-cbdf-41fb-a944-b4256dc260e3@Snapp.ir:80?path=/&security=none&encryption=none&host=mangel.phynanc.ir&type=ws#@icv2ray
+vless://61fd432e-b591-4d16-9ea7-9e2d17a492e5@jobinja.ir:80?path=/assets&security=none&encryption=none&host=hostt.movizdl.ir&type=ws#🇮🇷26550 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🧃4@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@NETMelliAnti
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@NETMelliAnti
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@NETMelliAnti
