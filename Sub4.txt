@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ترکیبیConfixio@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.49.176.227:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#😎23@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.14:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#[60666] - Telegram : @V2All
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.14:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#🇩🇪 t.me/Natrixo BB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
@@ -501,5 +503,3 @@ vless://ab0d9568-1ad3-4af5-961c-d10ca9a634ad@185.231.113.237:7474?encryption=non
 vless://ab26c35c-dab4-909d-b771-7fd556b5909e@subbb.garkao.ir:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&fp=chrome&allowinsecure=0&type=ws&sni=cdn-reb-aaa.fasrgobar.ir#🇮🇷26850 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ab5d133e-fb91-4759-aac6-15a47de569d7@snapp.ir:80?type=ws&encryption=none&path=/&host=do.pupload.ir&security=none#
 vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&security=none&type=tcp&headerType=http&host=Myket.ir#@digiv2ray-50GB
-vless://abecfe21-ff84-4aa2-86d1-0fb8470b0a4e@snapp.ir:80?encryption=mlkem768x25519plus.native.0rtt.8fnIt6DLiOSe8Wxdmj2_2OOZ-TPmoWN4KI8_PnawflQ&security=none&type=ws&host=amyrax.x2n2.ir&path=/Pahlavi#@electvpn0
-vless://abefa78e-4f3e-406b-bcac-7939a926a577@snapp.ir:2082?encryption=none&host=baaghali.loadballancer.ir&path=/&security=none&type=ws#@vaslbemonim7

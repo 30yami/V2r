@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
+
 ✨🇻​🇵​🇳​✨🇻​🇮​🇵​✨ pinned «📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰  vless://8ca78528-0272-5517-a802-f6c28d2a38ee@city.mohammadkurd.ga:556?type=ws&security=tls&path=/trojan-panel-websocket-path#Vip_vpn_2022  #v2rayng 🤍   🆘#اپراتور_های_قابل_اتصال⏳  #ایرانسل ✅ #wifi ✅  برای لینک اختصاصی خودت…»
 
 
@@ -501,5 +503,3 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?encryption=none&ho
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80/?type=ws&encryption=none&flow=&host=vip.yaml7.ggff.net&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.147.223:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
