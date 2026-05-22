@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://2929@8.39.125.15:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev#3 🇩🇪 @V2ngFast
+trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=/1000/10/b449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=chrome&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#@Confixio
+trojan://4646@173.245.58.57:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev#5 🇩🇪 @V2ngFast
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#😎67@oneclickvpnkeys
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=/&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇩🇪 t.me/Natrixo BB
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#😎70@oneclickvpnkeys
@@ -500,6 +503,3 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@45.83.21.39:443?encryption=none&flo
 vless://43794829-04d4-7a21-c86c-42246dd41bd4@bmi.ir:8080?path=/&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#V2rayng_Fast
 vless://43794829-04d4-7a21-c86c-42246dd41bd4@bmi.ir:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn-665e-o0g.fars-rehan.ir&path=/#V2rayng_Fast
 vless://43fb4c09-f35d-4a15-834d-7852c36d0493@111.88.145.222:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#@v2rayconfigamir 8527
-vless://442c9c5f-5dc0-41dd-ae30-353b186b0ff9@rfral.aghanami.ir:80?encryption=none&type=ws&path=/&security=none#@filembad
-vless://442c9c5f-5dc0-41dd-ae30-353b186b0ff9@rfral.aghanami.ir:80?encryption=none&type=ws&path=/&security=none#[61761] - Telegram : @V2All
-vless://442c9c5f-5dc0-41dd-ae30-353b186b0ff9@rfral.aghanami.ir:80?encryption=none&type=ws&path=/&security=none#🇮🇷27510 | ⚡️Telegram = t.me/SOSkeyNET
