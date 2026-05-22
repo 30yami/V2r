@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-185
-vless://91043dcf-25ea-4fa2-9cee-1e8a2a2184f8@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
 vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=best.3.iran.avenflow.ir&type=ws#@V2ray_confiig
 vless://9244ec20-3163-4081-8b5a-ea84fc6ce485@snappfood.ir:2052?type=ws&encryption=none&path=/ws&host=cdnisfucka.drnimaamini.ir&security=none#@Pirimod
 vless://9244ec20-3163-4081-8b5a-ea84fc6ce485@snappfood.ir:2052?type=ws&encryption=none&path=/ws&host=cdnisfucka.drnimaamini.ir&security=none#🇮🇷27181 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:2086?security=none&t
 vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:2086?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#🇮🇷27296 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:2095?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#[61386] - Telegram : @V2All
 vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:2095?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#🇮🇷27297 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:8080?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#[61383] - Telegram : @V2All
+vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:8080?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#[61387] - Telegram : @V2All

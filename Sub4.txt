@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:31.26ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 t.me/Natrixo AA
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@GozargahAzad|🇳🇱
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@v2rayngzendegimamad🕊️
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[61391] - Telegram : @V2All
@@ -503,3 +501,5 @@ vless://8dcb7893-9191-4c71-b92a-4c3e52142030@vip.younetwork.ir:20900?type=tcp&en
 vless://8def6a24-8bd8-4e7d-82ec-938412cae499@37.139.42.234:8443?security=reality&encryption=none&pbk=a1xQOijfR3NuJRVfCNfNr4YMdcb7eqsKpvhuv-Gs9l8&headerType=none&fp=chrome&type=tcp&sni=www.vk.com&sid=6670#Telegram : @V2ynpv
 vless://8f15b403-178e-4361-900c-086e56134280@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#🇮🇷26636 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8f61d109-10f4-494d-891f-3035c56124cc@snapp.ir:8080?path=/&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#@Ahvaz_vpn
+vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-185
+vless://91043dcf-25ea-4fa2-9cee-1e8a2a2184f8@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
