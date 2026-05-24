@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5b9fa73b-b549-480b-add9-c45e650d236f@104.18.189.153:443?encryption=none&fp=chrome&host=gddy.hhlfy.de5.net&path=/fp=chrome&security=tls&sni=gddy.hhlfy.de5.net&type=ws#🍀37@oneclickvpnkeys
-vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#@GozargahAzad|🇮🇷
-vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#@filembad
-vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#Telegram | @ProxyEliteVPN
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#V2rayng_Fast
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#https://t.me/Configir98
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#https://t.me/Pirimod
@@ -503,3 +499,7 @@ vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?encryption=
 vless://b1badb73-e1e5-4846-856c-8ed6450a299e@2.144.19.238:443?encryption=none&security=tls&sni=shopify.tabriz.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shopify.tabriz.qzz.io&path=/#V2rayng_Fast
 vless://b1badb73-e1e5-4846-856c-8ed6450a299e@2.144.19.238:443?encryption=none&security=tls&sni=shopify.tabriz.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shopify.tabriz.qzz.io&path=/#Vpn_jet7
 vless://b25d866f-1391-41d3-9509-4efd2215258d@185.120.16.208:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rH0vZkY3Wyc8Ol-pLWEPx22hpg6ovrLFK9Sp0aQLcT0&security=reality&sid=7a3f5c8e2b4d1a69&sni=valorant.secure.dyn.riotcdn.net&type=tcp#🌶️4@oneclickvpnkeys
+vless://b2620b61-81b0-4fb6-9c78-e58f152916e2@ssd12.coolsmain2.shop:2086?path=/&security=none&encryption=none&type=ws#@appsooner کانال تلگرام 🕊️
+vless://b270a6fd-0038-4544-acde-446b1af20cb7@185.143.233.217:80?path=/ws&security=none&encryption=none&host=s26.chehre-negar.ir&type=ws#@Black_Star_Vpn
+vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
+vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#🔵@chillguy_vpn
