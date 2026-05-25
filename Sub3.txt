@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-privatevpns@15.224.91.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.157.122.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.126.182.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.65.4.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.156.35.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.159.190.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.180.151.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.10.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.102.92.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.138.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.176.4.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.179.19.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.183.106.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -493,13 +503,3 @@ vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@109.122.252.231:443?path=/&security
 vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@109.122.252.231:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#V2rayng_Fast
 vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#@icv2ray
 vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#V2rayng_Fast
-vless://68a17c07-4100-4799-8c23-a013f21989e2@95.38.186.106:6782/?type=tcp&encryption=none&security=none#@electvpn0
-vless://68c89f56-3a15-46f2-9901-8c00a2546b97@creativecommons.org:443?path=/Telegram@@v2rayngzendegimamad/?ed=2048&security=tls&encryption=none&insecure=0&host=rukawa.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=rukawa.pages.dev#@v2rayngzendegimamad🕊️
-vless://693d989f-7d83-4b64-92d8-f65a01b00426@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#@Black_Star_Vpn
-vless://697d71fa-364d-4af0-8ef6-207913344555@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid.tracketshop.ir&type=ws#@V2RAYENGLISH
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@178.236.254.244:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4XCNqnEdkyfNi19VJuyJJ4YJqmLHHrXdWuMpsQlKqmY&security=reality&sid=e0870b&sni=www.vk.ru&type=tcp#🛡️29@oneclickvpnkeys
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZxJt0FNyLrIrrd4c1Uehe86Iqk0BBbKjbP1kEJxOAAg&security=reality&sid=0f26cb0528&sni=ya.ru&type=tcp#🛡️34@oneclickvpnkeys
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@lv-geo.dataload-cdn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mgIiNnujl3pahea0WW3bCFqmdwofldk85e9XD3rQcQc&security=reality&sid=d8d900&sni=www.vk.com&type=tcp#[63439] - Telegram : @V2All
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@lv-geo.dataload-cdn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mgIiNnujl3pahea0WW3bCFqmdwofldk85e9XD3rQcQc&security=reality&sid=d8d900&sni=www.vk.com&type=tcp#🛡️96@oneclickvpnkeys
-vless://6a0ec271-ed4a-45c9-99f3-2e0e6ca641cd@blue99shop.ir:28829?path=/&security=none&encryption=none&host=speedtest.net&type=httpupgrade#Germany vip 🇩🇪 Telgram: @Sobi_vpn
-vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=/&security=&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#ترکیبی Confixio@ 😡
