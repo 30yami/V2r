@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6b39c5a5-9272-41f4-87a9-0776c453380c@8.217.34.150:56592?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=8051d89749e0d400#IR-@V2rayAlpha-7
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@KAFING_2
 vless://6c07c609-a61d-4a9f-a3e2-3240dd6647cf@193.151.146.251:8082?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#Telegram:@MrWebVpn | مستر وب ⚡
 vless://6c07c609-a61d-4a9f-a3e2-3240dd6647cf@a1-gfawbcx.maxriser.ir:8082?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#Telegram:@MrWebVpn | مستر وب ⚡
@@ -501,5 +503,3 @@ vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=
 vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73732
 vless://ba7c2a7d-cf2f-4ce5-a9f0-74bb548a37d9@193.228.91.75:44555?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#تلگرام : V2ynpv @
 vless://ba7cddfd-5a90-474e-8904-ba353b0ba5f6@anten.ir:80?type=ws&path=/&host=fdcluma-c0a1c-fbc-4c77-4dhn.daravento.ir&security=none#@@FreeConffning
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#@CUSTOMVPNSERVER
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#⚡Telegram =@CUSTOMVPNSERVER
