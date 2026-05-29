@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.196.237:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 98
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.197.52:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 91
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇩🇪35441 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@vmesskhodam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.191:2096?path=Telegram🇨🇳@WangCai2/&security=tls&encryption=none&host=sni.my111000.tech&type=ws&sni=sni.my111000.tech#@vmesskhodam
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#🐦Tel-@VpnFardad--6
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#🐦Tel-@VpnFardad--7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#@v2rayngzendegimamad🕊️
@@ -503,3 +497,9 @@ vless://b080e247-2cc6-4d0d-b638-9ea3bcf0f59e@com3.hozheen.com:2096?path=/ws?ed=2
 vless://b0f0160f-0d3c-4252-88a1-d10725af131f@213.142.133.4:1212?security=none&encryption=none&headerType=http&type=tcp#TEL;FATHER_VPN¹⁴
 vless://b1620800-d06d-4a6f-a07f-e610eb3217b6@v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev#5 🇩🇪 @V2ngFast
 vless://b19f805e-7c05-40e3-9156-2a282214ec2e@v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev#2 🇩🇪 @V2ngFast
+vless://b270a6fd-0038-4544-acde-446b1af20cb7@185.143.233.217:80?path=/ws&security=none&encryption=none&host=s26.chehre-negar.ir&type=ws#@Black_Star_Vpn
+vless://b274a0b4-ffc9-406f-99a8-87a856a20447@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#V2rayng_Fast
+vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
+vless://b2a1e81b-954f-41c0-b9b5-a9c8a45f5d4d@179.237.73.189:29689?encryption=none&type=xhttp&path=/&host=mci.ir&mode=packet-up&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}#@canfigiop
+vless://b2a1e81b-954f-41c0-b9b5-a9c8a45f5d4d@179.237.73.189:29689?mode=packet-up&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&host=mci.ir&type=xhttp#@hi_proxy_iran :👈کانال تلگرام
+vless://b2fc30bc-4c1e-487f-94da-bf0776295c98@104.16.147.32:2083?encryption=none&security=tls&sni=gift.marzshekan.com.tr&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=gift.marzshekan.com.tr&path=/@MarzShekan?ed=2560##9 👉 T.me/MarzShekan

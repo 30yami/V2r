@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b270a6fd-0038-4544-acde-446b1af20cb7@185.143.233.217:80?path=/ws&security=none&encryption=none&host=s26.chehre-negar.ir&type=ws#@Black_Star_Vpn
-vless://b274a0b4-ffc9-406f-99a8-87a856a20447@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#V2rayng_Fast
-vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
-vless://b2a1e81b-954f-41c0-b9b5-a9c8a45f5d4d@179.237.73.189:29689?encryption=none&type=xhttp&path=/&host=mci.ir&mode=packet-up&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}#@canfigiop
-vless://b2a1e81b-954f-41c0-b9b5-a9c8a45f5d4d@179.237.73.189:29689?mode=packet-up&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&host=mci.ir&type=xhttp#@hi_proxy_iran :👈کانال تلگرام
-vless://b2fc30bc-4c1e-487f-94da-bf0776295c98@104.16.147.32:2083?encryption=none&security=tls&sni=gift.marzshekan.com.tr&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=gift.marzshekan.com.tr&path=/@MarzShekan?ed=2560##9 👉 T.me/MarzShekan
 vless://b2fc30bc-4c1e-487f-94da-bf0776295c98@104.16.7.70:2083?encryption=none&security=tls&sni=gift.marzshekan.com.tr&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=gift.marzshekan.com.tr&path=/@MarzShekan?ed=2560##1 👉 T.me/MarzShekan
 vless://b2fc30bc-4c1e-487f-94da-bf0776295c98@104.16.80.73:2083?encryption=none&security=tls&sni=gift.marzshekan.com.tr&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=gift.marzshekan.com.tr&path=/@MarzShekan?ed=2560##3 👉 T.me/MarzShekan
 vless://b2fc30bc-4c1e-487f-94da-bf0776295c98@104.17.135.117:2083?encryption=none&security=tls&sni=gift.marzshekan.com.tr&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=gift.marzshekan.com.tr&path=/@MarzShekan?ed=2560##6 👉 T.me/MarzShekan
@@ -503,3 +497,9 @@ vless://jina@20.79.162.37:443?security=tls&alpn=h2,http/1.1&encryption=none&head
 vless://kir-to-kone-pasha-4ever@45.130.125.76:443?path=/sisi&security=tls&alpn=h2,http/1.1&encryption=none&host=ir.dorostify.com&fp=chrome&type=ws&sni=ir.dorostify.com#⚡@V2ray_official
 vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
 vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
+vless://oliver_soul@104.18.139.67:443?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=sv4.kheybar.store&fp=chrome&type=ws#@hi_proxy_iran :👈کانال تلگرام
+vless://t-me-kinsta_service@net.kakakakaka.dpdns.org:47411?type=tcp&encryption=none&security=none#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#t.me/ConfigFori  -  Config 73744
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#🌶️11@oneclickvpnkeys
+vmess://52768552-c2b2-4460-89f1-e740cc145b99@158.101.229.162:15227/?type=ws&encryption=auto&path=/ws-path#hichkas 🇺🇸سرور#@v2rayconfigamir 6069
+vmess://a25881f3-967f-3265-bc7f-9e66857b016b@51.81.202.62:80/?type=ws&encryption=auto&host=51.81.202.62&path=/v47-2023unlimitndxd#hichkasنت#@v2rayconfigamir 8570
