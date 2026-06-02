@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?allowInsecure=1&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🐤21@oneclickvpnkeys
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#@v2raybaaz (3)
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#@VPN_PASARGAD
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#@config_free2
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#@v2raybaaz
@@ -500,6 +503,3 @@ vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v1.dabache.top:443?security=tls&typ
 vless://9522dafb-b180-42ce-9651-a138c676feaa@jizz.ideweb.ir:44000?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://9591f34a-90b1-41a1-b53d-be0bef7e7cc3@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=monsterion10.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#🟢 🇫🇷 فرانسه
 vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?path=/download.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️375🌐🆕️
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#@vpnbaz 🍁
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#🇩🇪43414 | ⚡️Telegram = t.me/SOSkeyNET
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#🔵 @config_free2
