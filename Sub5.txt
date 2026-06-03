@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#𝗗𝗔𝗟𝗧𝗢𝗡
-vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#🇩🇪All²@JKVPN
 vless://79ee7516-aea4-4ba5-bfc8-980347a9ca36@blubank.sb24.ir:2082?path=/&security=&encryption=none&host=mci.ejavidfar.ir&type=ws#@icv2ray
 vless://7a0348b6-7a3c-4400-a8c0-064b8e5ac2cb@american.ssabzlearn.ir:9443?encryption=none&host=&path=/&security=none&type=ws#@config_NG
 vless://7a0348b6-7a3c-4400-a8c0-064b8e5ac2cb@american.ssabzlearn.ir:9443?encryption=none&host=&path=/&security=none&type=ws#kurdconfig
@@ -503,3 +501,5 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/&security=
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#Tel;Father_vpn³
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?path=/item&security=tls&encryption=none&insecure=1&host=pagescm.freen20.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen20.cc.cd#TEL;FATHER_VPN¹
+vless://ae1c381b-3e66-42bf-a1d0-d2df816ad522@real.overdoes.site:43445?type=tcp&security=reality&fp=chrome&pbk=adeDTnUssyQ8VrL1MS5iOdPzTXEwk8XlBnPGPG_5DTk&sni=www.speedtest.net&sid=204cb7fc&spx=/#OverdoseVPN🇩🇪Reality4️⃣-fiuxoye4 ❌
+vless://ae36571f-f66d-4f0a-b92e-eaeb6e94ae5c@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#t.me/ConfigFori  -  Config 73743

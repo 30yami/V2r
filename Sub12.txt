@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇫🇷 France 🇫🇷vmess://eyJhZGQiOiIxMzYuMjQ0LjExOC40NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiYzYxMGU2OC0zNWYyLTRlNzQtODkwMS05ZjEzNDY2MjlhODEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyOTc2MyIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
-
 
 🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇫🇮 Finland 🇫🇮vmess://eyJhZGQiOiIxMzUuMTgxLjE3Mi4yMjUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOWViYjUwYzktZGE3My00ZmFhLWQ5ODEtZDRlYTBjN2IyNGNkIiwibmV0Ijoia2NwIiwicGF0aCI6IkZZWHRmVUdLN0ciLCJwb3J0IjoiNDA1NiIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+Hq/Cfh64iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
@@ -503,3 +501,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYngxRnc3bUVOQ2Q3dlpNdm9yUVo1@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0077
 vmess://ewogICAgImFkZCI6ICIxMDcuMTc1LjkxLjExOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3YycmF5LXdpc3AiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xMDcuMTc1LjkxLjExOC00NjU3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0063
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0065
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0064

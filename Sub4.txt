@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@95.179.159.222:19436?encryption=none&security=none&type=tcp@oliver soul#canfingV2rayNG-136
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?security=reality&encryption=none&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=b82d7208fe23#🌾 @ProxyVPN11
 vless://40dd4d90-ebb9-46f8-99ba-9ff7b7ea531c@v2ngfast-v2ngfast-v2ngfast-v2ngfast.rawiji9482.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rawiji9482.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rawiji9482.workers.dev#1 🇩🇪 @V2ngFast
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://41ac3f4e-c27e-421a-a060-e13f9079f0e6@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@SayanStoree
@@ -503,3 +501,5 @@ vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&sec
 vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#@RzChanel1
 vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#@hi_proxy_iran :👈کانال تلگرام
 vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#@vmessorg
+vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#𝗗𝗔𝗟𝗧𝗢𝗡
+vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?path=/stream&security=none&encryption=none&type=ws#🇩🇪All²@JKVPN
