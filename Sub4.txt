@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1ceb144c-1995-25b8-bc86-a0ab79cd249e@f1.plusmusical8.ir:443?path=/ws?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wexrectyvubi.blackshopp.com.&fp=chrome&type=ws&allowInsecure=0&sni=wexrectyvubi.blackshopp.com.#@v2raybaaz
+vless://1d215b85-d6bd-4197-90a8-350ad9a43382@varzesh3.com:2086?path=/&security=none&encryption=none&host=m1.novatechlab.ir&type=ws#@v2ray_configs_pools
+vless://1dd32d92-cf4b-44cb-b6b9-4790302db67f@5.75.196.174:2096?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/new&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5e11ecc7d4#🚀@V2ray_official
 vless://1e05753e-0abb-443a-ae7a-e52e972761a3@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@VPNine1،@VPNine1#🚀@VPNine1
 vless://1e05753e-0abb-443a-ae7a-e52e972761a3@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@Vpn_Mikey،@Vpn_Mikey#@Hope_Net-join-us-on-Telegram
 vless://1e05753e-0abb-443a-ae7a-e52e972761a3@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@Vpn_Mikey،@Vpn_Mikey#🇨🇦49695 | ⚡️Telegram = t.me/SOSkeyNET
@@ -500,6 +503,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.110:443?security=tls&sni=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=xz.ylks.xyz&type=ws&path=/#@GozargahAzad|🇬🇧
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?security=tls&sni=xz.ylks.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?security=tls&sni=xz.ylks.xyz&type=ws&path=/#🇬🇧49759 | ⚡️Telegram = t.me/SOSkeyNET
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@31.129.48.139:443?security=tls&sni=xw.ylks.xyz&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?security=tls&sni=xz.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.39:443?security=tls&sni=xz.ylks.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram
