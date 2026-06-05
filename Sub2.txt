@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://masir_sefid@18.194.63.255:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#@internet_azad_2026🇩🇪
+hysteria2://masir_sefid@18.194.63.255:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#@tootffarangi🍓
+hysteria2://masir_sefid@18.194.63.255:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#🇩🇪DE-🚀@VPNine1
+hysteria2://masir_sefid@3.121.136.75:443,500-56000/?obfs=salamander&obfs-password=masir_sefid&sni=content.masir-sefid.shop#🖲️79@oneclickvpnkeys
 hysteria2://masir_sefid@3.121.136.75:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#@V2Ray_Hub1200
 hysteria2://masir_sefid@3.121.136.75:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#@tootffarangi🍓
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
@@ -499,7 +503,3 @@ trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (6)
 trojan://humanity@104.18.152.175:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#filembad-44
 trojan://humanity@104.18.152.208:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (5)
-trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (3)
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#proxymelimon
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#⚡@V2ray_official
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@V2raySup0 | 🚀

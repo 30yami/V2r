@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
+❤️سرویس تست فاکس نیم💻 شما عزیزان می‌توانید قبل از خرید هم اکنون سرویس را تست نمایید و سپس اشتراک اختصاصی‌تان را خریداری نمایید.vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?type=ws&security=none&path=%2F#%40foxnim%20%2F%20TEST📲از طریق کانفیگ بالا می‌توانید متصل شوید💙توجه نمایید سرعت سرویس اختصاصی، چند برابر تست می‌باشد چون فقط خودتان به آن متصل هستید❤️‍🔥 این لینک تا ساعت ۲۴ فردا اعتبار دارد و حجم آن نامحدود است
+
+
 VPN:443 pinned «❤️سرویس تست فاکس نیم  💻 شما عزیزان می‌توانید قبل از خرید هم اکنون سرویس را تست نمایید و سپس اشتراک اختصاصی‌تان را خریداری نمایید.  vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?type=ws&security=none&path=%2F#%40foxnim%20%2F%20TEST  📲از طریق…»
 
 
@@ -499,7 +503,3 @@ vmess://eyJhZGQiOiIxMDkuNjEuMTA5LjIwNCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6
 vmess://eyJhZGQiOiIxMDkuNjEuMTA5LjIwNCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJiMmRhOTkyMC1iMGE3LTQzNTQtOWUyNi0zODMzYWI4ZDAwZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MzMzNzksInBzIjoi4p2MVG9reW8tR2V0QUZyZWVOb2RlLmNvbSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
 
 vmess://eyJhZGQiOiIxMDkuNjEuMTA5LjIwNCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJjMDlmMTNjZS0yY2NhLTQ5YjYtYWQxZS01OTc1NjZjYzg5YzYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6NDQwODksInBzIjoi4p2MVG9reW8tR2V0QUZyZWVOb2RlLmNvbSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
-
-vmess://eyJhZGQiOiIxMDkuNjEuMTA5LjIwNCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJjNTBmOTQ4MC0yZTFkLTQwZGItOTQ1OC02MzBlNzk2MzY2NjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjM3MzIsInBzIjoi4p2MVG9reW8tR2V0QUZyZWVOb2RlLmNvbSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
-
-vmess://eyJhZGQiOiIxMDkuNjEuMTA5LjIwNCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJkMGU5N2VlMi1jNmRlLTQ4ZjgtYmQ0YS04ZTYzYTljZDllODkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MzcxMDIsInBzIjoi4p2MVG9reW8tR2V0QUZyZWVOb2RlLmNvbSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
