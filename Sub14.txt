@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
 
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
@@ -502,4 +503,3 @@ vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?encryption=none
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=128.204.223.94&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI

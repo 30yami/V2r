@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?security=reality&encryption=none&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=55a20409400e71#🐸 @ProxyVPN11
 vless://acba684c-4098-4eca-f519-828b09f96464@134.33.73.249:54254?security=reality&alpn=http/1.1&encryption=none&pbk=HFEz9fAOugljXea_ZVOUHMju08su8h0P9RANNcHP2y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=db35ffdc#@HiByeVPNN ❤️‍🔥🧧🔥 51
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?security=reality&encryption=none&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=8897c56a495b26cc#🐸 @ProxyVPN11
 vless://ace095c0-debd-46fd-903f-d29b9c8b4101@104.16.75.127:443?path=/ae-bo&security=tls&encryption=none&host=collection.linefriends.com.cyylr.eu.cc&type=ws&sni=collection.linefriends.com.cyylr.eu.cc#🛸@V2ray_official
@@ -502,4 +503,3 @@ vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encr
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#@HajmVPN_Config ⚡
