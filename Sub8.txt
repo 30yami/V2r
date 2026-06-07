@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegram-Parsashonam-9@37.32.126.240:443?mode=auto&path=/p4r34m&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#@Parsashonam-2Jun-2
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000","headers":{"x-host":"netlify.parsashonam.sbs:444"}}&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#t.me/ConfigFori  -  Config 73747
 vless://ZoRoVpn@104.253.18.220:80?security=reality&encryption=none&pbk=D4tCeuAMOZViac1SOVD5ABdN86EkAn9ql3NEuQlneXQ&headerType=none&fp=chrome&spx=/1vwstnEi2HFdu63&type=tcp&sni=www.yahoo.com&sid=88ab02c0#@HajmVPN_Config 🇱🇹
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#HqV2rayNG
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2,http/1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#@VPsave
@@ -503,3 +501,5 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.18.153.188:443?path=/sg-melbi&s
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.18.153.188:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#@mehrosaboran
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyylr.eu.cc&path=/sg-melbi#✅  @vistav2ray  👈👈کانال ما ✅
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0#17https://t.me/ConfigX2ray
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&host=cyylr.eu.cc&type=ws&sni=cyylr.eu.cc#🚀@V2ray_official
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&encryption=none&host=cyylr.eu.cc&fp=chrome&type=ws&sni=cyylr.eu.cc#@meliproxyy

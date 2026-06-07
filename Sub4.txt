@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1dd6e1e3-aa5b-434e-be6f-890f95b0e1dd@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#proxymelimon
-vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@cxzvbnmqwerklpoiujyh.sd.noafra.ir:80/?encryption=none&host=play.google.com&type=tcp&headerType=http#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@mkwqlzpxrntcvbyjhdfs.sd.noafra.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@mkwqlzpxrntcvbyjhdfs.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@mkwqlzpxrntcvbyjhdfs.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡Tel: @Proxy_Vpney (3)
@@ -503,3 +501,5 @@ vless://4567a014-1482-4c2e-85c1-6acfb4633e4d@faq.arrvancaas.ir:8543?path=/?ed=20
 vless://4567a014-1482-4c2e-85c1-6acfb4633e4d@help.arrvancaas.ir:8443?path=/?ed=2095&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.arrvancaas.ir#🇮🇷54241 | ⚡️Telegram = t.me/SOSkeyNET
 vless://4567a014-1482-4c2e-85c1-6acfb4633e4d@help.arrvancaas.ir:8443?path=/?ed=2095&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.arrvancaas.ir#🇮🇷IR-🚀@VPNine1
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@1.iranazizm.com:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@104.17.163.123:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@66.81.247.155:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
