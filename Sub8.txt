@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a65ad386-6ca5-42df-b4fd-7c9cd4b605d6@18.196.110.116:443?security=&encryption=none&headerType=none&type=tcp#Germany 78@v2rayNGcloud
-vless://a65ad386-6ca5-42df-b4fd-7c9cd4b605d6@18.196.110.116:443?security=&encryption=none&headerType=none&type=tcp&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://a6708f86-5d7b-4e6c-9f4b-026e50ba62d2@174.138.73.90:47193?type=tcp&encryption=none&path=/@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray&host=play.google.com&headerType=http&security=none#Channel @Azaranv2ray
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#@v2reya88 | @confinghub2
 vless://a6e3a51a-05c9-42ba-96cf-9e45421cce46@104.18.139.67:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#@MrNexTV2RAY
@@ -503,3 +501,5 @@ vless://d9225978-c590-4f01-9dd0-c705ff03d76b@188.114.97.6:443?mode=auto&path=/&s
 vless://d9225978-c590-4f01-9dd0-c705ff03d76b@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=toshirpilafkani-torostamtahamtani.rezaezzati.top&fp=chrome&type=xhttp&allowInsecure=0&sni=toshirpilafkani-torostamtahamtani.rezaezzati.top#@confiig_hub
 vless://d9569dcd-b246-ebec-50a9-bc9dc5c43041@185.2.15.126:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=iran.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=iran.ir#🇯🇵@FreakConfig
 vless://d9569dcd-b246-ebec-50a9-bc9dc5c43041@89.42.139.167:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=iran.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=iran.ir#🇩🇪@FreakConfig
+vless://d9580b73-110a-45c7-9a78-93614d3d5993@188.114.97.6:443?path=/adwsrows&security=tls&encryption=none&insecure=0&host=639164282080101756.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639164282080101756.corolla-perma.info#🇨🇦54613 | ⚡️Telegram = t.me%2v2ray_configs_pools
+vless://da2acbca-d003-43a9-96e8-635b04ef79e3@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#V2RFA

@@ -10,13 +10,13 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-06-07 - 21:06 (Iran/Tehran)
+# 📅 Generated: 2026-06-07 - 23:08 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA2LTA3IC0gMjE6MDYgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA2LTA3IC0gMjM6MDggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 
 # ============ OTHER CONFIGS ============
@@ -247,10 +247,12 @@ trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F
 trojan://BxceQaOe@95.40.47.145:28111?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://BxceQaOe@95.40.68.150:2702?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A6%F0%9F%87%BFAZ%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
-éå|è¼Æ©«À:/ª¯bô1÷ÊHçÅBB>­nÝõk¾CcIße"ÖIj|û{ìFqiÇï;²¡E)âT¾*©ÈL5:Í|<ß¢¨çÔ;üÔ'DÌÔg&ËïLökß± G/v%;§ !Úw3ôhØ5÷6ò½
-Ú£'D±Ö¾wùTJ»ãÃ½ÉÙ§ïÒ¸#éOàÌA¿{el >s¯2:Wô¼xqIà¾A÷Éxä'¢:»âõ *FYý¥v¾7(Óª=h)~¤*ø.ù~F<¼Ì¥éÎ,Y¼úYÍA^dðN9¬3¹U¬@5aÅÌ2*îÞqBx·ÙI¥y'Áð[Ið¯ü?]¡~ågÞDuÓ2 G ®GjÔx¾±æÇ¿1ÖøFo~Ëü´©yÛÔÄ¸ï@îº¼5ðB¤(¥ Þæ&ö¬pWºxö¢öÑ(Þ2ëÚ»ØukW^¢ÆëèºDOP¡õÏFñ´$6qà,¬XkêÁÉ¥ùCÅ+«pCøMe¸M¤áU\©4þ¸ñf.ÂfjïIJå1Âß¬#à0A£ìªöä½+r$ u8ÇôC$¡ïìfýgCIÁâÚ³w	Á§¶ht´pp:kÒ-[Ü±GñìsÇ¦ÈOíFzE¿f³ÍrÚVß0>teã\gÇM	¢¡R@i¬Ï}«zK´ "|îG½ß"æHQ=Ëõ*IN$ÿ1.ÚÇ¢FXÊfËòj§­ Å%s5ð(òÏ6A£Ía©¤¼Øí­@G3¦íÝqV5ëÉ¨Æ¯ß¢9ºÍ{h¤4õnªyU½÷ %Ê»'739ù!5ÂôRÞ:ÃTà9LçæDcAö_ößoÜ¯ãð
->·kJL7;¨ÊÄ)sÐ°º_ÌÎÓÉÚõ_'Îq¾tÇes~:6cïW NÔc9Âä-Õý¤å;÷g"YJyÚ£?È­kàP~_BÖÉý~£ô¶¡êC¶¢ À6þâP_÷£lnyøLOçsµåÄ¨óJÔ-©¦.ë·Û¼½sÍë#ÚôÖ!¦eºx½ù×½rÊxÛÅ«q3êGiRzÜpåÛl,³ß5ÐN^.g½/É#±`zSìîîÜ9d;¹A!3rS<GÉ;Ý1DÈ{.O&=­'\÷ÓÓD¤}É.^£ÈË*¹W?g¾²lìÙðßÅRZ¿3rd{p,iXEäCÏÀ
-ééGêØBt¨Æ¹t´¢ÒGMl¼ÁÔ³¾Uo®^¦5¥7(ÍPM4ëËX ¬h2èàUÔÕÂ¬¹WÚÒU6cÌg<½ssQ×)JäÎ'9Z¶¶f!ÑÁd¢uGÂéÎhØÜsjÆØ="-IïAV¡ËXp¯e$}4ÇÖ
+³³fmÿ	KL/Í~ËË*rt°üp-'D3UüÄ/´ÇÜ_íÓÑòWÜþé¤ÓÅÈ}O*/eÝR+ÁxòAjjû¸Bð»ËO{¾ðÞ¶åõð2õQ_×áXÐÊn×îJ|} (5 üX²ë©O°g£ck	6º6sÄú³éÐhAy}Ú50³øÜcW2r^iç£\CsÕÒ÷ÿu'@xÀ·c,v×A&ñ´§¯JjùI~?³ö*+îÊeº÷QÆç½8r·# x7ÃÚôÎÊÍ"·êåæð ±ãÌ øÛãUéSZÛ4"M¥é ­q0>A^FÿSIøþâöÌÑ­è#OZþáÍ,¬(*âüqoRØÐ#íYq'Üè%Îæ6·Wm±'+>¶Â8.Ncê×5pêd5½ÕT"ÚÄüHa¤ÚqÇ]nþvaÒ§x-IYAIe,eûBJ°Cû ñ' V/¿A7EXþ	6ê³þ¼<TØ¨)GÚ§^x¥¦îîj	p¯)Q%NMX/E¼¿òêM÷/4Ê{ÑZºb" sñ+9%Gö6[_TÓ¾ÕÓH«qZ9+¶ûçg:TöÛz[üÚø¢ï-»Z××dX­ A{ÆI2ý?»ì¶%HÀ`4'døAdµ19´¬]YÓï¡Ë°*ÀFYI¸¢?ÁNú©»Ï*^AÅûÓI³Z1/Ò(BøÍ8UGÓË¾vêðMÌ²è°¢%ç«åHZ1
+Aq:gyÍ;íy¤ ÆÇ£KH0àZ3VfÒ·À9SðÜ¥®èî,À5%*ñ7ÃÙûËF
+\¹`tý<»êayûFY5hí63è£@ïÏ6ñöf4l¢ãxÿ)ÌÅÄõöÌ#0õ`»ßEKOêö:b77³­wx¹YjË;j¬Øs(¤ïWØ!¿Û#y5I}YñQZ êÝÛrx	»¸MñpQu°ãêR¢,ðÊG¶4·fñ¬T*w¼MþðR{êýØàÍÍ|ðé'e}$mX)#3þ=ÖWá&[ã$êùewé·oüÕHvÇ P¹Rís9=kÝ$¤>þmO.hÏÌÉ#]}Ñt/s2\E}âGÐ²¿3½â&»ñÅë\´±8¥óPçÞñ?
+oáp.¹oÍ7>ñôùË´QQ>3ÉÀÌ¿Ý$ËdÝ+èÄ¸æ«¬¥ö×¶D51óP5¡éê,^~¸â¤AÔu?°ÇG/·)`$À%Q¤Tõä»tÔ24ÿ½Rñ=03°Ú®nÃ%|Íã2ÇÞgoÖy­MIoËÃgÅz÷péþÕ««>YÖÉ6ØOødü&´G,5B5hüÉ8·öætÂdië}·4@Ë«!÷ZKê78Â¡7iqÕ5iyïNmTØ¼æ®å5·¯|NàBìçÊFÇ£Ô%ð¸Éº¸V¾ËÏõt²(k|±YàÂÞo2éü9ò¡ûA:*Lçñ<@**lµôÛµÂ/³ØQ~ù¦ößMýiËè¢ðñÕ[&ÁMIQG((8ÛW.1\\»Ø3ÚÛFÍA}Ö//Ï¼67þôn¼~È  ·î°¢Gò&ÿ9¶èQÉ4»9ÒüßöNño_7ËÅën]Cíåùj	|½\Nõy¥×7ÎÝ­&o'K_/ZÇÄÀX¬´ÀéhöûÖ`·çLgTd¡ss3M\r<CK¬yàãàf"ÔÁ4nºäîàY¨D­µ« òBÇQv²8ù*.|TjØcLK
+`¯¥­[L° *)&(ù³i)8j#º*öFWQT§lRîÈüØîê¶òéã/O7VGbÏ=sÏ,õÉÍýð ;KÖÆÃîöä	Ë±EÝèÓIÞdÕ4]êxôi òÏ»K_@cu0/VM[IOVOgÓ?º
+Ö|¿Cà[j;?vVç7	¥tbÁ¨f@JCæqYQD#[êÄ)ÎË¯q¤4/
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40iguanaVPN%204
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#%40HajmVPN_Config%20%E2%9A%A1
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
@@ -259,24 +261,20 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#%40V2raybaaz%F0%9F%87%AC%F0%9F%87%A7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#1%F0%9F%96%B2%EF%B8%8F@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&security=none&type=grpc#%F0%9F%96%B2%EF%B8%8F68@oneclickvpnkeys
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40iguanaVPN%20%5B1%5D
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%96%B2%EF%B8%8F12@oneclickvpnkeys
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%96%B2%EF%B8%8F6@oneclickvpnkeys
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%96%B2%EF%B8%8F3@oneclickvpnkeys
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#Russia
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Russia
 vless://b51ecb4d-40f5-4a01-9d6b-d7c5e3878150@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&mode=auto&host=sabrina.lezzatcore.ir&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=sabrina.lezzatcore.ir#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?encryption=none&security=none&type=grpc#%F0%9F%AB%9156@oneclickvpnkeys
 vmess://eyJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMDA4NiwicHMiOiJWMiAtIDE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40iguanaVPN
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@V2raysCollector
-vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#%40v2raybaaz%20%283%29
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#%F0%9F%8C%BB71@oneclickvpnkeys
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?type=tcp#%40V2raysCollector%20%E2%98%83%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?type=tcp#%40V2raysCollector%20%F0%9F%AB%B8%F0%9F%AB%B7
-trojan://humanity@185.18.250.245:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%92%95
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#@HiB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip3.myspacex.shop:80#🇮🇷53536 | ⚡️Telegram = t.me%2v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfWTlXczRuUll3Mnk4Q3RHTERNWi1IbUV0alNXLXU0NkB2aXA4Lm15c3BhY2V4LnNob3A6ODA4MA==#@netzone_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#🇰🇿 - KZ - @FreeOnlineVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@45.95.233.82:8388#🇫🇷 France (@v2FreeHub) SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@v2rayngzendegimamad🕊️
