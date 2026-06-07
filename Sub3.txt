@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://mitivpn@188.114.97.6:443?security=tls&sni=mitivpn.dAsh.ss.ssadsczdx.globcal.ssl.fastly.net.b5r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=https://chatgpt.com#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://mitivpn@188.114.97.6:443?security=tls&sni=ssadszdx.global.ssl.fastly.net.b5r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=https://chatgpt.com#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=sadszdx.global.ssl.fastly.net.mitivpn.store&alpn=http/1.1&fp=chrome&allowInsecure=0#24https://t.me/ConfigX2ray
 trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.node-finder.click#@v2ray_configs_pools
 trojan://ppmk@104.18.32.47:8443?alpn=http/1.1&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#🫒49@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?encryption=none&f
 vless://220b87da-7818-583e-8e06-236585ca1cb6@185.146.173.99:443?security=tls&sni=pl1.vless.site&type=ws&host=pl1.vless.site&path=/vless#@Hope_Net-join-us-on-Telegram
 vless://220b87da-7818-583e-8e06-236585ca1cb6@185.146.173.99:443?security=tls&sni=pl1.vless.site&type=ws&host=pl1.vless.site&path=/vless#🇸🇪SE-🚀@VPNine1
 vless://222764ac-147c-4009-8a9f-7a96a6341da9@104.18.139.67:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://222764ac-147c-4009-8a9f-7a96a6341da9@wallet.ir:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:2083?security=reality&encryption=none&pbk=xGtE0lNJhquu9-SbAz0ONZrbKXp7jztZUn6lyz9iUW4&headerType=none&fp=chrome&spx=/FbT2asjtlld2I7a&type=tcp&sni=store.steampowered.com&sid=635e294ebe95#@hi_proxy_iran :👈کانال تلگرام
