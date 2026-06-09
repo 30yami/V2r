@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 
 
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiI5NS4xNzkuMjIzLjE4MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 
 
 ⭕️بکاپ کلاینت پرو از سرور هایSSTP vpn gateمخصوص همراه اول 🌐10 سرور از 5 کشور🇯🇵🇺🇸🇰🇷🇧🇩🇷🇺 🔑 فقط این نسخه (VPN Client Pro) را دانلود و اجرا کنید(نسخه پریمیوم)پسورد همه بکاپها ایدی چنل⏬Password: @FOX_VPN66🔺آموزش ویدیوی و تصویری🔹آموزش متنی🔻بدون محدودیت حجم و زمان💎حمایت با شِیر و ری اکشن فراموش نشهپروکسی همه اپراتور ها | همراه اول
+
