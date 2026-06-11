@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@ai_duet تنهانت
 vless://407f838f-5fae-47b4-81eb-ec6af7da480e@57.128.174.124:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#@v2FreeHub 🇬🇧
 vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#@proSSH
@@ -503,3 +501,5 @@ vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&al
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#@meliproxyy
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#Mix--@V2rayAlpha--37
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
+vless://7506fe3e-7e78-497c-bd01-db9d0be4d7e3@104.19.35.49:443?encryption=none&fp=chrome&host=filter.elitesilver002.workers.dev&path=/&security=tls&sni=filter.elitesilver002.workers.dev&type=ws#🪬53@oneclickvpnkeys

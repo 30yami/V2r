@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443/?type=ws&host=dxy1h.twiladaphne.ndjp.net&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&security=tls&sni=dxy1h.twiladaphne.ndjp.net&fp=chrome#🇯🇵 ژاپن | https://t.me/FREECONFIGSPLUS ✨
-trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?host=uk1.bw8848.org&path=/uk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#🪬27@oneclickvpnkeys
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?host=uk1.bw8848.org&path=/uk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#🪬27@v2ray_configs_pools
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 trojan://humanity@104.16.7.70:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#4🎖@kakajan🛬
@@ -503,3 +501,5 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=/download.php
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#‎🛰️ @nitruStore 56
 vless://110f52f9-fc93-4fa2-8856-d45f953f9cc4@lumora03.playon.ir:2087?alpn=http/1.1&encryption=none&fp=chrome&host=lumora03.playon.ir&path=/api/v1/assets/sync&security=tls&sni=lumora03.playon.ir&type=ws#@VPsave
 vless://11b0ece3-2edd-45f4-84a3-361608d5111b@free.cdn-hio.mom:2082?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#@Pirimod
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot
