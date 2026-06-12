@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@VPsave
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@hi_proxy_iran :👈کانال تلگرام
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#🛸@V2ray_official
@@ -502,4 +503,3 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&se
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#6https://t.me/ConfigX2ray
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@FarazV2ray
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=/tsghdws&security=tls&alpn=http/1.1&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#🇨🇦65562 | ⚡️Telegram = t.me/SOSkeyNET
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=/tsghdws&security=tls&alpn=http/1.1&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#🔵@chillguy_vpn
