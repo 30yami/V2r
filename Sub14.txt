@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
 vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ3ZWJzaGVjYW5pcjMuc3ltb2RpLm1sIiwiaWQiOiI4MDAyYjAyMi1jNzU5LTQyY2ItOGZmYi1jMTk1NDgzYWFhNzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYVpmUFp6YmRKaEV5IiwicG9ydCI6IjIwNTMiLCJwcyI6IvCfjI/wn4e68J+HsiBAdjJyYXlfYXIg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IndlYnNoZWNhbmlyMy5zeW1vZGkubWwiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 
 
@@ -503,3 +502,4 @@ trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
 trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
