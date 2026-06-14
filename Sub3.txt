@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=1&sni=www.directorypipeline.click#🐊21@oneclickvpnkeys
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#👑@Kia_Net -_- 81
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&type=tcp&sni=www.directorypipeline.click#kurdconfig
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#https://t.me/FREE_VPN02
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=64.176.65.85#@fastkanfig 1
 trojan://iW3T_,2o&eJrL(|Q@:2053?security=tls&sni=wIld-sUnSET-03a1.deHgHaNPooYa42.WOrkeRS.dev&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiOVJSd0xQWnd0RTBDWHpNaSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOltdfQ==?ed=2560#@NewsDarya
@@ -498,8 +503,3 @@ vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@31.76.38.84:7443?security=reality&e
 vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@31.76.38.84:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=be0ce047#🛸@V2ray_official
 vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@45.86.159.170:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#@FarazV2ray
 vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@45.86.159.170:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#@v2raybaaz ⁴
-vless://1c4046d3-333f-4e8d-b9cc-333e7ec3143b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/DrPing_channel&host=Drping.nscl.ir&sni=Drping.nscl.ir&fp=chrome&insecure=0&allowInsecure=0#11https://t.me/ConfigX2ray
-vless://1c4046d3-333f-4e8d-b9cc-333e7ec3143b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/DrPing_channel&host=Drping.nscl.ir&sni=Drping.nscl.ir&fp=chrome&insecure=0&allowInsecure=0#🇨🇦69370 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1c4046d3-333f-4e8d-b9cc-333e7ec3143b@188.114.97.6:443?path=/DrPing_channel&security=tls&encryption=none&insecure=0&host=Drping.nscl.ir&fp=chrome&type=ws&allowInsecure=0&sni=Drping.nscl.ir#@FarazV2ray
-vless://1c735861-5f81-5512-a501-5ce1d72b2c71@104.17.148.22:2095?security=none&type=ws&host=www.digikala.com.joinTelegram.mosiv2.dk3.vless.Sitespeedtest.net.&path=join-@mosiv2-@mosiv2-?ed=2048#🇨🇦69347 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1c9daf90-3950-44ac-b06f-4cf9aec63170@188.114.97.6:443?type=ws&security=tls&host=free.server14peekconfig.workers.dev&path=/eyJqdW5rIjoiQmFCblN3SmhXYTB3RzVoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&sni=FrEe.SeRVEr14peekCoNfIG.WoRKErS.dEV#@Morrfinchnl
