@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+✅ مناسب وب گردیvmess://eyJhZGQiOiJxcS5maWxtb28uc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiIwYmM2MTAwZS1hNGI3LTRjNDQtYjcyZi1lMGQyMjJmZTllM2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NjQyIiwicHMiOiLinIUgQFZvclRleElSTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
+
+✅ مناسب وب گردیvless://7f8034e2-f649-4b49-8617-44358839677a@hm2legenderyservers.ddns.net:8443?encryption=none&security=tls&sni=jw.mrphh.me&type=grpc&serviceName=%40LegenderY_Servers&mode=gun#%40RIP_VPN%20%20%20%20%20MCI%20💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
+
+✅ مناسب وب گردیtrojan://telegram-id-privatevpns@3.71.199.214:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%40RIP_VPN%201💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
 ✅ مناسب وب گردی  trojan://telegram-id-privatevpns@3.71.199.214:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%40RIP_VPN%201  💠 آموزش استفاده از کانفینگ مورد نظر 🔝  ╭ CHANNEL: @VorTexIRN ╰ GROUP: @VorTexIRN_Group
 
 ✅ مناسب وب گردیvless://d8714893-f93d-43e9-d1d6-99f66d66a636@legenderyservers.ddns.net:2053?encryption=none&security=tls&sni=we.mrphh.me&type=grpc&serviceName=%40LegenderY_Servers&mode=gun#%40RIP_VPN%20%20GLvless://bae5483f-ee58-4a85-8584-2dbc60fa00bc@hm2legenderyservers.ddns.net:8443?encryption=none&security=tls&sni=jnty.mrphh.me&type=grpc&serviceName=%40LegenderY_Servers&mode=gun#%40RIP_VPN%20%20%20%20%20HAMRAM%20AVAL%20vless://0825a0e2-496a-470f-a855-a47e657054ea@legenderyserversirn.ddns.net:2083?encryption=none&security=tls&sni=wel.mrphh.me&type=grpc&serviceName=%40LegenderY_Servers&mode=gun#%40RIP_VPN%20%20IRANCELL╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
@@ -495,11 +503,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?Telegram=@Gozarg
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.165:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?allowInsecure=1&encryption=none&fp=safari&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://97ddf9a6-de5b-4229-bc41-4627321eff43@162.159.61.158:80?encryption=none&host=potifar.kravend4.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AHU
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.174:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#%3E%3E%40configV2rayNG%3A%3AHK

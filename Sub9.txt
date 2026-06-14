@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#‎🛰️ @nitruStore 4
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 t.me/Natrixo BB
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🔵@chillguy_vpn
 vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=&encryption=none&type=tcp#kurdconfig
@@ -502,4 +503,3 @@ vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@104.18.32.47:2087?mode=auto&path=/p
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@104.18.32.47:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dl-pack.motionbetter.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl-pack.motionbetter.ir#xhttp-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dl-pack.motionbetter.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl-pack.motionbetter.ir#xhttp-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
