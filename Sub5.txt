@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://47667ac5-ac51-7fc6-181f-65321ee2387b@svg-2.onrender.com:443?path=/ws/47667ac5-ac51-7fc6-181f-65321ee2387b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=svg-2.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=svg-2.onrender.com#🇺🇸US-🚀@VPNine1
+vless://47667ac5-ac51-7fc6-181f-65321ee2387b@svg-2.onrender.com:443?path=/ws/47667ac5-ac51-7fc6-181f-65321ee2387b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=svg-2.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=svg-2.onrender.com#🔵@chillguy_vpn
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨🇦 @V2ngFast
 vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=&encryption=none&type=httpupgrade#Hayacan Yok 🎯-cox8ewjy-9.99GB📊
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.103:443?path=/?proxyip&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#@Hope_Net-join-us-on-Telegram
@@ -500,6 +503,3 @@ vless://6f9b4509-6c9c-4905-85c5-a6c6e138804b@45.194.71.115:8443?security=reality
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
 vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://6fc36cfc-561f-4544-9a0e-7c732c478501@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
