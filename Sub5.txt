@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#@V2dogs_n
+trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#@erfanandroid
 trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#@tootffarangi🍓-6
 trojan://MITIVPN@199.232.173.194:443?security=tls&sni=fastly.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=mitivpn--4.global.ssl.fastly.net&path=/ed=mitivpn#@W570W - 3
 trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/zhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#🇨🇳 @FreakConfig
@@ -501,5 +503,3 @@ trojan://telegram-id-privatevpns@13.36.158.160:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.37.56.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.9.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.90.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.38.243.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.237.161.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
