@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#@routel1🦋
 vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=&encryption=none&type=httpupgrade#Hayacan Yok 🎯-cox8ewjy-9.99GB📊
 vless://47e2baf3-8141-6ff4-96cf-73f252da4000@rvg-production-7fb9.up.railway.app:443?path=/ws/47e2baf3-8141-6ff4-96cf-73f252da4000&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-7fb9.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-7fb9.up.railway.app#@Soul737
@@ -502,4 +503,3 @@ vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?encryption=
 vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?encryption=none&path=/jdiedjiedjijd&security=none&type=ws#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇪🇸
 vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=/jdiedjiedjijd&security=none&encryption=none&type=ws#@hex_proxy ⁴
 vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.172.87.124:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@v2FreeHub 🇩🇪
-vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.76.7.28:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@v2FreeHub 🇺🇸

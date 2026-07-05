@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#@prrofile_purple  ♥️👈 تلگرام
 vless://f112ad3b-9c4c-4f76-b1a9-12ed9dd7e63c@91.107.183.8:843?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://f14221ce-01ad-4c6a-503f-df8500000000@104.17.148.22:443?encryption=none&security=tls&sni=best-net.nova-649ddd.workers.dev&fp=chrome&type=ws&host=best-net.nova-649ddd.workers.dev&path=/best-net&allowInsecure=0#best_internet_iran
 vless://f14221ce-01ad-4c6a-503f-df8500000001@104.17.147.22:443?encryption=none&security=tls&sni=best-net.nova-649ddd.workers.dev&fp=chrome&type=ws&host=best-net.nova-649ddd.workers.dev&path=/best-net&allowInsecure=0#best_internet_iran
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiI5NS4yMTEuNTguNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJp
 
 
 همراه اولvmess://eyJhZGQiOiJuZXdzLm1pY3Jvc29mdC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJsZzEwLmNmY2RuMS54eXoiLCJpZCI6IjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BMkRKT1BGVCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6ImxnMTAuY2ZjZG4xLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
-
