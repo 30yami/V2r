@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@172.64.149.54:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.0:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.6:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b75a44d-3c91-461e-b5a0-6060ac8aff68@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://4bde8d55-d91c-45e9-9b36-e6448a194527@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
 vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇺🇸@FreakConfig
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@v2rayNplus |🇳🇱
@@ -503,3 +497,9 @@ vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn3.portalcode.ir:2095?encryption=
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn4.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=wjqd.monopolitass.ir#ProxyMtpVPN-230
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn4.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=wjqd.monopolitass.ir#🇹🇷 ⟡ ⬆️ ʜᴛᴛᴘᴜᴘɢʀᴀᴅᴇ
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@fof2.foot8all.ir:2027?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇫🇷  ⟡ 🔓 ᴅɪʀᴇᴄᴛ
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@francet1.sorcepack.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#@appsooner کانال تلگرام 🕊️
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@heie.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=chrome&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b#🇫🇷 ⟡ ✨ ʀᴇᴀʟɪᴛʏ
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@heie.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=b7c8604c2d6dbfd6#🇫🇷FR-🚀@V2Ray_Hub1200
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@mnzxc.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=chrome&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0#🇫🇷 ⟡ ✨ ʀᴇᴀʟɪᴛʏ
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@mnzxc.foot8all.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0#@meliproxyy
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@mnzxc.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2619d1af5cad99b0#Tel-@ProxyMtAlpha🦃 1
