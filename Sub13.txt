@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2ray_Alpha🥥 1
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2ray_Alpha🥥6
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#irconfiig🥥 1
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#irconfiig🥥6
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fr1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@nate.plytob.ir:2026?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a&type=tcp&headerType=none#@W570W
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@nate.plytob.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#@v2ray_configs_pools کانال روبیکا و تلگرام 🕊⭐️
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@nate.plytob.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#https://t.me/AarazV2ray
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@pars.supros.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#https://t.me/AarazV2ray
@@ -495,11 +502,4 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 هلند/ایرانسلvmess://eyJhZGQiOiIxODUuMTYyLjIzNS4yNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZmMTE3YWY0LWNkNTItNDBmOC05MjM2LTdjNWUzZjM1N2NjOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zb2NrZXQuaW8iLCJwb3J0IjoiMjA1NCIsInBzIjoi2YfZhNmG2K8o2KfbjNix2KfZhtiz2YQpXG5AdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
-
-
-ایرانسلآمریکاvmess://eyJhZGQiOiIyMDMuMjguOS4yMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImlyYW4tdmlwLm9wZW5zc3RwY2xpZW50Ym90LndvcmtlcnMuZGV2IiwiaWQiOiI0NGNlYjM4OS00Y2VhLTRlYTEtZWVmOS0xMWNlNmYzZWZmZTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXMxLndhbnd1c2hlbmcubWUvIiwicG9ydCI6IjQ0MyIsInBzIjoi2KLZhdix24zaqdinXG5AdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiaXJhbi12aXAub3BlbnNzdHBjbGllbnRib3Qud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==انگلیسvmess://eyJhZGQiOiI0NS44NS4xMTkuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJhMy5pcmFuaWFuY3AuZnVuIiwiaWQiOiI3MmY3NmMzNi0zZTNjLTQ1YjMtYTYxZi1kOGYwMTczNDU5NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6Itin2Ybar9mE24zYs1xu4oS577iPIEBmYXN0X3NzIiwic2N5IjoiYXV0byIsInNuaSI6ImEzLmlyYW5pYW5jcC5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
-
-
-ایرلندvmess://eyJhZGQiOiIzNC4yNDUuMTQ5Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMTExMSIsInBzIjoi2KfbjNix2YTZhtivXG5AdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9اگه متصل نشد تنظیمات برنامه ای که استفاده می‌کنید Fake DNS فعال کنید.@v2rayNG_VPN
-
 
