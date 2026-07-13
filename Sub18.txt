@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-trojan://2B9cZhVM0V@c.netnor.xyz:23570?security=tls&headerType=none&type=tcp#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
-
 ✅ فروش سرور اختصاصی (VPN) برای دور زدن نت ملی ✅🌐  در تمام طول روز وصل بدون قطعی  24    ساعته حتا در مواقع نت ملی و قطعی ⬇️ مناست گیم 🖲️ ترید 🔥 وب گردی و.. ⭐🖥 برای ios و اندروید و ویندوزسازگار با همه اپراتور ها 👍😂😍😎کانفینگ ها به صورت🌐Http custom🌐V2rayNG🌐NapsternetV 🌐E-V2rayموجود هست ❤️تمامی سرور ها کانفینگ های (vmess-vless)میخورند به انتخاب شما هست✅ با مناسب ترین قیمت و بهترین کیفیت🏃‍♂️حجم به انتخاب خودتون هست ولی زیر ۲۰ گیگ هم موجود نیست🔔با این vpn دیگه نگران اینترنت نیسی چون همیشه با سرعت بالا وصلی 📢پشتیبانی 24 ساعته ✅از الان میتونید  یه سرویس بگیرید که نت ملی اذیت نشید ☑️جهت خرید به آیدی زیر پیام دهید 🌹Pv: @imSirTe3la ✅channel: @Ytte3la ✔️
 
 
@@ -503,3 +500,6 @@ vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@162.159.93.9:8443?mode=auto&path=%2
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.208.163:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@162.159.94.225:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@173.245.58.77:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.209.213:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
