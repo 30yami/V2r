@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff&spx=/#@vpng3 [1]
 vless://Telegram🇨🇳 @WangCai2@162.251.82.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #3
 vless://Telegram🇨🇳 @WangCai2@185.18.184.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@FarazV2ray
 vless://Telegram🇨🇳 @WangCai2@185.18.184.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇳🇱NL-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://bb6218c9-dcd7-4090-bbb8-18a135d0e8f9@applepico.ir:443?path=/&security=tl
 vless://bb6218c9-dcd7-4090-bbb8-18a135d0e8f9@mojeandisheh.ir:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-spr651.s13890214.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-spr651.s13890214.workers.dev#🚀@VPNine1
 vless://bb6218c9-dcd7-4090-bbb8-18a135d0e8f9@nfl5.ir:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-spr651.s13890214.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-spr651.s13890214.workers.dev#🚀@VPNine1
 vless://bb6218c9-dcd7-4090-bbb8-18a135d0e8f9@omidfarhang.id.ir:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-spr651.s13890214.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-spr651.s13890214.workers.dev#🚀@VPNine1
-vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.152.23:443?path=/2?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xfjd79v2tjscrm6jqo.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#Arshiavpn12
