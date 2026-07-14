@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a06b22e2-c1c4-4dc8-9337-75574b057975@zeus-panel-666kh0.zeus-yk6jrq.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-666kh0.zeus-yk6jrq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-666kh0.zeus-yk6jrq.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-80
 vless://a071d58e-562b-472d-af6e-696200af1826@zeus-panel-ps2w8r.ww32324324.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-ps2w8r.ww32324324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ps2w8r.ww32324324.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-443
 vless://a071d58e-562b-472d-af6e-696200af1826@zeus-panel-ps2w8r.ww32324324.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-ps2w8r.ww32324324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ps2w8r.ww32324324.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-80
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?encryption=none&fp=&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&security=reality&sid=b6eae5ce&sni=telewebion.ir&type=tcp#🪯95@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://bbdab850-9164-43f3-adf9-26f7c5458e9d@cf.narton.ir:8443?path=/?ed=#TELEGR
 vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@0.0.0.0:42542?encryption=none&security=none&type=tcp&headerType=http&path=/#🌍109683 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@de.corecloud.space:2096?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=play.google.com#🇳🇱109684 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@de.corecloud.space:2096?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=play.google.com#🇳🇱NL-🚀@VPNine1
-vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@de.corecloud.space:3350?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=J3NK6M9a7I6s_GZDBBlUDxIn7D7jYkcoXRTj7NoSI20&sid=ce2076a570ee4fe7#🇳🇱109685 | ⚡️Telegram = t.me/SOSkeyNET
