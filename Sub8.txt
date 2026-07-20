@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?encryption=none&fp=chrome&host=cf11.evan00.dpdns.org&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&sni=cf11.evan00.dpdns.org&type=ws#⚽60@oneclickvpnkeys
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#🌐t.me/iProxyChannel 13
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?path=Telegram-mtmvpn&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#@mtmvpn
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf11.evan00.dpdns.org&type=ws&path=Telegram🇨🇳+@WangCai2&host=cf11.evan00.dpdns.org&encryption=none#@M4DVPN
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443/?type=ws&encryption=none&flow=&host=cf11.evan00.dpdns.org&path=Telegram🇨🇳&security=tls&sni=cf11.evan00.dpdns.org#channel→@networld_vpn
@@ -501,5 +503,3 @@ vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&secu
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&type=grpc&sni=stream.noneok.com&encryption=none&sid=c18304806fa688bd&serviceName=api.v1.StreamService&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks#@NewsDarya
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#🔵@chillguy_vpn
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#🔵@chillguy_vpn
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&sid=c18304806fa688bd&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&sni=stream.noneok.com&serviceName=api.v1.StreamService&mode=gun&type=grpc&encryption=none#@Alpha_v2rayIP
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&sid=c18304806fa688bd&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&encryption=none#@Alpha_v2rayIP

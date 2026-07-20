@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@Selinc
+hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@bored_vpn
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@confiig_hub
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@mehrosaboran
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#MTMVPN 🇩🇪
@@ -501,5 +503,3 @@ trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:3626
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#@erfanandroid
 trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=b9c6f2d116#@filembad
 trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=b9c6f2d116#@tootffarangi🍓-15
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=b9c6f2d116#🇨🇭117023 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=b9c6f2d116#🇨🇭CH-🚀@VPNine1
