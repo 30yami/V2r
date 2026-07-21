@@ -1,0 +1,6 @@
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMjAg8J+UpQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9e4e5d64-11a3-48bc-8622-1d39bd1c2573@app.he-happ.com:443?security=reality&type=grpc&mode=gun&serviceName=cloud.v2.RelayService&packetEncoding=xudp&sni=app.he-happ.com&fp=chrome&sid=db8389179a5852d4&pbk=0DJvjVOtuyfSDnioOJJzHKMsYGgUD95Sw153xEJrBgo&encryption=none#🔵@chillguy_vpn
