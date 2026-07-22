@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#@FarazV2ray
@@ -502,4 +503,3 @@ trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.
 trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:50491?security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&sid=d945&type=grpc&fp=chrome&sni=yahoo.com#@Napsternetvirani
 trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:50491?sni=yahoo.com&fp=chrome&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&type=grpc&sid=d945#@Alpha_v2rayIP
 trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:50491?type=grpc&fp=chrome&sni=yahoo.com&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&mode=gun&sid=d945#@Napsternetvirani
-trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:2637?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=chrome&spx=/856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=05626eef4c#@vmesskhodam

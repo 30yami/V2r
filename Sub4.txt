@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:2637?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=chrome&spx=/856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=05626eef4c#@vmesskhodam
 trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26657?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/KFfG8SKWE2bkdl3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#Elena2
 trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27111?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/BJl0f3MxZgdYyYB&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#Elena1
 trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:30000?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nctesNoRBmMFXBj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#Elena4
@@ -502,4 +503,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=no
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&security=reality&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&sid=c3e5d2cd032ef410#channel→@networld_vpn
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?security=reality&encryption=none&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&sid=c3e5d2cd032ef410#[🇳🇱]@NetliVPN
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?security=reality&encryption=none&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&sid=c3e5d2cd032ef410#🧌🇳🇱NL

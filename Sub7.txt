@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%FREE_VPN02
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#channel : @freedomofinfor
 vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -502,4 +503,3 @@ vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@91.193.59.120:443?security=tls&sni=
 vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@95.217.16.41:4432?security=reality&encryption=none&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#🇫🇮 Finland²
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443/?type=ws&encryption=none&flow=&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev#تو کانال نتورلد نباشید قطع میشن @networld_vpn
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🪩99@oneclickvpnkeys
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?path=/&security=tls&encryption=none&insecure=0&host=c7dabe95.proxy-978.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=c7dabe95.proxy-978.pages.dev#Cloudflare 🌐
