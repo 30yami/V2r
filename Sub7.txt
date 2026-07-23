@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇺🇸@V2rayng_Fast
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@FarazV2ray
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%FREE_VPN02
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#channel : @freedomofinfor
 vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.5:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc#channel→@networld_vpn
@@ -499,7 +503,3 @@ vless://7ac93407-083c-4fed-8fb6-bf299c08991a@165.232.74.229:35404?security=&encr
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.18.33.37:443?sni=vp33.cc.cd&type=ws&host=vp33.cc.cd&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.39.211:443?sni=vp26.cc.cd&type=ws&host=vp26.cc.cd&path=/fp=chrome&security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.75.217:2096?security=tls&type=ws&path=/&host=vp14.cc.cd&packetEncoding=xudp&sni=vp14.cc.cd&fp=chrome#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.58.162:2087?path=/fp&security=tls&encryption=none&insecure=0&host=vp36.cc.cd&type=ws&allowInsecure=0&sni=vp36.cc.cd#@icv2ray
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?security=tls&type=ws&path=/fp=chrome&host=vp24.cc.cd&packetEncoding=xudp&sni=vp24.cc.cd&fp=chrome#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.190:2096?sni=vp40.cc.cd&type=ws&host=vp40.cc.cd&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.190:2096?sni=vp40.cc.cd&type=ws&host=vp40.cc.cd&path=/fp=chrome&security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
