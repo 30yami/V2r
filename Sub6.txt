@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/api/v2/feed?ed=2076?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@Evay_vpn
 vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=@Black_Raven_ir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#@Black_Raven_ir کانال تلگرام
 vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=@Black_Raven_ir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#@Capoit
 vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.99:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=/ed?2052#🇨🇦124293 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryptio
 vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@146.103.103.78:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc#تو کانال نتورلد نباشید قطع میشن @networld_vpn
 vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@146.103.103.78:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&security=reality&sid=7bcfc0bc&sni=storage.yandex.net&type=tcp#⛲62@oneclickvpnkeys
 vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@212.34.134.163:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc#channel→@networld_vpn
+vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@212.34.134.163:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc#نتورلد تو تلگرام جستجو کنید
