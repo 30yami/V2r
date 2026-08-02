@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
 ⭕️2 کانفیگ NapsternetV برای دور زدن محدودیت شبانه همراه اول.✅کانفیگ اول اندروید✅کانفیگ دوم آیفون🔑رمز ورود:@FOX_VPN66🔺آموزش اد کردن کانفیگ🔹لینک دانلود و فایل برنامه🔥چهار ss برایدور زدن محدودیت شبانه همراه اولss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.186.216.67:443#1-MCI%F0%9F%9B%A1%EF%B8%8F%40FOX_VPN66ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.165.110:443#2-MCI%F0%9F%9B%A1%EF%B8%8F%40FOX_VPN66ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.203.94.5:443#3-MCI%F0%9F%9B%A1%EF%B8%8F%40FOX_VPN66ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.244.234:443#4-MCI%F0%9F%9B%A1%EF%B8%8F%40FOX_VPN66ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.90.62:443#5-MCI%F0%9F%9B%A1%EF%B8%8F%40FOX_VPN66ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.86.41:443#6-MCI%F0%9F%9B%A1%EF%B8%8F%40FOX_VPN66👇قابل استفاده داخل👇🔗Matsuriپروکسی همه اپراتور ها | رایتل و وای فای
 
 ✅دو ss فعال دیگه هم به پست اضافه شد.
@@ -502,4 +503,3 @@ vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@hu007.bearbeer.digital:443?encrypti
 vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443?encryption=none&fp=&mode=auto&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu007.bearbeer.digital&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AHU
 vless://56eba3f8-94f8-48f2-920b-d79bb042d0bb@104.16.107.139:8880?encryption=none&security=none&type=ws&host=lingering-glade-21ce.61-b6f.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&fp=chrome&host=server3.pegibol940.workers.dev&path=%2FeyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&sni=server3.pegibol940.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&fp=chrome&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=%2F&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
