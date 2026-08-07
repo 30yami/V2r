@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://11f62a8b-762d-4595-aa54-75ecb6977400@ip.sb:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@proxy_kafee : کانال تلگرام
 vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
 vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@proxy_kafee : کانال تلگرام
 vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=trkoolp.lorqino.ir&path=/pa80#@Daily_Configs : کانال تلگرام
@@ -502,4 +503,3 @@ vless://2dc0a3d1-09a3-42e9-b608-da257b03ad63@xn--zn-gpa36i.paydar.site:443?secur
 vless://2dc0a3d1-09a3-42e9-b608-da257b03ad63@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@v2ryNG01 همه نت ها
 vless://2dc0a3d1-09a3-42e9-b608-da257b03ad63@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
-vless://2dfe97eb-a306-4eb1-8f84-71ad4ced2aed@3x-ui-production-2dec.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-2dec.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-2dec.up.railway.app#MTMVPN 21
