@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-jp.emrata.top:443/?type=tcp&encryption=none&flow=&sni=pro-jp.emrata.top&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#日本
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-tr.emrata.top&fp=chrome&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sid=#土耳其
 vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=/&security=none&encryption=none&host=sni.abilim.info&type=httpupgrade#@V2rayng3
@@ -502,4 +503,3 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/ca
 vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&alpn=h2&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#Proxy_mtm 2
 vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oxoel.starleafnet-addd.sbs&fp=chrome&type=ws&allowInsecure=0&sni=oxoel.starleafnet-addd.sbs#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #2
 vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oxoel.starleafnet-addd.sbs&fp=chrome&type=ws&allowInsecure=0&sni=oxoel.starleafnet-addd.sbs#MTMVPN 18
-vless://4a2796e2-eded-4b42-854f-41475f382d30@www.parvian.ir:443?security=reality&encryption=none&pbk=8iZthEek8HsCb3m2YY1jPGOS-WlCC_6VeROra4WuCw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=74d37a95022cc957#MDvpnSec
