@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://ND91608427@44.244.3.114:443?sni=pet-ghost.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://ND91608427@devoted-tapir.rooster465.autos:443?allowInsecure=1&sni=devoted-tapir.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
 trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
@@ -500,6 +503,3 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-0288
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0106
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0109
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%F0%9F%87%A8%F0%9F%87%A6CA-108.181.118.10-0147
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0107
