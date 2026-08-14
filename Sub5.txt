@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://22j0d00lev7mq0yv@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#🇳🇱141921 | ⚡️Telegram = t.me/SOSkeyNET
 hysteria2://22j0d00lev7mq0yv@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#🛗100@oneclickvpnkeys
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#🛗52@oneclickvpnkeys
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#@Daily_Configs
@@ -503,3 +502,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#@mehrosaboran
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@hex_proxy ⁶
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸139757 | ⚡️Telegram = t.me/SOSkeyNET
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸141847 | ⚡️Telegram = t.me/SOSkeyNET
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#configprxy
