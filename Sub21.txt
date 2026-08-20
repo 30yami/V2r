@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de151.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ADE
-vless://54502a61-2af6-40e7-8331-2c9fc40e5903@time.is:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=old-cloud-a96a.rohamsahh90.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=old-cloud-a96a.rohamsahh90.workers.dev#%3E%3E%40freeland8%3A%3AUS
-vless://518de0d4-6ce8-4404-80db-23c4a8806128@www.speedtest.net:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ez-5faafb.esmaoi.workers.dev&path=%2FeyJqdW5rIjoiQkFLTnhqM2tZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=ez-5FAAFb.EsmAoi.wORKeRs.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://4c37df21-0a34-41bf-8bc7-78efd823c03b@172.66.200.130:8880?encryption=none&host=shiny-salad-e491.479.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.38.4.126:443?sni=de126.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3ADE
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2F&security=tls&sni=go.iranfree.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://56eba3f8-94f8-48f2-920b-d79bb042d0bb@104.16.107.139:8880?encryption=none&security=none&type=ws&host=lingering-glade-21ce.61-b6f.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40ShadowsocksM%3A%3AUS
@@ -503,3 +499,7 @@ trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster46
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0239
 trojan://ND91608427@stunning-mite.rooster465.autos:443?security=tls&sni=stunning-mite.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.238.99-0222
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.247.230-0151
+trojan://FH72359861@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.171.97-0221
+trojan://EQ30679154@definite-gazelle.rooster465.autos:443?security=tls&sni=definite-gazelle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.30.133-0493
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0284
+trojan://FH72359861@bright-quagga.rooster465.autos:443?security=tls&sni=bright-quagga.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.14.127-0220
