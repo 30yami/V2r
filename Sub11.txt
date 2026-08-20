@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
+vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#🔥 @free_conf_iran 🔥 4
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#@free_conf_iran 👈 کانفیگ رایگان
 vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 6
@@ -501,5 +503,3 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?security=realit
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#MTMVPN 33
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#🇩🇪DE_2366_@Surfboardv2ray
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?security=reality&type=xhttp&encryption=none&sni=api.getsavesafe.space&sid=62b6d6e64d461d78&fp=chrome&mode=auto&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8# @Napsternetvirani
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?sid=62b6d6e64d461d78&fp=chrome&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&mode=auto&encryption=none&path=/?@TOOTFFARANGI_TOOTFFARANGI?ed=2048&security=reality&type=xhttp&sni=api.getsavesafe.space#@Alpha_v2rayIP
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?sni=api.getsavesafe.space&sid=62b6d6e64d461d78&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&security=reality&type=xhttp&path=/?@TOOTFFARANGI_TOOTFFARANGI?ed=2048&encryption=none&fp=chrome&mode=auto#@Napsternetvirani
