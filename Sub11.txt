@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
+vless://96c52fd7-361e-2cbd-ee38-ab76786638d6@inetchnl-production-9849.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=inetchnl-production-9849.up.railway.app&path=/xhttp-siz10/packet-up/96c52fd7-361e-2cbd-ee38-ab76786638d6&sni=inetchnl-production-9849.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇳🇱@iNetChnl-XHTTP1
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🔥 @free_conf_iran 🔥 6
 vless://9720103b-9514-f22b-08d0-4ded47bec434@147.182.156.111:1161?security=none&encryption=none&host=time.windows.com&headerType=http&type=tcp#𝐕𝐄𝐆𝐀𝐀𝐒_𝐕𝐏𝐍 3
@@ -501,5 +503,3 @@ vless://a9ee1f5f-ee06-4465-bbb7-f23a637a3996@172.67.204.84:8080?security=none&ty
 vless://a9ee1f5f-ee06-4465-bbb7-f23a637a3996@172.67.204.84:8080?security=none&type=ws&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.&path=/Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit?ed=2048#🚀@VPNine1
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://aa817985-4a53-47c0-bbaf-0c121f117685@69.46.46.123:443?encryption=none&security=tls&sni=spiderpanel-production-b008.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&host=spiderpanel-production-b008.up.railway.app&path=/ws/aa817985-4a53-47c0-bbaf-0c121f117685#@Daily_Configs
-vless://aa817985-4a53-47c0-bbaf-0c121f117685@69.46.46.123:443?path=/ws/aa817985-4a53-47c0-bbaf-0c121f117685&security=tls&alpn=http/1.1&encryption=none&host=spiderpanel-production-b008.up.railway.app&fp=chrome&type=ws&sni=spiderpanel-production-b008.up.railway.app#@v2ray_phoenix
-vless://aa817985-4a53-47c0-bbaf-0c121f117685@69.46.46.123:443?path=/ws/aa817985-4a53-47c0-bbaf-0c121f117685&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=spiderpanel-production-b008.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-b008.up.railway.app#@V2ray_Alpha🐮 4

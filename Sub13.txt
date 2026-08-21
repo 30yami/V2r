@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none#@Daily_Configs
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none#@Napsternetvirani
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none&host=/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#filembad-379
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&sni=gb.cdn.cachefleet.com&fp=chrome&insecure=1&allowInsecure=1&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&flow=xtls-rprx-vision#@freenettir
@@ -501,5 +503,3 @@ vless://d2615adf-96c4-414e-9126-eedf9ec9f0c0@cdn4.velnaro.ir:443?&security=tls&f
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#نتورلد تو تلگرام جستجو کنید
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE_2460_@Surfboardv2ray
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
