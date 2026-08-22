@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@confiig_hub
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple
 vless://29ca503d-e6b8-4509-b666-48133f450857@soskeynets.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#🇨🇦139898 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&security=reality&sni=kind-wolf.cdn.cachefleet.com&type=tcp#🇧🇪139840 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://48d28481-1d0f-4e3f-afd2-a0361ca50efa@nimbaha.yousefbn.com.turkcloud.ir:2
 vless://48e6096c-f4c1-9fe0-6db3-8d772611b2a2@inetchnl-production-3be6.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=inetchnl-production-3be6.up.railway.app&path=/xhttp-siz10/packet-up/48e6096c-f4c1-9fe0-6db3-8d772611b2a2&sni=inetchnl-production-3be6.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸@iNetChnl-XHTTP1
 vless://48e8f0d2-004b-589e-1e65-76edac4e051c@x4g-production-5deb.up.railway.app:443?path=/ws/48e8f0d2-004b-589e-1e65-76edac4e051c&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#🚀t.me/iProxyChannel
 vless://48e8f0d2-004b-589e-1e65-76edac4e051c@x4g-production-5deb.up.railway.app:443?path=/ws/48e8f0d2-004b-589e-1e65-76edac4e051c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-5deb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-5deb.up.railway.app#🚀t.me/iProxyChannel
-vless://48f51aa9-dab3-4e05-bdb2-b9856d77cb3d@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸US-🚀@VPNine1
