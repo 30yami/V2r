@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#@bored_vpn
-vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#@v2ray_phoenix
 vless://f6da8274-44be-4599-a8d8-66929c980677@13.143.141.28:2054/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=www.ibm.com&fp=chrome&security=reality&pbk=LxfBal4zumw8Un0P9G-F8auThUm_6jzJviu5jsZ2qGw&sid=2d8775cc&packetEncoding=xudp#荷兰-01
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.178.154:8880?path=/pyip&security=&encryption=none&host=steep-bread-32f0.92-d12.workers.dev&type=ws#🇨🇦152576 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.178.154:8880?path=/pyip&security=&encryption=none&host=steep-bread-32f0.92-d12.workers.dev&type=ws#🇨🇦152578 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vmess://eyJhZGQiOiJqcHdhZG5jYS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 
 vmess://eyJhZGQiOiJqcG50Z3J3cS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWlhb3NoZW56YmNrIiwicG9ydCI6MjA1MiwicHMiOiLnvo7lm73opb/pg6jlh6Tlh7Dln44yIHwgMC41eF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
+
+vmess://eyJhZGQiOiJqcG50Z3J3cS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWlhb3NoZW56YmNrIiwicG9ydCI6MjA1MiwicHMiOiLnvo7lm73opb/pg6jlh6Tlh7Dln44yIHwgMC41eF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
