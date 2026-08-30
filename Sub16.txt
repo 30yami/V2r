@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#@v2raybaaz
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#کانال ما
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#🔵@chillguy_vpn
@@ -502,4 +503,3 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#@v2ray313 کانالمون 😖
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#@Nexus_Panell چنل تلگرام
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#@vmess_ir
