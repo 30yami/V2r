@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 02:12
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 04:17
 vless://7e81824b-35e0-4eb1-89e9-592f0c92aa6b@yx.zhourf2006.dpdns.org:443?encryption=none&security=tls&sni=yx.zhourf2006.dpdns.org&type=ws&path=/#@Daily_Configs
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
@@ -503,3 +502,4 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?securi
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
 vless://9323430f-0c13-4cd0-a84b-639fabcbe018@89.208.113.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.plombir.me&fp=chrome&security=reality&pbk=Vroc9K3YOwnMzCiCp3pkx2EtENF_cLk7GzXe_30nRVY&sid=af&packetEncoding=xudp#法国
 vless://9327fd86-0c43-4cf2-9373-d6d228140b41@5.75.196.249:433?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
+vless://9327fd86-0c43-4cf2-9373-d6d228140b41@5.75.196.249:433?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig

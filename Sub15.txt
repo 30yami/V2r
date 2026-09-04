@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#Telegram: @Configfori
 vless://a706a230-eca0-04da-ca19-42d8cd10129a@69.46.46.106:443?path=/ws/a706a230-eca0-04da-ca19-42d8cd10129a&security=tls&alpn=http/1.1&encryption=none&host=ivory-horizon-976d-production.up.railway.app&fp=chrome&type=ws&sni=ivory-horizon-976d-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?flow=xtls-rprx-vision&encryption=none&security=reality&sni=google.com&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#@v2ray313 کانالمون 😾
@@ -503,3 +502,4 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#@V2ray_Alpha🥨 9
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#@meliproxyy
 vless://bf888993-0769-4e3f-86be-0f738ccf6422@tp.paydar.site:28112?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆:@
+vless://bf888993-0769-4e3f-86be-0f738ccf6422@tp.paydar.site:28112?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆:@v2ryNG01

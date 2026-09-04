@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️542🌐🆕️
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#Channel id: @ConfigV2RayNG 🇷🇸
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?encryption=none&security=reality&sni=rs3.univesalsrv.com&fp=chrome&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf&type=grpc&authority=&serviceName=edge.v2.FeedService&mode=gun#@Daily_Configs
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?encryption=none&security=reality&sni=rs3.univesalsrv.com&fp=chrome&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf&type=grpc&authority=&serviceName=edge.v2.FeedService&mode=gun#@V2ray_confiig
@@ -503,3 +502,4 @@ vless://31f5621c-f67a-c7ba-8501-fd00a31d6766@prisonvpnc-production-8e1b.up.railw
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&path=/&security=none&type=ws#⛑️21@oneclickvpnkeys
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&security=none&type=ws#🩳24@oneclickvpnkeys
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&type=ws&security=none#@V2RAYNG_IP 🌟
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?security=none&encryption=none&type=ws#@FarazV2ray
