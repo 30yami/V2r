@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.5:9008#[040274] - 🇸🇬 Singapore | @freenettir
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#[040275] - 🇱🇹 Lithuania | @freenettir
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@213.183.59.211:9008#[040276] - 🇳🇱 The Netherlands | @freenettir
 ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#[040277] - 🇯🇵 Japan | @freenettir
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#@v2rayng3
@@ -501,5 +503,3 @@ trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&inse
 trojan://t97vdqe0ypvxoapl@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={"xPaddingBytes":"0"}&insecure=0&host=uonshop.global.ssl.fastly.neT&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@uonvpn اختصاصی
 trojan://tripitropa444@45.85.88.194:2174?allowInsecure=1&fp=chrome#کانال ما
 trojan://tripitropa444@45.85.88.194:2174?allowInsecure=1&fp=chrome#⭐️50@oneclickvpnkeys
-trojan://tripitropa444@45.85.88.194:2174?allowInsecure=1&fp=chrome#🇬🇧163762 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://tripitropa444@45.85.88.194:2174?allowInsecure=1&fp=chrome#🇬🇧GB-🚀@VPNine1
