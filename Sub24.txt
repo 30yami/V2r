@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
+
 trojan://2B9cZhVM0V@c.netnor.xyz:23570?security=tls&headerType=none&type=tcp#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
 
 ✅ فروش سرور اختصاصی (VPN) برای دور زدن نت ملی ✅🌐  در تمام طول روز وصل بدون قطعی  24    ساعته حتا در مواقع نت ملی و قطعی ⬇️ مناست گیم 🖲️ ترید 🔥 وب گردی و.. ⭐🖥 برای ios و اندروید و ویندوزسازگار با همه اپراتور ها 👍😂😍😎کانفینگ ها به صورت🌐Http custom🌐V2rayNG🌐NapsternetV 🌐E-V2rayموجود هست ❤️تمامی سرور ها کانفینگ های (vmess-vless)میخورند به انتخاب شما هست✅ با مناسب ترین قیمت و بهترین کیفیت🏃‍♂️حجم به انتخاب خودتون هست ولی زیر ۲۰ گیگ هم موجود نیست🔔با این vpn دیگه نگران اینترنت نیسی چون همیشه با سرعت بالا وصلی 📢پشتیبانی 24 ساعته ✅از الان میتونید  یه سرویس بگیرید که نت ملی اذیت نشید ☑️جهت خرید به آیدی زیر پیام دهید 🌹Pv: @imSirTe3la ✅channel: @Ytte3la ✔️
@@ -501,5 +503,3 @@ vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAy
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
 
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
-
-vless://8899d15d-a022-4b61-b848-87d4de0a034a@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
