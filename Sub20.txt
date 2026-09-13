@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@2.spotify24.ir:5399?security=reality&encryption=none&pbk=QIeY9TjjtwN2mnnH-VLmOcXY5eZ2m1g5FCQURQ5aGwQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=fd21f182c397c023#Free x237 @Outline_Vpn
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@2.spotify24.ir:5399?security=reality&encryption=none&pbk=QIeY9TjjtwN2mnnH-VLmOcXY5eZ2m1g5FCQURQ5aGwQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=fd21f182c397c023#[ 🇩🇪 ] | @Cfox_SerVer
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@2.trialkade.ir:443?security=reality&encryption=none&pbk=AOt89Lj5xZ4Y0OsVT3HUlajl8iUiOHrd3yJ0WVvHzGw&host=play-apps-features.googleusercontent.com&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=2f1b68592eb55247#Free x238 @Outline_Vpn
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@3.sharsna51.ir:443?security=reality&encryption=none&pbk=Z-D9uKkjSZVkoIb_5w2ZxQCnbiy8D2rb3UrjH0CD9jQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=7b36b9b28afece6f#Free x232 @Outline_Vpn
@@ -502,4 +501,5 @@ vmess://eyJhZGQiOiJkZWFybWEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJl
 
 
 vmess://eyJhZGQiOiJkZWFybWIuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYW5jaWhncnQiLCJwb3J0IjoyMDUyLCJwcyI6IuW+t+WbvTIgfCAwLjV4XzEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+
 
