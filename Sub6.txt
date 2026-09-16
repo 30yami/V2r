@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTY2IiwiYWRkIjoiMTA0LjE2LjIxOS4xMDgiLCJwb3J0IjoiODAiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InJ1YmlrYS5pci5nb29nbGUuY29tLnhuLS1jcjhoYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYS54bi0tY3I4aGFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLmFwYXJhdC5jb20uVjJyYXkuY29tLnNoZjIuaXIueG4tLWNyOGhhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYS54bi0tZzI4aC5kbnMtZHluYW1pYy5uZXQuIiwicGF0aCI6Ii9UZWxlZ3JhbS9YVjJyYXkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNjYifQ==
-+»v5\._¶D1`«ë÷B¶¾³W×ðè&oÞz>i¤Ü²p¡,8-¶8µÔh{]hu4nòyÚ/ãÜ6°ßKÐGÿÎrss$¶ÈÃ¸cÂõOã'JÝJB#Åÿßdu/ÙwKkÃÕÇà)¤ÐÑq·õEá8¥³%±qä?S-Y?E<»â÷9@R<·É×
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTU5IiwiYWRkIjoiMTA0LjIwLjIzOS44OCIsInBvcnQiOiI4MCIsImlkIjoiOWFjOTQ3YWEtZGU4Ni00MWMzLTlhNjAtNGMwNjFjN2M5NWYwIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZGwzLnBsb3QuY9GG0LXQvdCw0YDQuNC5LuWKh+aDhdCz0L7Qu9C+0LIw0YDQtdC3LmZpcjNicmFuZC7nhb3li5XogIXov73pgJDpm7fmgaku0L/QvtCz0L7QvdC10LfQsHDQtdC50L0ud29ua2FjYXBpdGFuby5idXp6LiIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNTkifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYwIiwiYWRkIjoiMTA0LjIwLjc3LjEzMSIsInBvcnQiOiI0NDMiLCJpZCI6IjkxYTRlZDFmLWY2OTMtNDY4NS1hNmJlLWYwOTgxZDZmMjYxMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRyZWUuYmxhbmt1Lm1lIiwicGF0aCI6Ii93c3MyODg4NSIsInRscyI6InRscyIsInNuaSI6InJvY2twLmJsYW5rdS5tZSIsInRlc3RfbmFtZSI6IjE2MCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYxIiwiYWRkIjoiYS5iYXJhZGloYS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJhLmJhcmFkaWhhLmNvbSIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImEuYmFyYWRpaGEuY29tIiwidGVzdF9uYW1lIjoiMTYxIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYyIiwiYWRkIjoiMTA4LjE2NS4yMzYuMTQyIiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGVzdF9uYW1lIjoiMTYyIn0=
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%94%A588@oneclickvpnkeys
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%E2%9C%8561@oneclickvpnkeys
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?encryption=none&path=%2F&security=none&type=ws#%F0%9F%94%9213@oneclickvpnkeys
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#Tel-@ProxyMtAlpha😈 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#@ATOVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#@v2rayng3
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia 🇸🇬
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
