@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@srv-waw.kintecolas.com:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#vpnsal
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@srv-waw.kintecolas.com:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#☑➜چنلمون: Express_freevpn@
 vless://4fa0a993-6003-45c1-991e-4c40eae45d38@153.52.92.95:8443?security=reality&encryption=none&pbk=SfzKLQcFvQUq9t7zldsfai_gel-u2093qJXvn8sWlXY&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=e940f4af3553f928#@Shh_Proxy-New²
 vless://4fa0a993-6003-45c1-991e-4c40eae45d38@87.120.106.181:8443?security=reality&encryption=none&pbk=UNxylQLY4RHp8gIhGvV5o5K_Xj053tFm6hkA6eOpZTM&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=641ca295f26e1a25#@Shh_Proxy-New⁴
@@ -503,3 +502,4 @@ vless://695fdf80-e4f8-400f-bb42-f9fdcb8e8267@5.78.139.175:80?security=reality&en
 vless://695fdf80-e4f8-400f-bb42-f9fdcb8e8267@5.78.139.175:80?security=reality&encryption=none&pbk=Si3nHb-uXwCpAXeH8H3WkhfSvRVk6Q5oL5ej04WPglI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.139.175&sid=81c2dc2ca4e93afc#🇺🇸179210 | ⚡️Telegram = t.me/SOSkeyNET
 vless://695fdf80-e4f8-400f-bb42-f9fdcb8e8267@5.78.139.175:80?security=reality&encryption=none&pbk=Si3nHb-uXwCpAXeH8H3WkhfSvRVk6Q5oL5ej04WPglI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.139.175&sid=81c2dc2ca4e93afc#🇺🇸US-🚀@VPNine1
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
+vless://69768555-bf07-4127-8ce5-eed7a0d0baba@sinavm.soft10.ir:443?encryption=none&type=ws&host=sinavm.soft10.ir&path=/assignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&security=tls&fp=chrome&sni=sinavm.soft10.ir&alpn=http/1.1#🇹🇷@SiNAVM کانال تلگرامی
