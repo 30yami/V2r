@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0b05ddba-6e1f-4a77-ac5a-4a9f9d08d543@91.107.144.22:29971?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-11
-vless://0b05ddba-6e1f-4a77-ac5a-4a9f9d08d543@91.107.144.22:29972?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#78
-vless://0b05ddba-6e1f-4a77-ac5a-4a9f9d08d543@91.107.144.22:29979?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray&security=none&type=tcp#@Nap_v2ray🇩🇪
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#T.me/Vpn_Mafia 🇫🇮
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#@v2rayng3
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#TEL;Father_vpn
@@ -503,3 +500,6 @@ vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?security=realit
 vless://202e15ee-7e79-40ad-979f-700e100c21c5@194.110.207.70:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#@fastkanfig کانال تلگرام
 vless://204e245a-f573-4d31-a4f6-eacfd0a6e392@dlv5.far30bazi.ir:8111?security=reality&encryption=none&pbk=NKnJ79aZqPZWW8_xmiZX1o3-4UVZgC-yJsbVnwucaT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rpc.ankr.com&sid=c9c5a6b5c022de8d#@filembad
 vless://204e245a-f573-4d31-a4f6-eacfd0a6e392@dlv5.far30bazi.ir:8111?security=reality&encryption=none&pbk=NKnJ79aZqPZWW8_xmiZX1o3-4UVZgC-yJsbVnwucaT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rpc.ankr.com&sid=c9c5a6b5c022de8d#🇩🇪DE-🚀@VPNine1
+vless://204e245a-f573-4d31-a4f6-eacfd0a6e392@dlv5.far30bazi.ir:8111?security=reality&encryption=none&pbk=NKnJ79aZqPZWW8_xmiZX1o3-4UVZgC-yJsbVnwucaT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rpc.ankr.com&sid=c9c5a6b5c022de8d#🔵@chillguy_vpn
+vless://204e245a-f573-4d31-a4f6-eacfd0a6e392@dlv7.far30bazi.ir:443?security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rpc.ankr.com&sid=5002b5329814b487#@filembad
+vless://204e245a-f573-4d31-a4f6-eacfd0a6e392@dlv7.far30bazi.ir:443?security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rpc.ankr.com&sid=5002b5329814b487#🇩🇪DE-🚀@VPNine1
