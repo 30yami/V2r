@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
-trojan://telegram-id-directvpn@15.223.8.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@13.37.180.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
-trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
-trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎
 vless://--DIGiV2RAY---@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://--DIGiV2RAY---@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
 vless://--JOIN--ELiV2RAY-@tg.ELiV2ray.io.:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&host=ELi.V2ray.motorcycles&security=none#@Hope_Net-join-us-on-Telegram
@@ -503,3 +496,10 @@ vless://1889c089-be4d-4162-b00d-5ac9e3e4525f@dl-cf.f8r.ir:80?mode=auto&path=/dl&
 vless://18bac717-76b7-4673-804a-39b63752b20c@93.152.224.133:443?security=reality&encryption=none&pbk=IYeCWMyOQAzAizI5Ll_bXInQnUpdz_J-l3hTD1dq_ns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=13c51b23da07703c#@bored_vpn
 vless://18bac717-76b7-4673-804a-39b63752b20c@93.152.224.133:443?security=reality&encryption=none&pbk=IYeCWMyOQAzAizI5Ll_bXInQnUpdz_J-l3hTD1dq_ns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=13c51b23da07703c#@mehrosaboran
 vless://18bac717-76b7-4673-804a-39b63752b20c@93.152.224.133:443?security=reality&encryption=none&pbk=IYeCWMyOQAzAizI5Ll_bXInQnUpdz_J-l3hTD1dq_ns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=13c51b23da07703c#Proxy_mtm 🌈
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.197.190.97:443?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com&path=/#🇩🇪DE_541_@Surfboardv2ray
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.7.58:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇳🇱 | 2
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.44.179:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.44.179:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.99.211:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.99.211:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
+vless://19289706-1367-4e48-a2ae-fd533df78270@69.46.46.109:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-5af6.up.railway.app&sni=marzban-node-production-5af6.up.railway.app&fp=chrome&alpn=http/1.1#@V2ray_confiig
