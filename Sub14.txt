@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://814b65e0-7ab3-4fc3-bd1b-452c4c7e6559@chatgpt.com:80?path=/CooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#@VEGAAS_VPN2🇩🇪
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#V2raySaman
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇮🇹 direct
 vless://816e0975-e2c2-4462-8a80-49f06686e9f0@xnzn-gpa36i.paydar.site:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#💫@ATOVPN گیگی ۳۵۰۰
 vless://8172ce99-4146-4dbe-bbd0-cf6533081014@Join.ShhProxy.Site:80?path=/&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#🇩🇪@Hatunnel_vpn+|+WS
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
@@ -500,6 +503,3 @@ vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9cf7c39e-6ba9-489d-be99-adb1f67082e8@italic.dearhossein-taktaz.ir:443?sni=bale.ai&encryption=mlkem768x25519plus.native.0rtt.k9LGUTCm_w6B_wpL-_NQeX_hKYU3Pb1HRamE3zYqDhU&sid=7a4fa74472c79f&path=/@sia_vpn23&mode=stream-one&extra={"mode":"stream-one","xPaddingBytes":"200-1200","xPaddingObfsMode":true,"xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"800-1200","hMaxReusableSecs":"3200","maxConcurrency":"120","maxConnections":0}}&spx=/b63bba4ec67d8c1&type=xhttp&fp=chrome&pbk=kLo9YHZbzPDH448Qssu0qfpeC2179GiVYdbhzSjRs0o&security=reality&host=italic.dearhossein-taktaz.ir#vuzbtjwgwo
 vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?security=reality&encryption=none&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=45b10e93bc618c2c#@leviconfigs🪐-24
-vless://9d328839-6d44-44bb-af3e-075f7f0002d6@cdn.devmixa.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#🇬🇧139804 | ⚡️Telegram = t.me/SOSkeyNET
-vless://9d328839-6d44-44bb-af3e-075f7f0002d6@soskeynets.net:8880?path=/?ed=2082&security=none&encryption=none&host=Goxfxgh.francee1.postshup.ir&type=httpupgrade#🇨🇦139807 | ⚡️Telegram = t.me/SOSkeyNET
-vless://9d35cfa8-266e-4585-9e00-a0adbe83b77d@116.202.23.136:8080?security=&encryption=none&host=wordpress.org&headerType=http&type=tcp#[ 🇩🇪 ] | @Cfox_SerVer
