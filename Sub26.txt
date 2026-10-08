@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%3E%3E%40freeland8%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#%3E%3E%40VmessProtocol%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#%3E%3E%40V2rayNG3%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#%3E%3E%40prrofile_purple%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:443#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%3E%3E%40shadowproxy66%3A%3AXX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%3E%3E%40V2rayNG3%3A%3AXX
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%3E%3E%40shadowproxy66%3A%3AXX
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%3E%3E%40freeland8%3A%3AUS
@@ -503,3 +493,13 @@ vmess://ewogICAgImFkZCI6ICJhei5oazAxLnBhb3Bhb2Nsb3VkLmN5b3UiLAogICAgImFpZCI6IDAs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.14:5001#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-0145
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.14:8882#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-0143
 vmess://ewogICAgImFkZCI6ICIyMDIuNzguMTc0LjIzOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTI3OWRkY2MtMjI1NC00Mjg3LTgyYTItZmNlNTkxZGUxNTJhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDMyNDcxLAogICAgInBzIjogIvCfh7nwn4e3VFItMjAyLjc4LjE3NC4yMzktMDEzOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.252.164-0258
+vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTUzLjE1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnNS56aHVqaWNuMi5jb20iLAogICAgImlkIjogImJmNDYxOWU0LTAxZGMtNDhjYS1iZTA4LTA5NzZiNTQ5NjhjZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42NC4xNTMuMTUwLTAxMzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65523?security=tls&sni=dl.shcuhkt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0136
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4570?security=tls&sni=hnjpntt2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.254.7-0134
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:4988?security=tls&sni=dl.shcujpntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0133
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65520?security=tls&sni=dl.shcujpntt4.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0132
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4573?security=tls&sni=dl.cscujpntt6.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.254.7-0131
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65200?security=tls&sni=ggjpntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0128
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65523?security=tls&sni=dl.shcujpntt5.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0127
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65521?security=tls&sni=dl.shcuhkt2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0126

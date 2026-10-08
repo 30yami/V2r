@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.252.164-0258
-vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTUzLjE1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnNS56aHVqaWNuMi5jb20iLAogICAgImlkIjogImJmNDYxOWU0LTAxZGMtNDhjYS1iZTA4LTA5NzZiNTQ5NjhjZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42NC4xNTMuMTUwLTAxMzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65523?security=tls&sni=dl.shcuhkt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0136
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4570?security=tls&sni=hnjpntt2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.254.7-0134
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:4988?security=tls&sni=dl.shcujpntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0133
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65520?security=tls&sni=dl.shcujpntt4.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0132
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4573?security=tls&sni=dl.cscujpntt6.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.254.7-0131
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65200?security=tls&sni=ggjpntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0128
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65523?security=tls&sni=dl.shcujpntt5.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0127
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65521?security=tls&sni=dl.shcuhkt2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0126
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65526?security=tls&sni=dl.shcuhkt3.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0125
 vmess://ewogICAgImFkZCI6ICIxNDEuMTAxLjExNC44MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInYycmF5MS56aHVqaWNuMi5vcmciLAogICAgImlkIjogIjJiNjFjMzcyLWJhMmEtNGNlYy1iMjIyLTQyYTRkYTNhZWZiNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE0MS4xMDEuMTE0LjgwLTAxMjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@134.195.196.231:8009#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0123
