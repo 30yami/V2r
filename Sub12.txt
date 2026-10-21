@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#@vpnbaz🐞³
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#@vpnbaz🥑
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#🇳🇱@ELiV2ray
 vless://18d817c9-0dfc-4fa9-8214-2df503f0b6eb@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬 @UpsetVPN (به پینگ توجه نکن وصله)
@@ -503,3 +502,4 @@ vless://320ad9cf-da89-4487-8d8d-ec33471f8e4c@aynaz27-montatybgo-shop-ir-producti
 vless://3218f609-8546-44ef-8afc-b6b4ced984bb@104.26.14.229:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=us-cdn.mobileemdad.top&sni=us-cdn.mobileemdad.top&fp=chrome&ech=udp://8.8.8.8#@tootffarangi🍓
 vless://3218f609-8546-44ef-8afc-b6b4ced984bb@162.159.152.4:443?encryption=none&security=tls&type=ws&headerType=none&path=/?ed=2048&host=deu.mobileemdad.top&sni=deu.mobileemdad.top&fp=chrome&alpn=http/1.1&ech=https://download.mobileemdad.top:8443#@tootffarangi🍓
 vless://3218f609-8546-44ef-8afc-b6b4ced984bb@deara.moon-night.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&sid=e64e9f5eefbffc15#@tootffarangi🍓
+vless://3218f609-8546-44ef-8afc-b6b4ced984bb@fln1.mobileemdad.top:42538?encryption=mlkem768x25519plus.native.0rtt.AVXFMcglKPJZWipMVvK2BeYTTGe4QD6Z1Srm7d7Q5Bk&security=none&type=tcp&headerType=http&flow=xtls-rprx-vision&path=/&host=dynu.com#@tootffarangi🍓
