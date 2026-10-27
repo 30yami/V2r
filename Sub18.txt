@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sid=85c86a9863&spx=/ozks0ksxmyHue4v&type=tcp&headerType=none#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#@tootffarangi🍓
 vless://901cb432-3807-404a-9bb8-987814b000ca@213.152.165.200:2092?security=reality&sni=www.apple.com&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a#@VPsave
 vless://901cb432-3807-404a-9bb8-987814b000ca@213.152.165.203:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#@tootffarangi🍓
 vless://901cb432-3807-404a-9bb8-987814b000ca@213.152.165.203:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#[79095] - Telegram : @V2All
@@ -503,3 +501,5 @@ vless://ac0b39e7-9f0c-7b15-8e0d-b8f669dd434a@69.46.46.55:443?path=/ws/ac0b39e7-9
 vless://ac3ef9c7-5732-4726-e7c6-3c73703987c7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️⚡
 vless://ac5424e7-f541-4235-b923-580e3d94aa21@72.56.52.44:443?security=reality&encryption=none&pbk=Fi8t03_zdkmRdXLEgNEXyntW-4Srn6QUeI63ADZ-FhQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pap.pl&sid=43389196e02ca78b#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️625🌐🆕
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
+vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@FarazV2ray
+vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@Nexus_Panell چنل تلگرام

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@FarazV2ray
-vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@Nexus_Panell چنل تلگرام
 vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@V2raySaman
 vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@V2ray_confiig
 vless://ad192c6d-c5ee-4a21-a6bf-85218caa4ef9@192.220.15.222:8443?mode=auto&path=/?@leviconfigs_leviconfigs?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=lfOSEE80tv3mvi9fSBcj-oLKDJm2lmdj1PIMLvKwxRc&fp=chrome&spx=/&type=xhttp&sni=www.amd.com&sid=69#@leviconfigs🪐-1
@@ -503,3 +501,5 @@ vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&e
 vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?mode=gun&security=none&encryption=none&type=grpc#@leviconfigs🪐-9
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#@Qara_atayi | 🇨🇦
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#✅  @vistav2ray کانال ما ✅
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#@Qara_atayi | 🇸🇬
