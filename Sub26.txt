@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇨🇦TM(@AZARBAYJAB1)
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&host=lucasjow.us.ci&path=/Chanel0111Net#Channel : @AZARBAYJAB1
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=/cart/docs/www/proxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#@hopev2ray🤍
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇨🇦TM(@AZARBAYJAB1)
@@ -502,4 +503,3 @@ vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@87.242.94.43:443?encryption=none&ty
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@87.242.94.43:443?encryption=none&type=ws&security=tls&sni=87.242.94.43&path=/api/v2/session/CAgikYAkk4z7&host=87.242.94.43#🇸🇪11 | ⚡Telegram = t.me/ex_proxies
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@87.242.94.43:443?encryption=none&type=ws&security=tls&sni=87.242.94.43&path=/api/v2/session/CAgikYAkk4z7&host=87.242.94.43#🇸🇪12 | ⚡Telegram = t.me/ex_proxies
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=app.streamru1.com&type=tcp#🔹64@oneclickvpnkeys
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru13.net:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=app.streamru13.net#@VPsave

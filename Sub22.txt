@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡03 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡05 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡06 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡10 | ⚡Telegram = t.me/ex_proxies
@@ -502,4 +503,3 @@ vless://XpnTeam-130@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6
 vless://XpnTeam-130@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@appsooner کانال تلگرام 🕊️
 vless://XpnTeam-131@167.82.64.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@GozargahAzad|🇺🇸
 vless://XpnTeam-131@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@V2ray_confiig
-vless://XpnTeam-131@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@VPNConnectd
