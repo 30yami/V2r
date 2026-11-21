@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws?ed=2560&security=tls&encryption=none&host=newgen14.hozheen.ir&type=ws&sni=4dcb0d80784f3081.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=/ws&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@www.speedtest.net:2096?path=/ws?ed&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@91.107.179.0:10105?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&sid=12e321badd07906e&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
@@ -501,5 +503,3 @@ vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@darsadgir.ir:2087?encryption=none&s
 vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@darsadgir.ir:2087?mode=auto&path=/GoRbEh&security=tls&alpn=h2, http/1.1, h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish","sessionIDPlacement":"header","sessionIDKey":"Idempotency-Key","seqPlacement":"header","seqKey":"Upload-Offset","sessionPlacement":"header","sessionKey":"Idempotency-Key"}&insecure=0&host=ratatouille.rahmatokaduie.ir&type=xhttp&allowInsecure=0&sni=ratatouille.rahmatokaduie.ir#🇩🇪All¹⁰ | configprxy
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr3382.shopingggg.ir:80?security=&encryption=none&host=suh.cryptofront.uk&type=ws#@meliproxyy
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr5882.shopingggg.ir:80?security=&encryption=none&host=suh.cryptofront.uk&type=ws#@VPsave
-vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?security=reality&type=tcp&packetEncoding=xudp&sni=d58daft.plp1.h1cloud.net&fp=chrome&sid=a91531ad58c8611c&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
-vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?encryption=none&security=tls&type=ws&path=/ws-tesla&sni=fast.145779.xyz&fp=chrome#@VPsave
